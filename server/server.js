@@ -15,7 +15,7 @@ const PORT = Number(process.env.PORT) || 5173;
 
 /* ---------- 管理后台 ---------- */
 // 管理员密码：可用环境变量 ADMIN_PASS 覆盖（Render 后台可配置），默认 admin123
-const ADMIN_PASS = process.env.ADMIN_PASS || 'admin123';
+const ADMIN_PASS = process.env.ADMIN_PASS || 'Admin@123';
 const adminToken = crypto.createHash('sha256').update('admin:' + ADMIN_PASS + ':vocab').digest('hex');
 
 /* ---------- 数据层：JSON 文件存储 ---------- */
