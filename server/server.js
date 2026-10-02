@@ -344,6 +344,23 @@ function handleApi(req, res, url, db) {
       stats: { totalUsers: users.length, parents: parents.length, children: children.length }
     });
   }
+  // 管理后台：重置用户密码（管理员自行设置新密码）
+  if (method === 'POST' && pathname === '/api/admin/reset-password') {
+    const h = req.headers['authorization'] || '';
+    const tk = h.startsWith('Bearer ') ? h.slice(7) : '';
+    if (tk !== adminToken) return json(res, 401, { error: '管理员鉴权失败' });
+    return readBody(req).then(body => {
+      const username = String(body.username || '').trim();
+      const newPassword = String(body.newPassword || '');
+      const user = db.users.find(u => u.username === username);
+      if (!user) return json(res, 404, { error: '用户不存在' });
+      if (newPassword.length < 4) return json(res, 400, { error: '新密码至少 4 位' });
+      user.salt = crypto.randomBytes(8).toString('hex');
+      user.passwordHash = hashPassword(newPassword, user.salt);
+      saveDB(db);
+      return json(res, 200, { ok: true, username });
+    });
+  }
 
   return json(res, 404, { error: '接口不存在' });
 }

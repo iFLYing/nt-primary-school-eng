@@ -6,6 +6,7 @@
 
   // ---------- 全局状态 ----------
   let TOKEN = localStorage.getItem('token') || '';
+  let GUEST = false;   // 游客模式：仅开放游戏乐园前3款
   let USER = null;
   let LEVELS = [];
   let CURRENT_LEVEL = null;   // 当前关卡对象
@@ -71,14 +72,44 @@
     };
     // 回车提交
     $('loginPass').onkeydown = e => { if (e.key === 'Enter') $('btnLogin').click(); };
+    $('btnGuest').onclick = enterGuest;
   }
 
   function enterApp(token, user) {
+    GUEST = false;
     TOKEN = token; USER = user;
     localStorage.setItem('token', token);
     showView('main');
     showTab('home');
     initMain();
+  }
+
+  // ---------- 游客体验（仅开放游戏乐园前3款） ----------
+  function enterGuest() {
+    GUEST = true; TOKEN = ''; USER = null; PROGRESS = null;
+    showView('main'); showTab('home');
+    applyGuestUI();
+  }
+  function applyGuestUI() {
+    // 顶部：隐藏打卡
+    $('checkinBtn').style.display = 'none';
+    // 游客提示条
+    const tip = $('guestTip'); if (tip) tip.style.display = 'block';
+    // 导航：只保留"游戏乐园"
+    document.querySelectorAll('.navtab').forEach(b => {
+      if (b.dataset.view === 'home') { b.textContent = '🎮 游戏乐园'; b.style.display = ''; }
+      else b.style.display = 'none';
+    });
+    // 隐藏统计行与"选择关卡"区（游客无个人数据、不闯关）
+    document.querySelectorAll('.stats-row').forEach(r => r.style.display = 'none');
+    document.querySelectorAll('#view-home .section-title').forEach(s => { if (s.textContent.indexOf('选择关卡') >= 0) s.style.display = 'none'; });
+    const lg = $('levelGrid'); if (lg) lg.style.display = 'none';
+    // 游戏卡片只保留前3款
+    document.querySelectorAll('.game-card').forEach(card => {
+      if (['wordbuild', 'memory', 'match'].indexOf(card.dataset.game) < 0) card.style.display = 'none';
+    });
+    $('logoutBtn').textContent = '退出';
+    const g = $('guestGoReg'); if (g) g.onclick = logout;
   }
 
   // ---------- 主界面初始化 ----------
@@ -179,6 +210,7 @@
     $('logoutBtn').onclick = logout;
   }
   function logout() {
+    GUEST = false;
     TOKEN = ''; USER = null; PROGRESS = null;
     localStorage.removeItem('token');
     showView('auth');
@@ -386,10 +418,14 @@
 
   // ---------- 管理后台 ----------
   let ADMIN_TOKEN = sessionStorage.getItem('adminToken') || '';
-  function adminFetch(path) {
-    return fetch('/api' + path, { headers: { 'Authorization': 'Bearer ' + ADMIN_TOKEN } })
+  function adminFetch(path, options = {}) {
+    return fetch('/api' + path, {
+      method: options.method || 'GET',
+      headers: { 'Content-Type': 'application/json', 'Authorization': 'Bearer ' + ADMIN_TOKEN },
+      body: options.body ? JSON.stringify(options.body) : undefined
+    })
       .then(r => r.json().catch(() => ({})))
-      .then(d => { if (!d || (d.error && !d.users)) throw new Error(d.error || '请求失败'); return d; });
+      .then(d => { if (d && d.error) throw new Error(d.error); return d; });
   }
   function renderAdmin() {
     const body = $('adminBody');
@@ -412,7 +448,7 @@
         .catch(e => { body.innerHTML = '<div class="admin-login"><p class="msg" style="color:#e53935">' + esc(e.message) + '</p><button id="btnAdminLogout" class="btn btn-ghost btn-block">退出管理</button></div>'; $('btnAdminLogout').onclick = adminLogout; });
     }
   }
-  function adminLogout() { sessionStorage.removeItem('adminToken'); ADMIN_TOKEN = ''; renderAdmin(); }
+  function adminLogout() { sessionStorage.removeItem('adminToken'); ADMIN_TOKEN = ''; showView('main'); showTab('home'); toast('已退出管理后台'); }
   function renderAdminList(body, d) {
     const s = d.stats;
     let h = '<div class="admin-stats">' +
@@ -422,7 +458,7 @@
       '</div>' +
       '<div class="admin-logout"><button id="btnAdminLogout" class="btn btn-ghost">退出管理</button></div>' +
       '<div class="admin-table-wrap"><table class="admin-table"><thead><tr>' +
-      '<th>用户名</th><th>类型</th><th>掌握词</th><th>得分</th><th>通关</th><th>正确率</th><th>打卡天数</th>' +
+      '<th>用户名</th><th>类型</th><th>掌握词</th><th>得分</th><th>通关</th><th>正确率</th><th>打卡天数</th><th>操作</th>' +
       '</tr></thead><tbody>';
     d.users.forEach(u => {
       const p = u.progress || {};
@@ -431,12 +467,25 @@
       h += '<tr><td>' + nm + '</td><td>' + type + '</td>' +
         '<td>' + (p.mastered ?? '-') + '</td><td>' + (p.totalScore ?? '-') + '</td>' +
         '<td>' + (p.completedLevels ?? '-') + '</td><td>' + (p.accuracy ?? '-') + '%</td>' +
-        '<td>' + (p.checkinDays ?? '-') + '</td></tr>';
+        '<td>' + (p.checkinDays ?? '-') + '</td>' +
+        '<td><button class="admin-reset" data-r="' + esc(u.username) + '">重置密码</button></td></tr>';
     });
     h += '</tbody></table></div>' +
       '<div class="admin-note">数据实时读取自服务器；免费实例重启后进度可能清空，想长期保存可升级持久存储。</div>';
     body.innerHTML = h;
     $('btnAdminLogout').onclick = adminLogout;
+    // 重置密码
+    body.querySelectorAll('.admin-reset').forEach(b => {
+      b.onclick = async () => {
+        const username = b.dataset.r;
+        const nu = window.prompt('请输入 ' + username + ' 的新密码（至少 4 位）：');
+        if (!nu || !nu.trim()) return;
+        try {
+          await adminFetch('/admin/reset-password', { method: 'POST', body: { username, newPassword: nu.trim() } });
+          window.alert('✅ 已将 ' + username + ' 的密码重置为：' + nu.trim());
+        } catch (e) { window.alert('重置失败：' + e.message); }
+      };
+    });
   }
 
   // ---------- 导航绑定 ----------
