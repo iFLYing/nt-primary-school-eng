@@ -1,0 +1,6 @@
+# 排除离线包与大文件（无需推送到部署仓库）
+release/
+*.zip
+*.DS_Store
+data/db.json
+/tmp/

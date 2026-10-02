@@ -1,0 +1,8514 @@
+[
+ {
+  "w": "cat",
+  "p": "/kæt/",
+  "pos": "n.",
+  "m": "猫",
+  "e": "The cat is sleeping on the sofa.",
+  "ec": "那只猫正在沙发上睡觉。"
+ },
+ {
+  "w": "dog",
+  "p": "/dɒɡ/",
+  "pos": "n.",
+  "m": "狗",
+  "e": "My dog likes to play in the park.",
+  "ec": "我的狗喜欢在公园里玩。"
+ },
+ {
+  "w": "bird",
+  "p": "/bɜːd/",
+  "pos": "n.",
+  "m": "鸟",
+  "e": "A bird is singing in the tree.",
+  "ec": "一只鸟在树上唱歌。"
+ },
+ {
+  "w": "fish",
+  "p": "/fɪʃ/",
+  "pos": "n.",
+  "m": "鱼",
+  "e": "The fish is swimming in the water.",
+  "ec": "鱼在水里游泳。"
+ },
+ {
+  "w": "horse",
+  "p": "/hɔːs/",
+  "pos": "n.",
+  "m": "马",
+  "e": "The horse runs very fast.",
+  "ec": "马跑得很快。"
+ },
+ {
+  "w": "cow",
+  "p": "/kaʊ/",
+  "pos": "n.",
+  "m": "奶牛",
+  "e": "The cow gives us milk.",
+  "ec": "奶牛给我们牛奶。"
+ },
+ {
+  "w": "pig",
+  "p": "/pɪɡ/",
+  "pos": "n.",
+  "m": "猪",
+  "e": "The pig is very fat.",
+  "ec": "这头猪很胖。"
+ },
+ {
+  "w": "sheep",
+  "p": "/ʃiːp/",
+  "pos": "n.",
+  "m": "绵羊",
+  "e": "There are many sheep on the farm.",
+  "ec": "农场里有很多绵羊。"
+ },
+ {
+  "w": "goat",
+  "p": "/ɡəʊt/",
+  "pos": "n.",
+  "m": "山羊",
+  "e": "The goat likes grass.",
+  "ec": "山羊喜欢吃草。"
+ },
+ {
+  "w": "duck",
+  "p": "/dʌk/",
+  "pos": "n.",
+  "m": "鸭子",
+  "e": "The duck can swim.",
+  "ec": "鸭子会游泳。"
+ },
+ {
+  "w": "chicken",
+  "p": "/ˈtʃɪkɪn/",
+  "pos": "n.",
+  "m": "鸡；鸡肉",
+  "e": "We have chicken for dinner.",
+  "ec": "我们晚餐吃鸡肉。"
+ },
+ {
+  "w": "rabbit",
+  "p": "/ˈræbɪt/",
+  "pos": "n.",
+  "m": "兔子",
+  "e": "The rabbit has long ears.",
+  "ec": "兔子有长长的耳朵。"
+ },
+ {
+  "w": "mouse",
+  "p": "/maʊs/",
+  "pos": "n.",
+  "m": "老鼠",
+  "e": "A mouse is under the bed.",
+  "ec": "一只老鼠在床底下。"
+ },
+ {
+  "w": "tiger",
+  "p": "/ˈtaɪɡə/",
+  "pos": "n.",
+  "m": "老虎",
+  "e": "The tiger is the king of the forest.",
+  "ec": "老虎是森林之王。"
+ },
+ {
+  "w": "lion",
+  "p": "/ˈlaɪən/",
+  "pos": "n.",
+  "m": "狮子",
+  "e": "The lion is very strong.",
+  "ec": "狮子很强壮。"
+ },
+ {
+  "w": "elephant",
+  "p": "/ˈelɪfənt/",
+  "pos": "n.",
+  "m": "大象",
+  "e": "The elephant has a long nose.",
+  "ec": "大象有长长的鼻子。"
+ },
+ {
+  "w": "monkey",
+  "p": "/ˈmʌŋki/",
+  "pos": "n.",
+  "m": "猴子",
+  "e": "The monkey is climbing the tree.",
+  "ec": "猴子在爬树。"
+ },
+ {
+  "w": "bear",
+  "p": "/beə/",
+  "pos": "n.",
+  "m": "熊",
+  "e": "The bear is sleeping in winter.",
+  "ec": "熊在冬天冬眠。"
+ },
+ {
+  "w": "panda",
+  "p": "/ˈpændə/",
+  "pos": "n.",
+  "m": "熊猫",
+  "e": "The panda is from China.",
+  "ec": "熊猫来自中国。"
+ },
+ {
+  "w": "fox",
+  "p": "/fɒks/",
+  "pos": "n.",
+  "m": "狐狸",
+  "e": "The fox is clever.",
+  "ec": "狐狸很聪明。"
+ },
+ {
+  "w": "wolf",
+  "p": "/wʊlf/",
+  "pos": "n.",
+  "m": "狼",
+  "e": "The wolf howls at night.",
+  "ec": "狼在夜里嚎叫。"
+ },
+ {
+  "w": "deer",
+  "p": "/dɪə/",
+  "pos": "n.",
+  "m": "鹿",
+  "e": "The deer is running in the forest.",
+  "ec": "鹿在森林里奔跑。"
+ },
+ {
+  "w": "giraffe",
+  "p": "/dʒəˈrɑːf/",
+  "pos": "n.",
+  "m": "长颈鹿",
+  "e": "The giraffe has a very long neck.",
+  "ec": "长颈鹿有很长的脖子。"
+ },
+ {
+  "w": "zebra",
+  "p": "/ˈzebrə/",
+  "pos": "n.",
+  "m": "斑马",
+  "e": "The zebra has black and white stripes.",
+  "ec": "斑马有黑白条纹。"
+ },
+ {
+  "w": "kangaroo",
+  "p": "/ˌkæŋɡəˈruː/",
+  "pos": "n.",
+  "m": "袋鼠",
+  "e": "The kangaroo jumps very high.",
+  "ec": "袋鼠跳得很高。"
+ },
+ {
+  "w": "snake",
+  "p": "/sneɪk/",
+  "pos": "n.",
+  "m": "蛇",
+  "e": "The snake has no legs.",
+  "ec": "蛇没有腿。"
+ },
+ {
+  "w": "frog",
+  "p": "/frɒɡ/",
+  "pos": "n.",
+  "m": "青蛙",
+  "e": "The frog jumps into the pond.",
+  "ec": "青蛙跳进池塘。"
+ },
+ {
+  "w": "turtle",
+  "p": "/ˈtɜːtl/",
+  "pos": "n.",
+  "m": "乌龟",
+  "e": "The turtle walks slowly.",
+  "ec": "乌龟走得很慢。"
+ },
+ {
+  "w": "shark",
+  "p": "/ʃɑːk/",
+  "pos": "n.",
+  "m": "鲨鱼",
+  "e": "The shark lives in the sea.",
+  "ec": "鲨鱼生活在海里。"
+ },
+ {
+  "w": "whale",
+  "p": "/weɪl/",
+  "pos": "n.",
+  "m": "鲸鱼",
+  "e": "The whale is the biggest animal.",
+  "ec": "鲸鱼是最大的动物。"
+ },
+ {
+  "w": "bee",
+  "p": "/biː/",
+  "pos": "n.",
+  "m": "蜜蜂",
+  "e": "The bee makes honey.",
+  "ec": "蜜蜂酿蜜。"
+ },
+ {
+  "w": "butterfly",
+  "p": "/ˈbʌtəflaɪ/",
+  "pos": "n.",
+  "m": "蝴蝶",
+  "e": "The butterfly is very beautiful.",
+  "ec": "蝴蝶很漂亮。"
+ },
+ {
+  "w": "ant",
+  "p": "/ænt/",
+  "pos": "n.",
+  "m": "蚂蚁",
+  "e": "The ant is very small.",
+  "ec": "蚂蚁很小。"
+ },
+ {
+  "w": "spider",
+  "p": "/ˈspaɪdə/",
+  "pos": "n.",
+  "m": "蜘蛛",
+  "e": "The spider is making a web.",
+  "ec": "蜘蛛在织网。"
+ },
+ {
+  "w": "hen",
+  "p": "/hen/",
+  "pos": "n.",
+  "m": "母鸡",
+  "e": "The hen lays eggs.",
+  "ec": "母鸡下蛋。"
+ },
+ {
+  "w": "rooster",
+  "p": "/ˈruːstə/",
+  "pos": "n.",
+  "m": "公鸡",
+  "e": "The rooster crows in the morning.",
+  "ec": "公鸡早上打鸣。"
+ },
+ {
+  "w": "turkey",
+  "p": "/ˈtɜːki/",
+  "pos": "n.",
+  "m": "火鸡",
+  "e": "We eat turkey at Thanksgiving.",
+  "ec": "感恩节我们吃火鸡。"
+ },
+ {
+  "w": "duckling",
+  "p": "/ˈdʌklɪŋ/",
+  "pos": "n.",
+  "m": "小鸭子"
+ },
+ {
+  "w": "puppy",
+  "p": "/ˈpʌpi/",
+  "pos": "n.",
+  "m": "小狗"
+ },
+ {
+  "w": "kitten",
+  "p": "/ˈkɪtn/",
+  "pos": "n.",
+  "m": "小猫"
+ },
+ {
+  "w": "lamb",
+  "p": "/læm/",
+  "pos": "n.",
+  "m": "小羊羔"
+ },
+ {
+  "w": "donkey",
+  "p": "/ˈdɒŋki/",
+  "pos": "n.",
+  "m": "驴"
+ },
+ {
+  "w": "camel",
+  "p": "/ˈkæml/",
+  "pos": "n.",
+  "m": "骆驼"
+ },
+ {
+  "w": "parrot",
+  "p": "/ˈpærət/",
+  "pos": "n.",
+  "m": "鹦鹉"
+ },
+ {
+  "w": "owl",
+  "p": "/aʊl/",
+  "pos": "n.",
+  "m": "猫头鹰"
+ },
+ {
+  "w": "eagle",
+  "p": "/ˈiːɡl/",
+  "pos": "n.",
+  "m": "老鹰"
+ },
+ {
+  "w": "penguin",
+  "p": "/ˈpeŋɡwɪn/",
+  "pos": "n.",
+  "m": "企鹅"
+ },
+ {
+  "w": "crab",
+  "p": "/kræb/",
+  "pos": "n.",
+  "m": "螃蟹"
+ },
+ {
+  "w": "lobster",
+  "p": "/ˈlɒbstə/",
+  "pos": "n.",
+  "m": "龙虾"
+ },
+ {
+  "w": "seal",
+  "p": "/siːl/",
+  "pos": "n.",
+  "m": "海豹"
+ },
+ {
+  "w": "dolphin",
+  "p": "/ˈdɒlfɪn/",
+  "pos": "n.",
+  "m": "海豚"
+ },
+ {
+  "w": "squirrel",
+  "p": "/ˈskwɪrəl/",
+  "pos": "n.",
+  "m": "松鼠"
+ },
+ {
+  "w": "hedgehog",
+  "p": "/ˈhedʒhɒɡ/",
+  "pos": "n.",
+  "m": "刺猬"
+ },
+ {
+  "w": "mouse",
+  "p": "/maʊs/",
+  "pos": "n.",
+  "m": "小老鼠"
+ },
+ {
+  "w": "bat",
+  "p": "/bæt/",
+  "pos": "n.",
+  "m": "蝙蝠"
+ },
+ {
+  "w": "crocodile",
+  "p": "/ˈkrɒkədaɪl/",
+  "pos": "n.",
+  "m": "鳄鱼"
+ },
+ {
+  "w": "hippo",
+  "p": "/ˈhɪpəʊ/",
+  "pos": "n.",
+  "m": "河马"
+ },
+ {
+  "w": "rhino",
+  "p": "/ˈraɪnəʊ/",
+  "pos": "n.",
+  "m": "犀牛"
+ },
+ {
+  "w": "red",
+  "p": "/red/",
+  "pos": "adj.",
+  "m": "红色的",
+  "e": "I like the red apple.",
+  "ec": "我喜欢这个红苹果。"
+ },
+ {
+  "w": "yellow",
+  "p": "/ˈjeləʊ/",
+  "pos": "adj.",
+  "m": "黄色的",
+  "e": "The sun is yellow.",
+  "ec": "太阳是黄色的。"
+ },
+ {
+  "w": "blue",
+  "p": "/bluː/",
+  "pos": "adj.",
+  "m": "蓝色的",
+  "e": "The sky is blue.",
+  "ec": "天空是蓝色的。"
+ },
+ {
+  "w": "green",
+  "p": "/ɡriːn/",
+  "pos": "adj.",
+  "m": "绿色的",
+  "e": "The grass is green.",
+  "ec": "草是绿色的。"
+ },
+ {
+  "w": "black",
+  "p": "/blæk/",
+  "pos": "adj.",
+  "m": "黑色的",
+  "e": "I have a black cat.",
+  "ec": "我有一只黑猫。"
+ },
+ {
+  "w": "white",
+  "p": "/waɪt/",
+  "pos": "adj.",
+  "m": "白色的",
+  "e": "Snow is white.",
+  "ec": "雪是白色的。"
+ },
+ {
+  "w": "orange",
+  "p": "/ˈɒrɪndʒ/",
+  "pos": "adj./n.",
+  "m": "橙色的；橙子",
+  "e": "The orange is orange.",
+  "ec": "这个橙子是橙色的。"
+ },
+ {
+  "w": "purple",
+  "p": "/ˈpɜːpl/",
+  "pos": "adj.",
+  "m": "紫色的",
+  "e": "I like purple grapes.",
+  "ec": "我喜欢紫葡萄。"
+ },
+ {
+  "w": "pink",
+  "p": "/pɪŋk/",
+  "pos": "adj.",
+  "m": "粉色的",
+  "e": "The dress is pink.",
+  "ec": "这条连衣裙是粉色的。"
+ },
+ {
+  "w": "brown",
+  "p": "/braʊn/",
+  "pos": "adj.",
+  "m": "棕色的",
+  "e": "The bear is brown.",
+  "ec": "这只熊是棕色的。"
+ },
+ {
+  "w": "grey",
+  "p": "/ɡreɪ/",
+  "pos": "adj.",
+  "m": "灰色的"
+ },
+ {
+  "w": "gold",
+  "p": "/ɡəʊld/",
+  "pos": "n./adj.",
+  "m": "金色；金子"
+ },
+ {
+  "w": "silver",
+  "p": "/ˈsɪlvə/",
+  "pos": "n./adj.",
+  "m": "银色；银子"
+ },
+ {
+  "w": "dark",
+  "p": "/dɑːk/",
+  "pos": "adj.",
+  "m": "深色的；黑暗的"
+ },
+ {
+  "w": "light",
+  "p": "/laɪt/",
+  "pos": "adj./n.",
+  "m": "浅色的；光"
+ },
+ {
+  "w": "color",
+  "p": "/ˈkʌlə/",
+  "pos": "n.",
+  "m": "颜色",
+  "e": "What color do you like?",
+  "ec": "你喜欢什么颜色？"
+ },
+ {
+  "w": "colour",
+  "p": "/ˈkʌlə/",
+  "pos": "n.",
+  "m": "颜色"
+ },
+ {
+  "w": "rainbow",
+  "p": "/ˈreɪnbəʊ/",
+  "pos": "n.",
+  "m": "彩虹",
+  "e": "There is a rainbow in the sky.",
+  "ec": "天空有一道彩虹。"
+ },
+ {
+  "w": "colorful",
+  "p": "/ˈkʌləfl/",
+  "pos": "adj.",
+  "m": "色彩缤纷的"
+ },
+ {
+  "w": "circle",
+  "p": "/ˈsɜːkl/",
+  "pos": "n.",
+  "m": "圆形"
+ },
+ {
+  "w": "square",
+  "p": "/skweə/",
+  "pos": "n.",
+  "m": "正方形"
+ },
+ {
+  "w": "triangle",
+  "p": "/ˈtraɪæŋɡl/",
+  "pos": "n.",
+  "m": "三角形"
+ },
+ {
+  "w": "rectangle",
+  "p": "/ˈrektæŋɡl/",
+  "pos": "n.",
+  "m": "长方形"
+ },
+ {
+  "w": "star",
+  "p": "/stɑː/",
+  "pos": "n.",
+  "m": "星形；星星",
+  "e": "The star shines at night.",
+  "ec": "星星在夜晚闪烁。"
+ },
+ {
+  "w": "heart",
+  "p": "/hɑːt/",
+  "pos": "n.",
+  "m": "心形；心脏"
+ },
+ {
+  "w": "diamond",
+  "p": "/ˈdaɪəmənd/",
+  "pos": "n.",
+  "m": "菱形；钻石"
+ },
+ {
+  "w": "shape",
+  "p": "/ʃeɪp/",
+  "pos": "n.",
+  "m": "形状"
+ },
+ {
+  "w": "big",
+  "p": "/bɪɡ/",
+  "pos": "adj.",
+  "m": "大的",
+  "e": "The elephant is big.",
+  "ec": "大象很大。"
+ },
+ {
+  "w": "small",
+  "p": "/smɔːl/",
+  "pos": "adj.",
+  "m": "小的",
+  "e": "The mouse is small.",
+  "ec": "老鼠很小。"
+ },
+ {
+  "w": "long",
+  "p": "/lɒŋ/",
+  "pos": "adj.",
+  "m": "长的",
+  "e": "The snake is long.",
+  "ec": "蛇很长。"
+ },
+ {
+  "w": "short",
+  "p": "/ʃɔːt/",
+  "pos": "adj.",
+  "m": "短的；矮的",
+  "e": "The boy is short.",
+  "ec": "这个男孩个子矮。"
+ },
+ {
+  "w": "tall",
+  "p": "/tɔːl/",
+  "pos": "adj.",
+  "m": "高的",
+  "e": "The giraffe is tall.",
+  "ec": "长颈鹿很高。"
+ },
+ {
+  "w": "round",
+  "p": "/raʊnd/",
+  "pos": "adj.",
+  "m": "圆形的"
+ },
+ {
+  "w": "fat",
+  "p": "/fæt/",
+  "pos": "adj.",
+  "m": "胖的",
+  "e": "The pig is fat.",
+  "ec": "猪很胖。"
+ },
+ {
+  "w": "thin",
+  "p": "/θɪn/",
+  "pos": "adj.",
+  "m": "瘦的；薄的"
+ },
+ {
+  "w": "heavy",
+  "p": "/ˈhevi/",
+  "pos": "adj.",
+  "m": "重的",
+  "e": "This box is heavy.",
+  "ec": "这个箱子很重。"
+ },
+ {
+  "w": "wide",
+  "p": "/waɪd/",
+  "pos": "adj.",
+  "m": "宽的"
+ },
+ {
+  "w": "narrow",
+  "p": "/ˈnærəʊ/",
+  "pos": "adj.",
+  "m": "窄的"
+ },
+ {
+  "w": "thick",
+  "p": "/θɪk/",
+  "pos": "adj.",
+  "m": "厚的"
+ },
+ {
+  "w": "tiny",
+  "p": "/ˈtaɪni/",
+  "pos": "adj.",
+  "m": "极小的"
+ },
+ {
+  "w": "one",
+  "p": "/wʌn/",
+  "pos": "num.",
+  "m": "一",
+  "e": "I have one apple.",
+  "ec": "我有一个苹果。"
+ },
+ {
+  "w": "two",
+  "p": "/tuː/",
+  "pos": "num.",
+  "m": "二",
+  "e": "I have two hands.",
+  "ec": "我有两只手。"
+ },
+ {
+  "w": "three",
+  "p": "/θriː/",
+  "pos": "num.",
+  "m": "三",
+  "e": "There are three books.",
+  "ec": "有三本书。"
+ },
+ {
+  "w": "four",
+  "p": "/fɔː/",
+  "pos": "num.",
+  "m": "四",
+  "e": "The table has four legs.",
+  "ec": "桌子有四条腿。"
+ },
+ {
+  "w": "five",
+  "p": "/faɪv/",
+  "pos": "num.",
+  "m": "五",
+  "e": "I can count to five.",
+  "ec": "我能数到五。"
+ },
+ {
+  "w": "six",
+  "p": "/sɪks/",
+  "pos": "num.",
+  "m": "六"
+ },
+ {
+  "w": "seven",
+  "p": "/ˈsevn/",
+  "pos": "num.",
+  "m": "七"
+ },
+ {
+  "w": "eight",
+  "p": "/eɪt/",
+  "pos": "num.",
+  "m": "八"
+ },
+ {
+  "w": "nine",
+  "p": "/naɪn/",
+  "pos": "num.",
+  "m": "九"
+ },
+ {
+  "w": "ten",
+  "p": "/ten/",
+  "pos": "num.",
+  "m": "十",
+  "e": "I have ten fingers.",
+  "ec": "我有十个手指。"
+ },
+ {
+  "w": "eleven",
+  "p": "/ɪˈlevn/",
+  "pos": "num.",
+  "m": "十一"
+ },
+ {
+  "w": "twelve",
+  "p": "/twelv/",
+  "pos": "num.",
+  "m": "十二"
+ },
+ {
+  "w": "thirteen",
+  "p": "/ˌθɜːˈtiːn/",
+  "pos": "num.",
+  "m": "十三"
+ },
+ {
+  "w": "fourteen",
+  "p": "/ˌfɔːˈtiːn/",
+  "pos": "num.",
+  "m": "十四"
+ },
+ {
+  "w": "fifteen",
+  "p": "/ˌfɪfˈtiːn/",
+  "pos": "num.",
+  "m": "十五"
+ },
+ {
+  "w": "sixteen",
+  "p": "/ˌsɪksˈtiːn/",
+  "pos": "num.",
+  "m": "十六"
+ },
+ {
+  "w": "seventeen",
+  "p": "/ˌsevnˈtiːn/",
+  "pos": "num.",
+  "m": "十七"
+ },
+ {
+  "w": "eighteen",
+  "p": "/ˌeɪˈtiːn/",
+  "pos": "num.",
+  "m": "十八"
+ },
+ {
+  "w": "nineteen",
+  "p": "/ˌnaɪnˈtiːn/",
+  "pos": "num.",
+  "m": "十九"
+ },
+ {
+  "w": "twenty",
+  "p": "/ˈtwenti/",
+  "pos": "num.",
+  "m": "二十",
+  "e": "There are twenty students.",
+  "ec": "有二十名学生。"
+ },
+ {
+  "w": "thirty",
+  "p": "/ˈθɜːti/",
+  "pos": "num.",
+  "m": "三十"
+ },
+ {
+  "w": "forty",
+  "p": "/ˈfɔːti/",
+  "pos": "num.",
+  "m": "四十"
+ },
+ {
+  "w": "fifty",
+  "p": "/ˈfɪfti/",
+  "pos": "num.",
+  "m": "五十"
+ },
+ {
+  "w": "sixty",
+  "p": "/ˈsɪksti/",
+  "pos": "num.",
+  "m": "六十"
+ },
+ {
+  "w": "seventy",
+  "p": "/ˈsevnti/",
+  "pos": "num.",
+  "m": "七十"
+ },
+ {
+  "w": "eighty",
+  "p": "/ˈeɪti/",
+  "pos": "num.",
+  "m": "八十"
+ },
+ {
+  "w": "ninety",
+  "p": "/ˈnaɪnti/",
+  "pos": "num.",
+  "m": "九十"
+ },
+ {
+  "w": "hundred",
+  "p": "/ˈhʌndrəd/",
+  "pos": "num.",
+  "m": "百",
+  "e": "There are one hundred books.",
+  "ec": "有一百本书。"
+ },
+ {
+  "w": "thousand",
+  "p": "/ˈθaʊznd/",
+  "pos": "num.",
+  "m": "千"
+ },
+ {
+  "w": "first",
+  "p": "/fɜːst/",
+  "pos": "num.",
+  "m": "第一",
+  "e": "She is the first in class.",
+  "ec": "她是班上第一名。"
+ },
+ {
+  "w": "second",
+  "p": "/ˈsekənd/",
+  "pos": "num.",
+  "m": "第二"
+ },
+ {
+  "w": "third",
+  "p": "/θɜːd/",
+  "pos": "num.",
+  "m": "第三"
+ },
+ {
+  "w": "number",
+  "p": "/ˈnʌmbə/",
+  "pos": "n.",
+  "m": "数字；号码",
+  "e": "What is your phone number?",
+  "ec": "你的电话号码是多少？"
+ },
+ {
+  "w": "zero",
+  "p": "/ˈzɪərəʊ/",
+  "pos": "num.",
+  "m": "零"
+ },
+ {
+  "w": "half",
+  "p": "/hɑːf/",
+  "pos": "n.",
+  "m": "一半",
+  "e": "Give me half of the cake.",
+  "ec": "给我一半蛋糕。"
+ },
+ {
+  "w": "double",
+  "p": "/ˈdʌbl/",
+  "pos": "adj.",
+  "m": "双的；两倍的"
+ },
+ {
+  "w": "pair",
+  "p": "/peə/",
+  "pos": "n.",
+  "m": "一双；一对",
+  "e": "I need a pair of shoes.",
+  "ec": "我需要一双鞋。"
+ },
+ {
+  "w": "a few",
+  "p": "/ə fjuː/",
+  "pos": "pron.",
+  "m": "几个"
+ },
+ {
+  "w": "some",
+  "p": "/sʌm/",
+  "pos": "adj./pron.",
+  "m": "一些",
+  "e": "I have some friends.",
+  "ec": "我有一些朋友。"
+ },
+ {
+  "w": "many",
+  "p": "/ˈmeni/",
+  "pos": "adj.",
+  "m": "许多",
+  "e": "There are many people.",
+  "ec": "有很多人。"
+ },
+ {
+  "w": "much",
+  "p": "/mʌtʃ/",
+  "pos": "adj.",
+  "m": "许多（不可数）"
+ },
+ {
+  "w": "more",
+  "p": "/mɔː/",
+  "pos": "adj./adv.",
+  "m": "更多",
+  "e": "I want more milk.",
+  "ec": "我想要更多牛奶。"
+ },
+ {
+  "w": "most",
+  "p": "/məʊst/",
+  "pos": "adj.",
+  "m": "最多的"
+ },
+ {
+  "w": "all",
+  "p": "/ɔːl/",
+  "pos": "pron.",
+  "m": "全部",
+  "e": "All the students are here.",
+  "ec": "所有学生都在这里。"
+ },
+ {
+  "w": "every",
+  "p": "/ˈevri/",
+  "pos": "adj.",
+  "m": "每个",
+  "e": "Every day I read English.",
+  "ec": "我每天读英语。"
+ },
+ {
+  "w": "time",
+  "p": "/taɪm/",
+  "pos": "n.",
+  "m": "时间",
+  "e": "What time is it now?",
+  "ec": "现在几点了？"
+ },
+ {
+  "w": "clock",
+  "p": "/klɒk/",
+  "pos": "n.",
+  "m": "时钟",
+  "e": "The clock says seven o'clock.",
+  "ec": "时钟显示七点。"
+ },
+ {
+  "w": "hour",
+  "p": "/ˈaʊə/",
+  "pos": "n.",
+  "m": "小时",
+  "e": "There are sixty minutes in an hour.",
+  "ec": "一小时有六十分钟。"
+ },
+ {
+  "w": "minute",
+  "p": "/ˈmɪnɪt/",
+  "pos": "n.",
+  "m": "分钟"
+ },
+ {
+  "w": "second",
+  "p": "/ˈsekənd/",
+  "pos": "n.",
+  "m": "秒"
+ },
+ {
+  "w": "morning",
+  "p": "/ˈmɔːnɪŋ/",
+  "pos": "n.",
+  "m": "早晨",
+  "e": "I get up in the morning.",
+  "ec": "我早上起床。"
+ },
+ {
+  "w": "afternoon",
+  "p": "/ˌɑːftəˈnuːn/",
+  "pos": "n.",
+  "m": "下午",
+  "e": "We play football in the afternoon.",
+  "ec": "我们下午踢足球。"
+ },
+ {
+  "w": "evening",
+  "p": "/ˈiːvnɪŋ/",
+  "pos": "n.",
+  "m": "晚上",
+  "e": "I watch TV in the evening.",
+  "ec": "我晚上看电视。"
+ },
+ {
+  "w": "night",
+  "p": "/naɪt/",
+  "pos": "n.",
+  "m": "夜晚",
+  "e": "I sleep at night.",
+  "ec": "我夜里睡觉。"
+ },
+ {
+  "w": "noon",
+  "p": "/nuːn/",
+  "pos": "n.",
+  "m": "中午"
+ },
+ {
+  "w": "today",
+  "p": "/təˈdeɪ/",
+  "pos": "n./adv.",
+  "m": "今天",
+  "e": "Today is sunny.",
+  "ec": "今天是晴天。"
+ },
+ {
+  "w": "tomorrow",
+  "p": "/təˈmɒrəʊ/",
+  "pos": "n./adv.",
+  "m": "明天",
+  "e": "I will go home tomorrow.",
+  "ec": "我明天回家。"
+ },
+ {
+  "w": "yesterday",
+  "p": "/ˈjestədeɪ/",
+  "pos": "n./adv.",
+  "m": "昨天",
+  "e": "I was happy yesterday.",
+  "ec": "我昨天很开心。"
+ },
+ {
+  "w": "week",
+  "p": "/wiːk/",
+  "pos": "n.",
+  "m": "星期",
+  "e": "A week has seven days.",
+  "ec": "一周有七天。"
+ },
+ {
+  "w": "month",
+  "p": "/mʌnθ/",
+  "pos": "n.",
+  "m": "月份",
+  "e": "June is a hot month.",
+  "ec": "六月是炎热的月份。"
+ },
+ {
+  "w": "year",
+  "p": "/jɪə/",
+  "pos": "n.",
+  "m": "年",
+  "e": "A year has twelve months.",
+  "ec": "一年有十二个月。"
+ },
+ {
+  "w": "Monday",
+  "p": "/ˈmʌndeɪ/",
+  "pos": "n.",
+  "m": "星期一",
+  "e": "We have art on Monday.",
+  "ec": "我们星期一有美术课。"
+ },
+ {
+  "w": "Tuesday",
+  "p": "/ˈtjuːzdeɪ/",
+  "pos": "n.",
+  "m": "星期二"
+ },
+ {
+  "w": "Wednesday",
+  "p": "/ˈwenzdeɪ/",
+  "pos": "n.",
+  "m": "星期三"
+ },
+ {
+  "w": "Thursday",
+  "p": "/ˈθɜːzdeɪ/",
+  "pos": "n.",
+  "m": "星期四"
+ },
+ {
+  "w": "Friday",
+  "p": "/ˈfraɪdeɪ/",
+  "pos": "n.",
+  "m": "星期五",
+  "e": "Friday is my favorite day.",
+  "ec": "星期五是我最喜欢的一天。"
+ },
+ {
+  "w": "Saturday",
+  "p": "/ˈsætədeɪ/",
+  "pos": "n.",
+  "m": "星期六",
+  "e": "We play on Saturday.",
+  "ec": "我们星期六玩耍。"
+ },
+ {
+  "w": "Sunday",
+  "p": "/ˈsʌndeɪ/",
+  "pos": "n.",
+  "m": "星期日",
+  "e": "We go to church on Sunday.",
+  "ec": "我们星期日去教堂。"
+ },
+ {
+  "w": "weekend",
+  "p": "/ˌwiːkˈend/",
+  "pos": "n.",
+  "m": "周末",
+  "e": "I relax at the weekend.",
+  "ec": "我周末放松。"
+ },
+ {
+  "w": "weekday",
+  "p": "/ˈwiːkdeɪ/",
+  "pos": "n.",
+  "m": "工作日"
+ },
+ {
+  "w": "January",
+  "p": "/ˈdʒænjuəri/",
+  "pos": "n.",
+  "m": "一月"
+ },
+ {
+  "w": "February",
+  "p": "/ˈfebruəri/",
+  "pos": "n.",
+  "m": "二月"
+ },
+ {
+  "w": "March",
+  "p": "/mɑːtʃ/",
+  "pos": "n.",
+  "m": "三月"
+ },
+ {
+  "w": "April",
+  "p": "/ˈeɪprəl/",
+  "pos": "n.",
+  "m": "四月",
+  "e": "April is my birthday month.",
+  "ec": "四月是我的生日月。"
+ },
+ {
+  "w": "May",
+  "p": "/meɪ/",
+  "pos": "n.",
+  "m": "五月"
+ },
+ {
+  "w": "June",
+  "p": "/dʒuːn/",
+  "pos": "n.",
+  "m": "六月"
+ },
+ {
+  "w": "July",
+  "p": "/dʒʊˈlaɪ/",
+  "pos": "n.",
+  "m": "七月"
+ },
+ {
+  "w": "August",
+  "p": "/ˈɔːɡəst/",
+  "pos": "n.",
+  "m": "八月"
+ },
+ {
+  "w": "September",
+  "p": "/sepˈtembə/",
+  "pos": "n.",
+  "m": "九月",
+  "e": "School starts in September.",
+  "ec": "学校九月开学。"
+ },
+ {
+  "w": "October",
+  "p": "/ɒkˈtəʊbə/",
+  "pos": "n.",
+  "m": "十月"
+ },
+ {
+  "w": "November",
+  "p": "/nəʊˈvembə/",
+  "pos": "n.",
+  "m": "十一月"
+ },
+ {
+  "w": "December",
+  "p": "/dɪˈsembə/",
+  "pos": "n.",
+  "m": "十二月",
+  "e": "December is the last month.",
+  "ec": "十二月是最后一个月。"
+ },
+ {
+  "w": "spring",
+  "p": "/sprɪŋ/",
+  "pos": "n.",
+  "m": "春天",
+  "e": "Flowers bloom in spring.",
+  "ec": "花在春天开放。"
+ },
+ {
+  "w": "summer",
+  "p": "/ˈsʌmə/",
+  "pos": "n.",
+  "m": "夏天",
+  "e": "I swim in summer.",
+  "ec": "我夏天游泳。"
+ },
+ {
+  "w": "autumn",
+  "p": "/ˈɔːtəm/",
+  "pos": "n.",
+  "m": "秋天",
+  "e": "Leaves fall in autumn.",
+  "ec": "树叶在秋天落下。"
+ },
+ {
+  "w": "winter",
+  "p": "/ˈwɪntə/",
+  "pos": "n.",
+  "m": "冬天",
+  "e": "It is cold in winter.",
+  "ec": "冬天很冷。"
+ },
+ {
+  "w": "season",
+  "p": "/ˈsiːzn/",
+  "pos": "n.",
+  "m": "季节",
+  "e": "There are four seasons in a year.",
+  "ec": "一年有四个季节。"
+ },
+ {
+  "w": "early",
+  "p": "/ˈɜːli/",
+  "pos": "adv./adj.",
+  "m": "早",
+  "e": "I get up early.",
+  "ec": "我起得很早。"
+ },
+ {
+  "w": "late",
+  "p": "/leɪt/",
+  "pos": "adv./adj.",
+  "m": "晚",
+  "e": "Do not be late for school.",
+  "ec": "上学不要迟到。"
+ },
+ {
+  "w": "now",
+  "p": "/naʊ/",
+  "pos": "adv.",
+  "m": "现在",
+  "e": "Let's go now.",
+  "ec": "我们现在走吧。"
+ },
+ {
+  "w": "then",
+  "p": "/ðen/",
+  "pos": "adv.",
+  "m": "然后；那时"
+ },
+ {
+  "w": "usually",
+  "p": "/ˈjuːʒuəli/",
+  "pos": "adv.",
+  "m": "通常",
+  "e": "I usually read before bed.",
+  "ec": "我通常睡前阅读。"
+ },
+ {
+  "w": "often",
+  "p": "/ˈɒfn/",
+  "pos": "adv.",
+  "m": "经常",
+  "e": "We often play together.",
+  "ec": "我们经常一起玩。"
+ },
+ {
+  "w": "sometimes",
+  "p": "/ˈsʌmtaɪmz/",
+  "pos": "adv.",
+  "m": "有时",
+  "e": "Sometimes I walk to school.",
+  "ec": "有时我走路去学校。"
+ },
+ {
+  "w": "always",
+  "p": "/ˈɔːlweɪz/",
+  "pos": "adv.",
+  "m": "总是",
+  "e": "I always brush my teeth.",
+  "ec": "我总是刷牙。"
+ },
+ {
+  "w": "weather",
+  "p": "/ˈweðə/",
+  "pos": "n.",
+  "m": "天气",
+  "e": "How is the weather today?",
+  "ec": "今天天气怎么样？"
+ },
+ {
+  "w": "sun",
+  "p": "/sʌn/",
+  "pos": "n.",
+  "m": "太阳",
+  "e": "The sun is bright.",
+  "ec": "太阳很明亮。"
+ },
+ {
+  "w": "sunny",
+  "p": "/ˈsʌni/",
+  "pos": "adj.",
+  "m": "晴朗的",
+  "e": "It is sunny today.",
+  "ec": "今天晴空万里。"
+ },
+ {
+  "w": "rain",
+  "p": "/reɪn/",
+  "pos": "n./v.",
+  "m": "雨；下雨",
+  "e": "It is raining outside.",
+  "ec": "外面正在下雨。"
+ },
+ {
+  "w": "rainy",
+  "p": "/ˈreɪni/",
+  "pos": "adj.",
+  "m": "下雨的",
+  "e": "I take an umbrella on rainy days.",
+  "ec": "下雨天我带伞。"
+ },
+ {
+  "w": "cloud",
+  "p": "/klaʊd/",
+  "pos": "n.",
+  "m": "云",
+  "e": "The cloud is white.",
+  "ec": "云是白色的。"
+ },
+ {
+  "w": "cloudy",
+  "p": "/ˈklaʊdi/",
+  "pos": "adj.",
+  "m": "多云的",
+  "e": "It is cloudy today.",
+  "ec": "今天多云。"
+ },
+ {
+  "w": "wind",
+  "p": "/wɪnd/",
+  "pos": "n.",
+  "m": "风",
+  "e": "The wind blows the leaves.",
+  "ec": "风吹动树叶。"
+ },
+ {
+  "w": "windy",
+  "p": "/ˈwɪndi/",
+  "pos": "adj.",
+  "m": "有风的",
+  "e": "It is windy in autumn.",
+  "ec": "秋天多风。"
+ },
+ {
+  "w": "snow",
+  "p": "/snəʊ/",
+  "pos": "n./v.",
+  "m": "雪；下雪",
+  "e": "It snows in winter.",
+  "ec": "冬天下雪。"
+ },
+ {
+  "w": "snowy",
+  "p": "/ˈsnəʊi/",
+  "pos": "adj.",
+  "m": "下雪的",
+  "e": "It is a snowy day.",
+  "ec": "这是一个下雪天。"
+ },
+ {
+  "w": "snowman",
+  "p": "/ˈsnəʊmæn/",
+  "pos": "n.",
+  "m": "雪人",
+  "e": "We make a snowman in winter.",
+  "ec": "冬天我们堆雪人。"
+ },
+ {
+  "w": "ice",
+  "p": "/aɪs/",
+  "pos": "n.",
+  "m": "冰",
+  "e": "The ice is very cold.",
+  "ec": "冰很冷。"
+ },
+ {
+  "w": "hot",
+  "p": "/hɒt/",
+  "pos": "adj.",
+  "m": "热的",
+  "e": "It is hot in summer.",
+  "ec": "夏天很热。"
+ },
+ {
+  "w": "cold",
+  "p": "/kəʊld/",
+  "pos": "adj.",
+  "m": "冷的",
+  "e": "It is cold outside.",
+  "ec": "外面很冷。"
+ },
+ {
+  "w": "warm",
+  "p": "/wɔːm/",
+  "pos": "adj.",
+  "m": "温暖的",
+  "e": "Spring is warm.",
+  "ec": "春天很温暖。"
+ },
+ {
+  "w": "cool",
+  "p": "/kuːl/",
+  "pos": "adj.",
+  "m": "凉爽的",
+  "e": "The breeze is cool.",
+  "ec": "微风很凉爽。"
+ },
+ {
+  "w": "storm",
+  "p": "/stɔːm/",
+  "pos": "n.",
+  "m": "暴风雨",
+  "e": "The storm is coming.",
+  "ec": "暴风雨要来了。"
+ },
+ {
+  "w": "thunder",
+  "p": "/ˈθʌndə/",
+  "pos": "n.",
+  "m": "雷"
+ },
+ {
+  "w": "lightning",
+  "p": "/ˈlaɪtnɪŋ/",
+  "pos": "n.",
+  "m": "闪电"
+ },
+ {
+  "w": "fog",
+  "p": "/fɒɡ/",
+  "pos": "n.",
+  "m": "雾",
+  "e": "The fog is thick this morning.",
+  "ec": "今早雾很浓。"
+ },
+ {
+  "w": "foggy",
+  "p": "/ˈfɒɡi/",
+  "pos": "adj.",
+  "m": "有雾的"
+ },
+ {
+  "w": "temperature",
+  "p": "/ˈtemprətʃə/",
+  "pos": "n.",
+  "m": "温度"
+ },
+ {
+  "w": "degree",
+  "p": "/dɪˈɡriː/",
+  "pos": "n.",
+  "m": "度"
+ },
+ {
+  "w": "wet",
+  "p": "/wet/",
+  "pos": "adj.",
+  "m": "湿的",
+  "e": "My shoes are wet.",
+  "ec": "我的鞋湿了。"
+ },
+ {
+  "w": "dry",
+  "p": "/draɪ/",
+  "pos": "adj.",
+  "m": "干的"
+ },
+ {
+  "w": "umbrella",
+  "p": "/ʌmˈbrelə/",
+  "pos": "n.",
+  "m": "雨伞",
+  "e": "Take your umbrella.",
+  "ec": "带上你的雨伞。"
+ },
+ {
+  "w": "sky",
+  "p": "/skaɪ/",
+  "pos": "n.",
+  "m": "天空",
+  "e": "The sky is blue.",
+  "ec": "天空是蓝色的。"
+ },
+ {
+  "w": "moon",
+  "p": "/muːn/",
+  "pos": "n.",
+  "m": "月亮",
+  "e": "The moon is round tonight.",
+  "ec": "今晚月亮很圆。"
+ },
+ {
+  "w": "star",
+  "p": "/stɑː/",
+  "pos": "n.",
+  "m": "星星"
+ },
+ {
+  "w": "earth",
+  "p": "/ɜːθ/",
+  "pos": "n.",
+  "m": "地球",
+  "e": "The earth goes around the sun.",
+  "ec": "地球绕着太阳转。"
+ },
+ {
+  "w": "world",
+  "p": "/wɜːld/",
+  "pos": "n.",
+  "m": "世界",
+  "e": "The world is big.",
+  "ec": "世界很大。"
+ },
+ {
+  "w": "snow",
+  "p": "/snəʊ/",
+  "pos": "n.",
+  "m": "雪"
+ },
+ {
+  "w": "rain",
+  "p": "/reɪn/",
+  "pos": "n.",
+  "m": "雨"
+ },
+ {
+  "w": "head",
+  "p": "/hed/",
+  "pos": "n.",
+  "m": "头",
+  "e": "I nod my head.",
+  "ec": "我点点头。"
+ },
+ {
+  "w": "hair",
+  "p": "/heə/",
+  "pos": "n.",
+  "m": "头发",
+  "e": "Her hair is long.",
+  "ec": "她的头发很长。"
+ },
+ {
+  "w": "eye",
+  "p": "/aɪ/",
+  "pos": "n.",
+  "m": "眼睛",
+  "e": "I see with my eyes.",
+  "ec": "我用眼睛看。"
+ },
+ {
+  "w": "ear",
+  "p": "/ɪə/",
+  "pos": "n.",
+  "m": "耳朵",
+  "e": "I hear with my ears.",
+  "ec": "我用耳朵听。"
+ },
+ {
+  "w": "nose",
+  "p": "/nəʊz/",
+  "pos": "n.",
+  "m": "鼻子",
+  "e": "I smell with my nose.",
+  "ec": "我用鼻子闻。"
+ },
+ {
+  "w": "mouth",
+  "p": "/maʊθ/",
+  "pos": "n.",
+  "m": "嘴",
+  "e": "I eat with my mouth.",
+  "ec": "我用嘴吃东西。"
+ },
+ {
+  "w": "tooth",
+  "p": "/tuːθ/",
+  "pos": "n.",
+  "m": "牙齿",
+  "e": "Brush your teeth every day.",
+  "ec": "每天刷牙。"
+ },
+ {
+  "w": "teeth",
+  "p": "/tiːθ/",
+  "pos": "n.",
+  "m": "牙齿（复数）"
+ },
+ {
+  "w": "tongue",
+  "p": "/tʌŋ/",
+  "pos": "n.",
+  "m": "舌头"
+ },
+ {
+  "w": "face",
+  "p": "/feɪs/",
+  "pos": "n.",
+  "m": "脸",
+  "e": "Wash your face.",
+  "ec": "洗洗你的脸。"
+ },
+ {
+  "w": "neck",
+  "p": "/nek/",
+  "pos": "n.",
+  "m": "脖子"
+ },
+ {
+  "w": "shoulder",
+  "p": "/ˈʃəʊldə/",
+  "pos": "n.",
+  "m": "肩膀"
+ },
+ {
+  "w": "arm",
+  "p": "/ɑːm/",
+  "pos": "n.",
+  "m": "手臂",
+  "e": "Raise your arm.",
+  "ec": "举起你的手臂。"
+ },
+ {
+  "w": "hand",
+  "p": "/hænd/",
+  "pos": "n.",
+  "m": "手",
+  "e": "Wash your hands.",
+  "ec": "洗洗你的手。"
+ },
+ {
+  "w": "finger",
+  "p": "/ˈfɪŋɡə/",
+  "pos": "n.",
+  "m": "手指"
+ },
+ {
+  "w": "leg",
+  "p": "/leɡ/",
+  "pos": "n.",
+  "m": "腿",
+  "e": "My leg hurts.",
+  "ec": "我的腿疼。"
+ },
+ {
+  "w": "foot",
+  "p": "/fʊt/",
+  "pos": "n.",
+  "m": "脚",
+  "e": "I hurt my foot.",
+  "ec": "我伤了脚。"
+ },
+ {
+  "w": "feet",
+  "p": "/fiːt/",
+  "pos": "n.",
+  "m": "脚（复数）"
+ },
+ {
+  "w": "knee",
+  "p": "/niː/",
+  "pos": "n.",
+  "m": "膝盖"
+ },
+ {
+  "w": "body",
+  "p": "/ˈbɒdi/",
+  "pos": "n.",
+  "m": "身体",
+  "e": "Exercise keeps your body healthy.",
+  "ec": "锻炼让身体保持健康。"
+ },
+ {
+  "w": "back",
+  "p": "/bæk/",
+  "pos": "n.",
+  "m": "背"
+ },
+ {
+  "w": "chest",
+  "p": "/tʃest/",
+  "pos": "n.",
+  "m": "胸"
+ },
+ {
+  "w": "stomach",
+  "p": "/ˈstʌmək/",
+  "pos": "n.",
+  "m": "胃；肚子"
+ },
+ {
+  "w": "heart",
+  "p": "/hɑːt/",
+  "pos": "n.",
+  "m": "心脏"
+ },
+ {
+  "w": "blood",
+  "p": "/blʌd/",
+  "pos": "n.",
+  "m": "血"
+ },
+ {
+  "w": "bone",
+  "p": "/bəʊn/",
+  "pos": "n.",
+  "m": "骨头"
+ },
+ {
+  "w": "skin",
+  "p": "/skɪn/",
+  "pos": "n.",
+  "m": "皮肤"
+ },
+ {
+  "w": "muscle",
+  "p": "/ˈmʌsl/",
+  "pos": "n.",
+  "m": "肌肉"
+ },
+ {
+  "w": "brain",
+  "p": "/breɪn/",
+  "pos": "n.",
+  "m": "大脑"
+ },
+ {
+  "w": "beard",
+  "p": "/bɪəd/",
+  "pos": "n.",
+  "m": "胡须"
+ },
+ {
+  "w": "eyebrow",
+  "p": "/ˈaɪbraʊ/",
+  "pos": "n.",
+  "m": "眉毛"
+ },
+ {
+  "w": "eyelash",
+  "p": "/ˈaɪlæʃ/",
+  "pos": "n.",
+  "m": "睫毛"
+ },
+ {
+  "w": "chin",
+  "p": "/tʃɪn/",
+  "pos": "n.",
+  "m": "下巴"
+ },
+ {
+  "w": "cheek",
+  "p": "/tʃiːk/",
+  "pos": "n.",
+  "m": "脸颊"
+ },
+ {
+  "w": "forehead",
+  "p": "/ˈfɔːhed/",
+  "pos": "n.",
+  "m": "额头"
+ },
+ {
+  "w": "toe",
+  "p": "/təʊ/",
+  "pos": "n.",
+  "m": "脚趾"
+ },
+ {
+  "w": "waist",
+  "p": "/weɪst/",
+  "pos": "n.",
+  "m": "腰"
+ },
+ {
+  "w": "elbow",
+  "p": "/ˈelbəʊ/",
+  "pos": "n.",
+  "m": "肘"
+ },
+ {
+  "w": "thumb",
+  "p": "/θʌm/",
+  "pos": "n.",
+  "m": "拇指"
+ },
+ {
+  "w": "family",
+  "p": "/ˈfæməli/",
+  "pos": "n.",
+  "m": "家庭",
+  "e": "I love my family.",
+  "ec": "我爱我的家庭。"
+ },
+ {
+  "w": "father",
+  "p": "/ˈfɑːðə/",
+  "pos": "n.",
+  "m": "父亲",
+  "e": "My father is a teacher.",
+  "ec": "我父亲是一名教师。"
+ },
+ {
+  "w": "mother",
+  "p": "/ˈmʌðə/",
+  "pos": "n.",
+  "m": "母亲",
+  "e": "My mother cooks for us.",
+  "ec": "我母亲为我们做饭。"
+ },
+ {
+  "w": "dad",
+  "p": "/dæd/",
+  "pos": "n.",
+  "m": "爸爸"
+ },
+ {
+  "w": "mom",
+  "p": "/mɒm/",
+  "pos": "n.",
+  "m": "妈妈"
+ },
+ {
+  "w": "parent",
+  "p": "/ˈpeərənt/",
+  "pos": "n.",
+  "m": "父母",
+  "e": "My parents love me.",
+  "ec": "我的父母爱我。"
+ },
+ {
+  "w": "brother",
+  "p": "/ˈbrʌðə/",
+  "pos": "n.",
+  "m": "兄弟",
+  "e": "My brother is older than me.",
+  "ec": "我哥哥比我大。"
+ },
+ {
+  "w": "sister",
+  "p": "/ˈsɪstə/",
+  "pos": "n.",
+  "m": "姐妹",
+  "e": "My sister likes music.",
+  "ec": "我姐姐喜欢音乐。"
+ },
+ {
+  "w": "grandfather",
+  "p": "/ˈɡrænfɑːðə/",
+  "pos": "n.",
+  "m": "祖父",
+  "e": "My grandfather tells stories.",
+  "ec": "我祖父讲故事。"
+ },
+ {
+  "w": "grandmother",
+  "p": "/ˈɡrænmʌðə/",
+  "pos": "n.",
+  "m": "祖母",
+  "e": "My grandmother is kind.",
+  "ec": "我祖母很慈祥。"
+ },
+ {
+  "w": "grandpa",
+  "p": "/ˈɡrænpɑː/",
+  "pos": "n.",
+  "m": "爷爷"
+ },
+ {
+  "w": "grandma",
+  "p": "/ˈɡrænmɑː/",
+  "pos": "n.",
+  "m": "奶奶"
+ },
+ {
+  "w": "grandparent",
+  "p": "/ˈɡrænpeərənt/",
+  "pos": "n.",
+  "m": "祖父母"
+ },
+ {
+  "w": "uncle",
+  "p": "/ˈʌŋkl/",
+  "pos": "n.",
+  "m": "叔叔；舅舅",
+  "e": "My uncle drives a car.",
+  "ec": "我叔叔开车。"
+ },
+ {
+  "w": "aunt",
+  "p": "/ɑːnt/",
+  "pos": "n.",
+  "m": "阿姨；姑姑",
+  "e": "My aunt lives in Beijing.",
+  "ec": "我姑姑住在北京。"
+ },
+ {
+  "w": "cousin",
+  "p": "/ˈkʌzn/",
+  "pos": "n.",
+  "m": "堂表兄弟姐妹",
+  "e": "My cousin visits us.",
+  "ec": "我表弟来看我们。"
+ },
+ {
+  "w": "son",
+  "p": "/sʌn/",
+  "pos": "n.",
+  "m": "儿子",
+  "e": "Their son is five.",
+  "ec": "他们的儿子五岁。"
+ },
+ {
+  "w": "daughter",
+  "p": "/ˈdɔːtə/",
+  "pos": "n.",
+  "m": "女儿"
+ },
+ {
+  "w": "baby",
+  "p": "/ˈbeɪbi/",
+  "pos": "n.",
+  "m": "婴儿",
+  "e": "The baby is sleeping.",
+  "ec": "婴儿在睡觉。"
+ },
+ {
+  "w": "child",
+  "p": "/tʃaɪld/",
+  "pos": "n.",
+  "m": "孩子",
+  "e": "Every child likes games.",
+  "ec": "每个孩子都喜欢游戏。"
+ },
+ {
+  "w": "children",
+  "p": "/ˈtʃɪldrən/",
+  "pos": "n.",
+  "m": "孩子们",
+  "e": "The children are playing.",
+  "ec": "孩子们在玩耍。"
+ },
+ {
+  "w": "boy",
+  "p": "/bɔɪ/",
+  "pos": "n.",
+  "m": "男孩",
+  "e": "The boy is my friend.",
+  "ec": "这个男孩是我的朋友。"
+ },
+ {
+  "w": "girl",
+  "p": "/ɡɜːl/",
+  "pos": "n.",
+  "m": "女孩",
+  "e": "The girl is reading.",
+  "ec": "这个女孩在读书。"
+ },
+ {
+  "w": "man",
+  "p": "/mæn/",
+  "pos": "n.",
+  "m": "男人",
+  "e": "The man is tall.",
+  "ec": "这个男人很高。"
+ },
+ {
+  "w": "woman",
+  "p": "/ˈwʊmən/",
+  "pos": "n.",
+  "m": "女人"
+ },
+ {
+  "w": "men",
+  "p": "/men/",
+  "pos": "n.",
+  "m": "男人们（复数）"
+ },
+ {
+  "w": "women",
+  "p": "/ˈwɪmɪn/",
+  "pos": "n.",
+  "m": "女人们（复数）"
+ },
+ {
+  "w": "husband",
+  "p": "/ˈhʌzbənd/",
+  "pos": "n.",
+  "m": "丈夫"
+ },
+ {
+  "w": "wife",
+  "p": "/waɪf/",
+  "pos": "n.",
+  "m": "妻子"
+ },
+ {
+  "w": "people",
+  "p": "/ˈpiːpl/",
+  "pos": "n.",
+  "m": "人们",
+  "e": "Many people like tea.",
+  "ec": "很多人喜欢茶。"
+ },
+ {
+  "w": "person",
+  "p": "/ˈpɜːsn/",
+  "pos": "n.",
+  "m": "人",
+  "e": "He is a nice person.",
+  "ec": "他是个好人。"
+ },
+ {
+  "w": "friend",
+  "p": "/frend/",
+  "pos": "n.",
+  "m": "朋友",
+  "e": "She is my best friend.",
+  "ec": "她是我最好的朋友。"
+ },
+ {
+  "w": "classmate",
+  "p": "/ˈklɑːsmeɪt/",
+  "pos": "n.",
+  "m": "同学",
+  "e": "My classmate helps me.",
+  "ec": "我的同学帮助我。"
+ },
+ {
+  "w": "neighbor",
+  "p": "/ˈneɪbə/",
+  "pos": "n.",
+  "m": "邻居"
+ },
+ {
+  "w": "guest",
+  "p": "/ɡest/",
+  "pos": "n.",
+  "m": "客人"
+ },
+ {
+  "w": "relative",
+  "p": "/ˈrelətɪv/",
+  "pos": "n.",
+  "m": "亲戚"
+ },
+ {
+  "w": "twin",
+  "p": "/twɪn/",
+  "pos": "n.",
+  "m": "双胞胎"
+ },
+ {
+  "w": "kid",
+  "p": "/kɪd/",
+  "pos": "n.",
+  "m": "小孩",
+  "e": "The kids are happy.",
+  "ec": "孩子们很开心。"
+ },
+ {
+  "w": "young",
+  "p": "/jʌŋ/",
+  "pos": "adj.",
+  "m": "年轻的"
+ },
+ {
+  "w": "old",
+  "p": "/əʊld/",
+  "pos": "adj.",
+  "m": "年老的；旧的",
+  "e": "My grandpa is old.",
+  "ec": "我爷爷年纪大了。"
+ },
+ {
+  "w": "school",
+  "p": "/skuːl/",
+  "pos": "n.",
+  "m": "学校",
+  "e": "I go to school every day.",
+  "ec": "我每天去上学。"
+ },
+ {
+  "w": "teacher",
+  "p": "/ˈtiːtʃə/",
+  "pos": "n.",
+  "m": "老师",
+  "e": "Our teacher is kind.",
+  "ec": "我们的老师很和蔼。"
+ },
+ {
+  "w": "student",
+  "p": "/ˈstjuːdnt/",
+  "pos": "n.",
+  "m": "学生",
+  "e": "I am a student.",
+  "ec": "我是一名学生。"
+ },
+ {
+  "w": "class",
+  "p": "/klɑːs/",
+  "pos": "n.",
+  "m": "班级；课",
+  "e": "Our class has forty students.",
+  "ec": "我们班有四十名学生。"
+ },
+ {
+  "w": "classroom",
+  "p": "/ˈklɑːsruːm/",
+  "pos": "n.",
+  "m": "教室",
+  "e": "The classroom is clean.",
+  "ec": "教室很干净。"
+ },
+ {
+  "w": "lesson",
+  "p": "/ˈlesn/",
+  "pos": "n.",
+  "m": "课",
+  "e": "We have a music lesson today.",
+  "ec": "我们今天有音乐课。"
+ },
+ {
+  "w": "homework",
+  "p": "/ˈhəʊmwɜːk/",
+  "pos": "n.",
+  "m": "家庭作业",
+  "e": "I do my homework at home.",
+  "ec": "我在家做作业。"
+ },
+ {
+  "w": "book",
+  "p": "/bʊk/",
+  "pos": "n.",
+  "m": "书",
+  "e": "I read a book every night.",
+  "ec": "我每晚读一本书。"
+ },
+ {
+  "w": "pen",
+  "p": "/pen/",
+  "pos": "n.",
+  "m": "钢笔",
+  "e": "May I borrow your pen?",
+  "ec": "我可以借你的钢笔吗？"
+ },
+ {
+  "w": "pencil",
+  "p": "/ˈpensl/",
+  "pos": "n.",
+  "m": "铅笔",
+  "e": "I draw with a pencil.",
+  "ec": "我用铅笔画画。"
+ },
+ {
+  "w": "pencil case",
+  "p": "/ˈpensl keɪs/",
+  "pos": "n.",
+  "m": "铅笔盒"
+ },
+ {
+  "w": "ruler",
+  "p": "/ˈruːlə/",
+  "pos": "n.",
+  "m": "尺子",
+  "e": "Measure the line with a ruler.",
+  "ec": "用尺子量这条线。"
+ },
+ {
+  "w": "eraser",
+  "p": "/ɪˈreɪzə/",
+  "pos": "n.",
+  "m": "橡皮",
+  "e": "I use an eraser to fix mistakes.",
+  "ec": "我用橡皮改正错误。"
+ },
+ {
+  "w": "bag",
+  "p": "/bæɡ/",
+  "pos": "n.",
+  "m": "书包；袋子",
+  "e": "My bag is heavy.",
+  "ec": "我的书包很重。"
+ },
+ {
+  "w": "schoolbag",
+  "p": "/ˈskuːlbæɡ/",
+  "pos": "n.",
+  "m": "书包"
+ },
+ {
+  "w": "blackboard",
+  "p": "/ˈblækbɔːd/",
+  "pos": "n.",
+  "m": "黑板",
+  "e": "The teacher writes on the blackboard.",
+  "ec": "老师在黑板上写字。"
+ },
+ {
+  "w": "desk",
+  "p": "/desk/",
+  "pos": "n.",
+  "m": "书桌",
+  "e": "My desk is near the window.",
+  "ec": "我的书桌靠窗。"
+ },
+ {
+  "w": "chair",
+  "p": "/tʃeə/",
+  "pos": "n.",
+  "m": "椅子",
+  "e": "Please sit on the chair.",
+  "ec": "请坐在椅子上。"
+ },
+ {
+  "w": "table",
+  "p": "/ˈteɪbl/",
+  "pos": "n.",
+  "m": "桌子",
+  "e": "The food is on the table.",
+  "ec": "食物在桌上。"
+ },
+ {
+  "w": "notebook",
+  "p": "/ˈnəʊtbʊk/",
+  "pos": "n.",
+  "m": "笔记本",
+  "e": "Write it in your notebook.",
+  "ec": "把它写进你的笔记本。"
+ },
+ {
+  "w": "exercise book",
+  "p": "/ˈeksəsaɪz bʊk/",
+  "pos": "n.",
+  "m": "练习本"
+ },
+ {
+  "w": "textbook",
+  "p": "/ˈtekstbʊk/",
+  "pos": "n.",
+  "m": "课本"
+ },
+ {
+  "w": "dictionary",
+  "p": "/ˈdɪkʃənri/",
+  "pos": "n.",
+  "m": "词典",
+  "e": "Look up the word in the dictionary.",
+  "ec": "在词典里查这个单词。"
+ },
+ {
+  "w": "exam",
+  "p": "/ɪɡˈzæm/",
+  "pos": "n.",
+  "m": "考试",
+  "e": "We have an exam next week.",
+  "ec": "我们下周考试。"
+ },
+ {
+  "w": "test",
+  "p": "/test/",
+  "pos": "n.",
+  "m": "测验",
+  "e": "I did well on the test.",
+  "ec": "我测验考得很好。"
+ },
+ {
+  "w": "grade",
+  "p": "/ɡreɪd/",
+  "pos": "n.",
+  "m": "年级；成绩",
+  "e": "What grade are you in?",
+  "ec": "你上几年级？"
+ },
+ {
+  "w": "subject",
+  "p": "/ˈsʌbdʒɪkt/",
+  "pos": "n.",
+  "m": "科目",
+  "e": "English is my favorite subject.",
+  "ec": "英语是我最喜欢的科目。"
+ },
+ {
+  "w": "English",
+  "p": "/ˈɪŋɡlɪʃ/",
+  "pos": "n./adj.",
+  "m": "英语",
+  "e": "We speak English in class.",
+  "ec": "我们上课说英语。"
+ },
+ {
+  "w": "Chinese",
+  "p": "/ˌtʃaɪˈniːz/",
+  "pos": "n./adj.",
+  "m": "中文；中国的",
+  "e": "I learn Chinese every day.",
+  "ec": "我每天学中文。"
+ },
+ {
+  "w": "math",
+  "p": "/mæθ/",
+  "pos": "n.",
+  "m": "数学",
+  "e": "Math is fun for me.",
+  "ec": "数学对我来说很有趣。"
+ },
+ {
+  "w": "science",
+  "p": "/ˈsaɪəns/",
+  "pos": "n.",
+  "m": "科学",
+  "e": "We do science experiments.",
+  "ec": "我们做科学实验。"
+ },
+ {
+  "w": "art",
+  "p": "/ɑːt/",
+  "pos": "n.",
+  "m": "美术",
+  "e": "I like to paint in art class.",
+  "ec": "我喜欢在美术课上画画。"
+ },
+ {
+  "w": "music",
+  "p": "/ˈmjuːzɪk/",
+  "pos": "n.",
+  "m": "音乐",
+  "e": "We sing in music class.",
+  "ec": "我们在音乐课上唱歌。"
+ },
+ {
+  "w": "PE",
+  "p": "/ˌpiː ˈiː/",
+  "pos": "n.",
+  "m": "体育"
+ },
+ {
+  "w": "history",
+  "p": "/ˈhɪstri/",
+  "pos": "n.",
+  "m": "历史"
+ },
+ {
+  "w": "geography",
+  "p": "/dʒiˈɒɡrəfi/",
+  "pos": "n.",
+  "m": "地理"
+ },
+ {
+  "w": "library",
+  "p": "/ˈlaɪbrəri/",
+  "pos": "n.",
+  "m": "图书馆",
+  "e": "I read in the library.",
+  "ec": "我在图书馆读书。"
+ },
+ {
+  "w": "playground",
+  "p": "/ˈpleɪɡraʊnd/",
+  "pos": "n.",
+  "m": "操场",
+  "e": "We run on the playground.",
+  "ec": "我们在操场上跑步。"
+ },
+ {
+  "w": "campus",
+  "p": "/ˈkæmpəs/",
+  "pos": "n.",
+  "m": "校园"
+ },
+ {
+  "w": "rule",
+  "p": "/ruːl/",
+  "pos": "n.",
+  "m": "规则",
+  "e": "Follow the school rules.",
+  "ec": "遵守学校规则。"
+ },
+ {
+  "w": "study",
+  "p": "/ˈstʌdi/",
+  "pos": "v./n.",
+  "m": "学习",
+  "e": "I study English hard.",
+  "ec": "我努力学习英语。"
+ },
+ {
+  "w": "learn",
+  "p": "/lɜːn/",
+  "pos": "v.",
+  "m": "学习；学会",
+  "e": "I want to learn new words.",
+  "ec": "我想学新单词。"
+ },
+ {
+  "w": "read",
+  "p": "/riːd/",
+  "pos": "v.",
+  "m": "读",
+  "e": "I read every morning.",
+  "ec": "我每天早上阅读。"
+ },
+ {
+  "w": "write",
+  "p": "/raɪt/",
+  "pos": "v.",
+  "m": "写",
+  "e": "Please write your name.",
+  "ec": "请写下你的名字。"
+ },
+ {
+  "w": "spell",
+  "p": "/spel/",
+  "pos": "v.",
+  "m": "拼写",
+  "e": "Can you spell this word?",
+  "ec": "你能拼写这个单词吗？"
+ },
+ {
+  "w": "remember",
+  "p": "/rɪˈmembə/",
+  "pos": "v.",
+  "m": "记住",
+  "e": "Remember the new words.",
+  "ec": "记住这些新单词。"
+ },
+ {
+  "w": "forget",
+  "p": "/fəˈɡet/",
+  "pos": "v.",
+  "m": "忘记",
+  "e": "Do not forget your homework.",
+  "ec": "别忘了你的作业。"
+ },
+ {
+  "w": "ask",
+  "p": "/ɑːsk/",
+  "pos": "v.",
+  "m": "问",
+  "e": "I ask a question.",
+  "ec": "我问一个问题。"
+ },
+ {
+  "w": "answer",
+  "p": "/ˈɑːnsə/",
+  "pos": "v./n.",
+  "m": "回答",
+  "e": "Please answer the question.",
+  "ec": "请回答问题。"
+ },
+ {
+  "w": "question",
+  "p": "/ˈkwestʃən/",
+  "pos": "n.",
+  "m": "问题",
+  "e": "May I ask a question?",
+  "ec": "我可以问个问题吗？"
+ },
+ {
+  "w": "understand",
+  "p": "/ˌʌndəˈstænd/",
+  "pos": "v.",
+  "m": "理解",
+  "e": "Now I understand.",
+  "ec": "现在我明白了。"
+ },
+ {
+  "w": "know",
+  "p": "/nəʊ/",
+  "pos": "v.",
+  "m": "知道",
+  "e": "I know the answer.",
+  "ec": "我知道答案。"
+ },
+ {
+  "w": "think",
+  "p": "/θɪŋk/",
+  "pos": "v.",
+  "m": "想；认为",
+  "e": "Let me think about it.",
+  "ec": "让我想一想。"
+ },
+ {
+  "w": "practice",
+  "p": "/ˈpræktɪs/",
+  "pos": "v./n.",
+  "m": "练习",
+  "e": "Practice makes perfect.",
+  "ec": "熟能生巧。"
+ },
+ {
+  "w": "copy",
+  "p": "/ˈkɒpi/",
+  "pos": "v.",
+  "m": "抄写；复制"
+ },
+ {
+  "w": "stationery",
+  "p": "/ˈsteɪʃənri/",
+  "pos": "n.",
+  "m": "文具"
+ },
+ {
+  "w": "crayon",
+  "p": "/ˈkreɪən/",
+  "pos": "n.",
+  "m": "蜡笔",
+  "e": "I color with crayons.",
+  "ec": "我用蜡笔涂色。"
+ },
+ {
+  "w": "paint",
+  "p": "/peɪnt/",
+  "pos": "n./v.",
+  "m": "颜料；画画",
+  "e": "I paint a picture.",
+  "ec": "我画一幅画。"
+ },
+ {
+  "w": "brush",
+  "p": "/brʌʃ/",
+  "pos": "n.",
+  "m": "刷子；画笔",
+  "e": "I paint with a brush.",
+  "ec": "我用画笔作画。"
+ },
+ {
+  "w": "glue",
+  "p": "/ɡluː/",
+  "pos": "n.",
+  "m": "胶水"
+ },
+ {
+  "w": "scissors",
+  "p": "/ˈsɪzəz/",
+  "pos": "n.",
+  "m": "剪刀",
+  "e": "Cut the paper with scissors.",
+  "ec": "用剪刀剪纸。"
+ },
+ {
+  "w": "paper",
+  "p": "/ˈpeɪpə/",
+  "pos": "n.",
+  "m": "纸",
+  "e": "Write on the paper.",
+  "ec": "在纸上写字。"
+ },
+ {
+  "w": "card",
+  "p": "/kɑːd/",
+  "pos": "n.",
+  "m": "卡片",
+  "e": "I make a birthday card.",
+  "ec": "我做一张生日卡片。"
+ },
+ {
+  "w": "tape",
+  "p": "/teɪp/",
+  "pos": "n.",
+  "m": "胶带"
+ },
+ {
+  "w": "marker",
+  "p": "/ˈmɑːkə/",
+  "pos": "n.",
+  "m": "马克笔"
+ },
+ {
+  "w": "pencil sharpener",
+  "p": "/ˈpensl ˈʃɑːpnə/",
+  "pos": "n.",
+  "m": "卷笔刀"
+ },
+ {
+  "w": "backpack",
+  "p": "/ˈbækpæk/",
+  "pos": "n.",
+  "m": "背包",
+  "e": "My backpack is blue.",
+  "ec": "我的背包是蓝色的。"
+ },
+ {
+  "w": "folder",
+  "p": "/ˈfəʊldə/",
+  "pos": "n.",
+  "m": "文件夹"
+ },
+ {
+  "w": "clip",
+  "p": "/klɪp/",
+  "pos": "n.",
+  "m": "回形针"
+ },
+ {
+  "w": "board",
+  "p": "/bɔːd/",
+  "pos": "n.",
+  "m": "板；黑板"
+ },
+ {
+  "w": "chalk",
+  "p": "/tʃɔːk/",
+  "pos": "n.",
+  "m": "粉笔"
+ },
+ {
+  "w": "map",
+  "p": "/mæp/",
+  "pos": "n.",
+  "m": "地图",
+  "e": "Look at the map.",
+  "ec": "看这张地图。"
+ },
+ {
+  "w": "picture",
+  "p": "/ˈpɪktʃə/",
+  "pos": "n.",
+  "m": "图片；画",
+  "e": "There is a picture on the wall.",
+  "ec": "墙上有一幅画。"
+ },
+ {
+  "w": "photo",
+  "p": "/ˈfəʊtəʊ/",
+  "pos": "n.",
+  "m": "照片",
+  "e": "I take a photo.",
+  "ec": "我拍一张照片。"
+ },
+ {
+  "w": "clock",
+  "p": "/klɒk/",
+  "pos": "n.",
+  "m": "钟"
+ },
+ {
+  "w": "calendar",
+  "p": "/ˈkælɪndə/",
+  "pos": "n.",
+  "m": "日历",
+  "e": "Today is on the calendar.",
+  "ec": "日历上有今天。"
+ },
+ {
+  "w": "laptop",
+  "p": "/ˈlæptɒp/",
+  "pos": "n.",
+  "m": "笔记本电脑",
+  "e": "I study on my laptop.",
+  "ec": "我用笔记本电脑学习。"
+ },
+ {
+  "w": "computer",
+  "p": "/kəmˈpjuːtə/",
+  "pos": "n.",
+  "m": "电脑",
+  "e": "I play games on the computer.",
+  "ec": "我在电脑上玩游戏。"
+ },
+ {
+  "w": "screen",
+  "p": "/skriːn/",
+  "pos": "n.",
+  "m": "屏幕"
+ },
+ {
+  "w": "keyboard",
+  "p": "/ˈkiːbɔːd/",
+  "pos": "n.",
+  "m": "键盘"
+ },
+ {
+  "w": "mouse",
+  "p": "/maʊs/",
+  "pos": "n.",
+  "m": "鼠标"
+ },
+ {
+  "w": "printer",
+  "p": "/ˈprɪntə/",
+  "pos": "n.",
+  "m": "打印机"
+ },
+ {
+  "w": "projector",
+  "p": "/prəˈdʒektə/",
+  "pos": "n.",
+  "m": "投影仪"
+ },
+ {
+  "w": "whiteboard",
+  "p": "/ˈwaɪtbɔːd/",
+  "pos": "n.",
+  "m": "白板"
+ },
+ {
+  "w": "bell",
+  "p": "/bel/",
+  "pos": "n.",
+  "m": "铃；钟",
+  "e": "The bell rings.",
+  "ec": "铃响了。"
+ },
+ {
+  "w": "flag",
+  "p": "/flæɡ/",
+  "pos": "n.",
+  "m": "旗子",
+  "e": "The flag is red.",
+  "ec": "旗子是红色的。"
+ },
+ {
+  "w": "globe",
+  "p": "/ɡləʊb/",
+  "pos": "n.",
+  "m": "地球仪"
+ },
+ {
+  "w": "bookshelf",
+  "p": "/ˈbʊkʃelf/",
+  "pos": "n.",
+  "m": "书架"
+ },
+ {
+  "w": "notice",
+  "p": "/ˈnəʊtɪs/",
+  "pos": "n.",
+  "m": "通知"
+ },
+ {
+  "w": "shelf",
+  "p": "/ʃelf/",
+  "pos": "n.",
+  "m": "架子"
+ },
+ {
+  "w": "drawer",
+  "p": "/drɔː/",
+  "pos": "n.",
+  "m": "抽屉"
+ },
+ {
+  "w": "bin",
+  "p": "/bɪn/",
+  "pos": "n.",
+  "m": "垃圾桶"
+ },
+ {
+  "w": "camera",
+  "p": "/ˈkæmərə/",
+  "pos": "n.",
+  "m": "照相机",
+  "e": "I take pictures with my camera.",
+  "ec": "我用相机拍照。"
+ },
+ {
+  "w": "food",
+  "p": "/fuːd/",
+  "pos": "n.",
+  "m": "食物",
+  "e": "I like Chinese food.",
+  "ec": "我喜欢中国菜。"
+ },
+ {
+  "w": "rice",
+  "p": "/raɪs/",
+  "pos": "n.",
+  "m": "米饭",
+  "e": "We eat rice every day.",
+  "ec": "我们每天吃米饭。"
+ },
+ {
+  "w": "noodles",
+  "p": "/ˈnuːdlz/",
+  "pos": "n.",
+  "m": "面条",
+  "e": "I like noodles for breakfast.",
+  "ec": "我早餐喜欢吃面条。"
+ },
+ {
+  "w": "bread",
+  "p": "/bred/",
+  "pos": "n.",
+  "m": "面包",
+  "e": "I eat bread and milk.",
+  "ec": "我吃面包喝牛奶。"
+ },
+ {
+  "w": "milk",
+  "p": "/mɪlk/",
+  "pos": "n.",
+  "m": "牛奶",
+  "e": "Milk is good for you.",
+  "ec": "牛奶对你有好处。"
+ },
+ {
+  "w": "egg",
+  "p": "/eɡ/",
+  "pos": "n.",
+  "m": "鸡蛋",
+  "e": "I have an egg for breakfast.",
+  "ec": "我早餐吃一个鸡蛋。"
+ },
+ {
+  "w": "meat",
+  "p": "/miːt/",
+  "pos": "n.",
+  "m": "肉",
+  "e": "The meat is delicious.",
+  "ec": "这肉很好吃。"
+ },
+ {
+  "w": "beef",
+  "p": "/biːf/",
+  "pos": "n.",
+  "m": "牛肉"
+ },
+ {
+  "w": "pork",
+  "p": "/pɔːk/",
+  "pos": "n.",
+  "m": "猪肉"
+ },
+ {
+  "w": "chicken",
+  "p": "/ˈtʃɪkɪn/",
+  "pos": "n.",
+  "m": "鸡肉"
+ },
+ {
+  "w": "vegetable",
+  "p": "/ˈvedʒtəbl/",
+  "pos": "n.",
+  "m": "蔬菜",
+  "e": "Eat more vegetables.",
+  "ec": "多吃蔬菜。"
+ },
+ {
+  "w": "potato",
+  "p": "/pəˈteɪtəʊ/",
+  "pos": "n.",
+  "m": "土豆",
+  "e": "I like potato chips.",
+  "ec": "我喜欢薯片。"
+ },
+ {
+  "w": "tomato",
+  "p": "/təˈmɑːtəʊ/",
+  "pos": "n.",
+  "m": "西红柿",
+  "e": "The tomato is red.",
+  "ec": "这个西红柿是红色的。"
+ },
+ {
+  "w": "carrot",
+  "p": "/ˈkærət/",
+  "pos": "n.",
+  "m": "胡萝卜",
+  "e": "Rabbits like carrots.",
+  "ec": "兔子喜欢胡萝卜。"
+ },
+ {
+  "w": "onion",
+  "p": "/ˈʌnjən/",
+  "pos": "n.",
+  "m": "洋葱"
+ },
+ {
+  "w": "cabbage",
+  "p": "/ˈkæbɪdʒ/",
+  "pos": "n.",
+  "m": "卷心菜"
+ },
+ {
+  "w": "bean",
+  "p": "/biːn/",
+  "pos": "n.",
+  "m": "豆子"
+ },
+ {
+  "w": "corn",
+  "p": "/kɔːn/",
+  "pos": "n.",
+  "m": "玉米",
+  "e": "The corn is sweet.",
+  "ec": "这玉米很甜。"
+ },
+ {
+  "w": "salt",
+  "p": "/sɔːlt/",
+  "pos": "n.",
+  "m": "盐"
+ },
+ {
+  "w": "sugar",
+  "p": "/ˈʃʊɡə/",
+  "pos": "n.",
+  "m": "糖",
+  "e": "Add some sugar to the tea.",
+  "ec": "往茶里加点糖。"
+ },
+ {
+  "w": "oil",
+  "p": "/ɔɪl/",
+  "pos": "n.",
+  "m": "油"
+ },
+ {
+  "w": "soup",
+  "p": "/suːp/",
+  "pos": "n.",
+  "m": "汤",
+  "e": "The soup is hot.",
+  "ec": "汤很烫。"
+ },
+ {
+  "w": "dumpling",
+  "p": "/ˈdʌmplɪŋ/",
+  "pos": "n.",
+  "m": "饺子",
+  "e": "We eat dumplings at Spring Festival.",
+  "ec": "春节我们吃饺子。"
+ },
+ {
+  "w": "cake",
+  "p": "/keɪk/",
+  "pos": "n.",
+  "m": "蛋糕",
+  "e": "I make a cake for you.",
+  "ec": "我给你做一个蛋糕。"
+ },
+ {
+  "w": "cookie",
+  "p": "/ˈkʊki/",
+  "pos": "n.",
+  "m": "饼干"
+ },
+ {
+  "w": "candy",
+  "p": "/ˈkændi/",
+  "pos": "n.",
+  "m": "糖果",
+  "e": "Don't eat too much candy.",
+  "ec": "不要吃太多糖果。"
+ },
+ {
+  "w": "chocolate",
+  "p": "/ˈtʃɒklət/",
+  "pos": "n.",
+  "m": "巧克力",
+  "e": "I love chocolate.",
+  "ec": "我爱巧克力。"
+ },
+ {
+  "w": "ice cream",
+  "p": "/ˌaɪs ˈkriːm/",
+  "pos": "n.",
+  "m": "冰淇淋",
+  "e": "I eat ice cream in summer.",
+  "ec": "我夏天吃冰淇淋。"
+ },
+ {
+  "w": "hamburger",
+  "p": "/ˈhæmbɜːɡə/",
+  "pos": "n.",
+  "m": "汉堡包",
+  "e": "He eats a hamburger.",
+  "ec": "他吃了一个汉堡包。"
+ },
+ {
+  "w": "sandwich",
+  "p": "/ˈsænwɪtʃ/",
+  "pos": "n.",
+  "m": "三明治",
+  "e": "I have a sandwich for lunch.",
+  "ec": "我午餐吃三明治。"
+ },
+ {
+  "w": "pizza",
+  "p": "/ˈpiːtsə/",
+  "pos": "n.",
+  "m": "披萨",
+  "e": "We order a pizza.",
+  "ec": "我们点了一份披萨。"
+ },
+ {
+  "w": "hot dog",
+  "p": "/ˌhɒt ˈdɒɡ/",
+  "pos": "n.",
+  "m": "热狗"
+ },
+ {
+  "w": "juice",
+  "p": "/dʒuːs/",
+  "pos": "n.",
+  "m": "果汁",
+  "e": "I drink orange juice.",
+  "ec": "我喝橙汁。"
+ },
+ {
+  "w": "tea",
+  "p": "/tiː/",
+  "pos": "n.",
+  "m": "茶",
+  "e": "Grandpa drinks tea.",
+  "ec": "爷爷喝茶。"
+ },
+ {
+  "w": "coffee",
+  "p": "/ˈkɒfi/",
+  "pos": "n.",
+  "m": "咖啡"
+ },
+ {
+  "w": "water",
+  "p": "/ˈwɔːtə/",
+  "pos": "n.",
+  "m": "水",
+  "e": "Drink more water.",
+  "ec": "多喝水。"
+ },
+ {
+  "w": "cola",
+  "p": "/ˈkəʊlə/",
+  "pos": "n.",
+  "m": "可乐"
+ },
+ {
+  "w": "breakfast",
+  "p": "/ˈbrekfəst/",
+  "pos": "n.",
+  "m": "早餐",
+  "e": "Breakfast is important.",
+  "ec": "早餐很重要。"
+ },
+ {
+  "w": "lunch",
+  "p": "/lʌntʃ/",
+  "pos": "n.",
+  "m": "午餐",
+  "e": "We have lunch at school.",
+  "ec": "我们在学校吃午餐。"
+ },
+ {
+  "w": "dinner",
+  "p": "/ˈdɪnə/",
+  "pos": "n.",
+  "m": "晚餐",
+  "e": "Dinner is ready.",
+  "ec": "晚餐好了。"
+ },
+ {
+  "w": "snack",
+  "p": "/snæk/",
+  "pos": "n.",
+  "m": "零食",
+  "e": "I eat a snack after school.",
+  "ec": "放学后我吃零食。"
+ },
+ {
+  "w": "meal",
+  "p": "/miːl/",
+  "pos": "n.",
+  "m": "一餐"
+ },
+ {
+  "w": "fruit",
+  "p": "/fruːt/",
+  "pos": "n.",
+  "m": "水果",
+  "e": "Fruit is healthy.",
+  "ec": "水果很健康。"
+ },
+ {
+  "w": "apple",
+  "p": "/ˈæpl/",
+  "pos": "n.",
+  "m": "苹果",
+  "e": "An apple a day keeps the doctor away.",
+  "ec": "一天一苹果，医生远离我。"
+ },
+ {
+  "w": "banana",
+  "p": "/bəˈnɑːnə/",
+  "pos": "n.",
+  "m": "香蕉",
+  "e": "The monkey eats a banana.",
+  "ec": "猴子吃香蕉。"
+ },
+ {
+  "w": "orange",
+  "p": "/ˈɒrɪndʒ/",
+  "pos": "n.",
+  "m": "橙子"
+ },
+ {
+  "w": "pear",
+  "p": "/peə/",
+  "pos": "n.",
+  "m": "梨"
+ },
+ {
+  "w": "grape",
+  "p": "/ɡreɪp/",
+  "pos": "n.",
+  "m": "葡萄",
+  "e": "The grapes are sweet.",
+  "ec": "葡萄很甜。"
+ },
+ {
+  "w": "peach",
+  "p": "/piːtʃ/",
+  "pos": "n.",
+  "m": "桃子"
+ },
+ {
+  "w": "strawberry",
+  "p": "/ˈstrɔːbəri/",
+  "pos": "n.",
+  "m": "草莓",
+  "e": "I like strawberries.",
+  "ec": "我喜欢草莓。"
+ },
+ {
+  "w": "watermelon",
+  "p": "/ˈwɔːtəmelən/",
+  "pos": "n.",
+  "m": "西瓜",
+  "e": "We eat watermelon in summer.",
+  "ec": "我们夏天吃西瓜。"
+ },
+ {
+  "w": "lemon",
+  "p": "/ˈlemən/",
+  "pos": "n.",
+  "m": "柠檬"
+ },
+ {
+  "w": "cherry",
+  "p": "/ˈtʃeri/",
+  "pos": "n.",
+  "m": "樱桃"
+ },
+ {
+  "w": "mango",
+  "p": "/ˈmæŋɡəʊ/",
+  "pos": "n.",
+  "m": "芒果"
+ },
+ {
+  "w": "pineapple",
+  "p": "/ˈpaɪnæpl/",
+  "pos": "n.",
+  "m": "菠萝"
+ },
+ {
+  "w": "coconut",
+  "p": "/ˈkəʊkənʌt/",
+  "pos": "n.",
+  "m": "椰子"
+ },
+ {
+  "w": "porridge",
+  "p": "/ˈpɒrɪdʒ/",
+  "pos": "n.",
+  "m": "粥"
+ },
+ {
+  "w": "honey",
+  "p": "/ˈhʌni/",
+  "pos": "n.",
+  "m": "蜂蜜"
+ },
+ {
+  "w": "cucumber",
+  "p": "/ˈkjuːkʌmbə/",
+  "pos": "n.",
+  "m": "黄瓜"
+ },
+ {
+  "w": "mushroom",
+  "p": "/ˈmʌʃrʊm/",
+  "pos": "n.",
+  "m": "蘑菇"
+ },
+ {
+  "w": "celery",
+  "p": "/ˈseləri/",
+  "pos": "n.",
+  "m": "芹菜"
+ },
+ {
+  "w": "lettuce",
+  "p": "/ˈletɪs/",
+  "pos": "n.",
+  "m": "生菜"
+ },
+ {
+  "w": "garlic",
+  "p": "/ˈɡɑːlɪk/",
+  "pos": "n.",
+  "m": "大蒜"
+ },
+ {
+  "w": "ginger",
+  "p": "/ˈdʒɪndʒə/",
+  "pos": "n.",
+  "m": "姜"
+ },
+ {
+  "w": "pumpkin",
+  "p": "/ˈpʌmpkɪn/",
+  "pos": "n.",
+  "m": "南瓜"
+ },
+ {
+  "w": "eggplant",
+  "p": "/ˈeɡplɑːnt/",
+  "pos": "n.",
+  "m": "茄子"
+ },
+ {
+  "w": "pepper",
+  "p": "/ˈpepə/",
+  "pos": "n.",
+  "m": "辣椒；胡椒"
+ },
+ {
+  "w": "pea",
+  "p": "/piː/",
+  "pos": "n.",
+  "m": "豌豆"
+ },
+ {
+  "w": "broccoli",
+  "p": "/ˈbrɒkəli/",
+  "pos": "n.",
+  "m": "西兰花"
+ },
+ {
+  "w": "spinach",
+  "p": "/ˈspɪnɪtʃ/",
+  "pos": "n.",
+  "m": "菠菜"
+ },
+ {
+  "w": "radish",
+  "p": "/ˈrædɪʃ/",
+  "pos": "n.",
+  "m": "萝卜"
+ },
+ {
+  "w": "kiwi",
+  "p": "/ˈkiːwiː/",
+  "pos": "n.",
+  "m": "猕猴桃"
+ },
+ {
+  "w": "lychee",
+  "p": "/ˌlaɪˈtʃiː/",
+  "pos": "n.",
+  "m": "荔枝"
+ },
+ {
+  "w": "durian",
+  "p": "/ˈdʊəriən/",
+  "pos": "n.",
+  "m": "榴莲"
+ },
+ {
+  "w": "dragon fruit",
+  "p": "/ˈdræɡən fruːt/",
+  "pos": "n.",
+  "m": "火龙果"
+ },
+ {
+  "w": "grapefruit",
+  "p": "/ˈɡreɪpfruːt/",
+  "pos": "n.",
+  "m": "西柚"
+ },
+ {
+  "w": "avocado",
+  "p": "/ˌævəˈkɑːdəʊ/",
+  "pos": "n.",
+  "m": "牛油果"
+ },
+ {
+  "w": "blueberry",
+  "p": "/ˈbluːbəri/",
+  "pos": "n.",
+  "m": "蓝莓"
+ },
+ {
+  "w": "raspberry",
+  "p": "/ˈrɑːzbəri/",
+  "pos": "n.",
+  "m": "树莓"
+ },
+ {
+  "w": "pomegranate",
+  "p": "/ˈpɒmɪɡrænɪt/",
+  "pos": "n.",
+  "m": "石榴"
+ },
+ {
+  "w": "persimmon",
+  "p": "/pəˈsɪmən/",
+  "pos": "n.",
+  "m": "柿子"
+ },
+ {
+  "w": "plum",
+  "p": "/plʌm/",
+  "pos": "n.",
+  "m": "李子"
+ },
+ {
+  "w": "apricot",
+  "p": "/ˈeɪprɪkɒt/",
+  "pos": "n.",
+  "m": "杏"
+ },
+ {
+  "w": "date",
+  "p": "/deɪt/",
+  "pos": "n.",
+  "m": "枣；日期"
+ },
+ {
+  "w": "fig",
+  "p": "/fɪɡ/",
+  "pos": "n.",
+  "m": "无花果"
+ },
+ {
+  "w": "melon",
+  "p": "/ˈmelən/",
+  "pos": "n.",
+  "m": "瓜"
+ },
+ {
+  "w": "sugarcane",
+  "p": "/ˈʃʊɡəkeɪn/",
+  "pos": "n.",
+  "m": "甘蔗"
+ },
+ {
+  "w": "yam",
+  "p": "/jæm/",
+  "pos": "n.",
+  "m": "山药"
+ },
+ {
+  "w": "taro",
+  "p": "/ˈtɑːrəʊ/",
+  "pos": "n.",
+  "m": "芋头"
+ },
+ {
+  "w": "lotus root",
+  "p": "/ˈləʊtəs ruːt/",
+  "pos": "n.",
+  "m": "莲藕"
+ },
+ {
+  "w": "bamboo shoot",
+  "p": "/bæmˈbuː ʃuːt/",
+  "pos": "n.",
+  "m": "竹笋"
+ },
+ {
+  "w": "walnut",
+  "p": "/ˈwɔːlnʌt/",
+  "pos": "n.",
+  "m": "核桃"
+ },
+ {
+  "w": "peanut",
+  "p": "/ˈpiːnʌt/",
+  "pos": "n.",
+  "m": "花生"
+ },
+ {
+  "w": "chestnut",
+  "p": "/ˈtʃesnʌt/",
+  "pos": "n.",
+  "m": "栗子"
+ },
+ {
+  "w": "cashew",
+  "p": "/ˈkæʃuː/",
+  "pos": "n.",
+  "m": "腰果"
+ },
+ {
+  "w": "clothes",
+  "p": "/kləʊðz/",
+  "pos": "n.",
+  "m": "衣服",
+  "e": "I buy new clothes.",
+  "ec": "我买新衣服。"
+ },
+ {
+  "w": "shirt",
+  "p": "/ʃɜːt/",
+  "pos": "n.",
+  "m": "衬衫",
+  "e": "He wears a white shirt.",
+  "ec": "他穿白衬衫。"
+ },
+ {
+  "w": "T-shirt",
+  "p": "/ˈtiːʃɜːt/",
+  "pos": "n.",
+  "m": "T恤衫",
+  "e": "I wear a T-shirt in summer.",
+  "ec": "我夏天穿T恤。"
+ },
+ {
+  "w": "skirt",
+  "p": "/skɜːt/",
+  "pos": "n.",
+  "m": "短裙",
+  "e": "She wears a pink skirt.",
+  "ec": "她穿粉色短裙。"
+ },
+ {
+  "w": "dress",
+  "p": "/dres/",
+  "pos": "n.",
+  "m": "连衣裙",
+  "e": "The dress is beautiful.",
+  "ec": "这条连衣裙很漂亮。"
+ },
+ {
+  "w": "coat",
+  "p": "/kəʊt/",
+  "pos": "n.",
+  "m": "外套",
+  "e": "Put on your coat.",
+  "ec": "穿上你的外套。"
+ },
+ {
+  "w": "jacket",
+  "p": "/ˈdʒækɪt/",
+  "pos": "n.",
+  "m": "夹克",
+  "e": "My jacket is warm.",
+  "ec": "我的夹克很暖和。"
+ },
+ {
+  "w": "sweater",
+  "p": "/ˈswetə/",
+  "pos": "n.",
+  "m": "毛衣",
+  "e": "I wear a sweater in winter.",
+  "ec": "我冬天穿毛衣。"
+ },
+ {
+  "w": "trousers",
+  "p": "/ˈtraʊzəz/",
+  "pos": "n.",
+  "m": "裤子"
+ },
+ {
+  "w": "pants",
+  "p": "/pænts/",
+  "pos": "n.",
+  "m": "长裤",
+  "e": "These pants are new.",
+  "ec": "这条裤子是新的。"
+ },
+ {
+  "w": "jeans",
+  "p": "/dʒiːnz/",
+  "pos": "n.",
+  "m": "牛仔裤",
+  "e": "I like wearing jeans.",
+  "ec": "我喜欢穿牛仔裤。"
+ },
+ {
+  "w": "shorts",
+  "p": "/ʃɔːts/",
+  "pos": "n.",
+  "m": "短裤",
+  "e": "He wears shorts in summer.",
+  "ec": "他夏天穿短裤。"
+ },
+ {
+  "w": "socks",
+  "p": "/sɒks/",
+  "pos": "n.",
+  "m": "袜子",
+  "e": "I wear two socks.",
+  "ec": "我穿两只袜子。"
+ },
+ {
+  "w": "shoes",
+  "p": "/ʃuːz/",
+  "pos": "n.",
+  "m": "鞋子",
+  "e": "My shoes are new.",
+  "ec": "我的鞋子是新的。"
+ },
+ {
+  "w": "boots",
+  "p": "/buːts/",
+  "pos": "n.",
+  "m": "靴子"
+ },
+ {
+  "w": "hat",
+  "p": "/hæt/",
+  "pos": "n.",
+  "m": "帽子",
+  "e": "I wear a hat in the sun.",
+  "ec": "我戴帽子遮太阳。"
+ },
+ {
+  "w": "cap",
+  "p": "/kæp/",
+  "pos": "n.",
+  "m": "鸭舌帽"
+ },
+ {
+  "w": "gloves",
+  "p": "/ɡlʌvz/",
+  "pos": "n.",
+  "m": "手套",
+  "e": "I wear gloves in winter.",
+  "ec": "我冬天戴手套。"
+ },
+ {
+  "w": "scarf",
+  "p": "/skɑːf/",
+  "pos": "n.",
+  "m": "围巾",
+  "e": "She wears a red scarf.",
+  "ec": "她戴红围巾。"
+ },
+ {
+  "w": "belt",
+  "p": "/belt/",
+  "pos": "n.",
+  "m": "腰带"
+ },
+ {
+  "w": "tie",
+  "p": "/taɪ/",
+  "pos": "n.",
+  "m": "领带"
+ },
+ {
+  "w": "uniform",
+  "p": "/ˈjuːnɪfɔːm/",
+  "pos": "n.",
+  "m": "校服",
+  "e": "We wear uniforms at school.",
+  "ec": "我们在学校穿校服。"
+ },
+ {
+  "w": "slippers",
+  "p": "/ˈslɪpəz/",
+  "pos": "n.",
+  "m": "拖鞋"
+ },
+ {
+  "w": "raincoat",
+  "p": "/ˈreɪnkəʊt/",
+  "pos": "n.",
+  "m": "雨衣",
+  "e": "Wear your raincoat on rainy days.",
+  "ec": "下雨天穿雨衣。"
+ },
+ {
+  "w": "coat",
+  "p": "/kəʊt/",
+  "pos": "n.",
+  "m": "大衣"
+ },
+ {
+  "w": "sneakers",
+  "p": "/ˈsniːkəz/",
+  "pos": "n.",
+  "m": "运动鞋"
+ },
+ {
+  "w": "sandals",
+  "p": "/ˈsændlz/",
+  "pos": "n.",
+  "m": "凉鞋"
+ },
+ {
+  "w": "suit",
+  "p": "/suːt/",
+  "pos": "n.",
+  "m": "西装"
+ },
+ {
+  "w": "pocket",
+  "p": "/ˈpɒkɪt/",
+  "pos": "n.",
+  "m": "口袋"
+ },
+ {
+  "w": "button",
+  "p": "/ˈbʌtn/",
+  "pos": "n.",
+  "m": "纽扣"
+ },
+ {
+  "w": "zipper",
+  "p": "/ˈzɪpə/",
+  "pos": "n.",
+  "m": "拉链"
+ },
+ {
+  "w": "dress",
+  "p": "/dres/",
+  "pos": "v.",
+  "m": "穿衣"
+ },
+ {
+  "w": "wear",
+  "p": "/weə/",
+  "pos": "v.",
+  "m": "穿",
+  "e": "I wear a hat.",
+  "ec": "我戴着帽子。"
+ },
+ {
+  "w": "put on",
+  "p": "/pʊt ɒn/",
+  "pos": "v.",
+  "m": "穿上",
+  "e": "Put on your shoes.",
+  "ec": "穿上你的鞋。"
+ },
+ {
+  "w": "take off",
+  "p": "/teɪk ɒf/",
+  "pos": "v.",
+  "m": "脱下",
+  "e": "Take off your coat.",
+  "ec": "脱下你的外套。"
+ },
+ {
+  "w": "size",
+  "p": "/saɪz/",
+  "pos": "n.",
+  "m": "尺码",
+  "e": "What size do you wear?",
+  "ec": "你穿什么尺码？"
+ },
+ {
+  "w": "dress up",
+  "p": "/dres ʌp/",
+  "pos": "v.",
+  "m": "打扮"
+ },
+ {
+  "w": "sport",
+  "p": "/spɔːt/",
+  "pos": "n.",
+  "m": "运动",
+  "e": "Sport makes me healthy.",
+  "ec": "运动使我健康。"
+ },
+ {
+  "w": "ball",
+  "p": "/bɔːl/",
+  "pos": "n.",
+  "m": "球",
+  "e": "The ball is red.",
+  "ec": "这个球是红色的。"
+ },
+ {
+  "w": "football",
+  "p": "/ˈfʊtbɔːl/",
+  "pos": "n.",
+  "m": "足球",
+  "e": "We play football after school.",
+  "ec": "我们放学后踢足球。"
+ },
+ {
+  "w": "basketball",
+  "p": "/ˈbɑːskɪtbɔːl/",
+  "pos": "n.",
+  "m": "篮球",
+  "e": "He plays basketball well.",
+  "ec": "他篮球打得好。"
+ },
+ {
+  "w": "volleyball",
+  "p": "/ˈvɒlibɔːl/",
+  "pos": "n.",
+  "m": "排球",
+  "e": "She likes volleyball.",
+  "ec": "她喜欢排球。"
+ },
+ {
+  "w": "tennis",
+  "p": "/ˈtenɪs/",
+  "pos": "n.",
+  "m": "网球",
+  "e": "I play tennis on weekends.",
+  "ec": "我周末打网球。"
+ },
+ {
+  "w": "table tennis",
+  "p": "/ˈteɪbl tenɪs/",
+  "pos": "n.",
+  "m": "乒乓球",
+  "e": "Table tennis is our national sport.",
+  "ec": "乒乓球是我们的国球。"
+ },
+ {
+  "w": "badminton",
+  "p": "/ˈbædmɪntən/",
+  "pos": "n.",
+  "m": "羽毛球",
+  "e": "We play badminton in the gym.",
+  "ec": "我们在体育馆打羽毛球。"
+ },
+ {
+  "w": "swimming",
+  "p": "/ˈswɪmɪŋ/",
+  "pos": "n.",
+  "m": "游泳",
+  "e": "Swimming is fun in summer.",
+  "ec": "夏天游泳很有趣。"
+ },
+ {
+  "w": "running",
+  "p": "/ˈrʌnɪŋ/",
+  "pos": "n.",
+  "m": "跑步",
+  "e": "Running keeps me fit.",
+  "ec": "跑步让我保持健康。"
+ },
+ {
+  "w": "jumping",
+  "p": "/ˈdʒʌmpɪŋ/",
+  "pos": "n.",
+  "m": "跳跃"
+ },
+ {
+  "w": "skipping",
+  "p": "/ˈskɪpɪŋ/",
+  "pos": "n.",
+  "m": "跳绳"
+ },
+ {
+  "w": "rope skipping",
+  "p": "/rəʊp ˈskɪpɪŋ/",
+  "pos": "n.",
+  "m": "跳绳"
+ },
+ {
+  "w": "cycling",
+  "p": "/ˈsaɪklɪŋ/",
+  "pos": "n.",
+  "m": "骑自行车",
+  "e": "I go cycling on Sunday.",
+  "ec": "我星期天去骑车。"
+ },
+ {
+  "w": "skating",
+  "p": "/ˈskeɪtɪŋ/",
+  "pos": "n.",
+  "m": "滑冰",
+  "e": "We go skating in winter.",
+  "ec": "我们冬天去滑冰。"
+ },
+ {
+  "w": "skiing",
+  "p": "/ˈskiːɪŋ/",
+  "pos": "n.",
+  "m": "滑雪"
+ },
+ {
+  "w": "game",
+  "p": "/ɡeɪm/",
+  "pos": "n.",
+  "m": "游戏；比赛",
+  "e": "Let's play a game.",
+  "ec": "我们来玩游戏吧。"
+ },
+ {
+  "w": "match",
+  "p": "/mætʃ/",
+  "pos": "n.",
+  "m": "比赛",
+  "e": "We won the match.",
+  "ec": "我们赢了比赛。"
+ },
+ {
+  "w": "team",
+  "p": "/tiːm/",
+  "pos": "n.",
+  "m": "队伍",
+  "e": "Our team is strong.",
+  "ec": "我们队很强。"
+ },
+ {
+  "w": "player",
+  "p": "/ˈpleɪə/",
+  "pos": "n.",
+  "m": "运动员；玩家"
+ },
+ {
+  "w": "coach",
+  "p": "/kəʊtʃ/",
+  "pos": "n.",
+  "m": "教练"
+ },
+ {
+  "w": "win",
+  "p": "/wɪn/",
+  "pos": "v.",
+  "m": "赢",
+  "e": "We win the game.",
+  "ec": "我们赢了比赛。"
+ },
+ {
+  "w": "lose",
+  "p": "/luːz/",
+  "pos": "v.",
+  "m": "输",
+  "e": "Do not be sad if you lose.",
+  "ec": "输了也别难过。"
+ },
+ {
+  "w": "score",
+  "p": "/skɔː/",
+  "pos": "n./v.",
+  "m": "得分；分数"
+ },
+ {
+  "w": "goal",
+  "p": "/ɡəʊl/",
+  "pos": "n.",
+  "m": "进球；目标",
+  "e": "He scored a goal.",
+  "ec": "他进了一个球。"
+ },
+ {
+  "w": "exercise",
+  "p": "/ˈeksəsaɪz/",
+  "pos": "n./v.",
+  "m": "锻炼；练习",
+  "e": "Do exercise every day.",
+  "ec": "每天锻炼身体。"
+ },
+ {
+  "w": "kick",
+  "p": "/kɪk/",
+  "pos": "v.",
+  "m": "踢"
+ },
+ {
+  "w": "throw",
+  "p": "/θrəʊ/",
+  "pos": "v.",
+  "m": "扔",
+  "e": "Throw the ball to me.",
+  "ec": "把球扔给我。"
+ },
+ {
+  "w": "catch",
+  "p": "/kætʃ/",
+  "pos": "v.",
+  "m": "接住",
+  "e": "Catch the ball.",
+  "ec": "接住球。"
+ },
+ {
+  "w": "run",
+  "p": "/rʌn/",
+  "pos": "v.",
+  "m": "跑",
+  "e": "I run fast.",
+  "ec": "我跑得快。"
+ },
+ {
+  "w": "jump",
+  "p": "/dʒʌmp/",
+  "pos": "v.",
+  "m": "跳",
+  "e": "The frog can jump.",
+  "ec": "青蛙会跳。"
+ },
+ {
+  "w": "climb",
+  "p": "/klaɪm/",
+  "pos": "v.",
+  "m": "爬",
+  "e": "We climb the hill.",
+  "ec": "我们爬山。"
+ },
+ {
+  "w": "race",
+  "p": "/reɪs/",
+  "pos": "n.",
+  "m": "赛跑；比赛",
+  "e": "We have a running race.",
+  "ec": "我们有一场赛跑。"
+ },
+ {
+  "w": "relay",
+  "p": "/ˈriːleɪ/",
+  "pos": "n.",
+  "m": "接力赛"
+ },
+ {
+  "w": "dance",
+  "p": "/dɑːns/",
+  "pos": "v./n.",
+  "m": "跳舞",
+  "e": "She can dance well.",
+  "ec": "她舞跳得好。"
+ },
+ {
+  "w": "sing",
+  "p": "/sɪŋ/",
+  "pos": "v.",
+  "m": "唱歌",
+  "e": "We sing a song.",
+  "ec": "我们唱一首歌。"
+ },
+ {
+  "w": "draw",
+  "p": "/drɔː/",
+  "pos": "v.",
+  "m": "画画",
+  "e": "I like to draw.",
+  "ec": "我喜欢画画。"
+ },
+ {
+  "w": "swim",
+  "p": "/swɪm/",
+  "pos": "v.",
+  "m": "游泳",
+  "e": "Fish can swim.",
+  "ec": "鱼会游泳。"
+ },
+ {
+  "w": "hobby",
+  "p": "/ˈhɒbi/",
+  "pos": "n.",
+  "m": "爱好",
+  "e": "My hobby is reading.",
+  "ec": "我的爱好是阅读。"
+ },
+ {
+  "w": "camping",
+  "p": "/ˈkæmpɪŋ/",
+  "pos": "n.",
+  "m": "露营",
+  "e": "We go camping on holiday.",
+  "ec": "假期我们去露营。"
+ },
+ {
+  "w": "fishing",
+  "p": "/ˈfɪʃɪŋ/",
+  "pos": "n.",
+  "m": "钓鱼",
+  "e": "Dad likes fishing.",
+  "ec": "爸爸喜欢钓鱼。"
+ },
+ {
+  "w": "picnic",
+  "p": "/ˈpɪknɪk/",
+  "pos": "n.",
+  "m": "野餐",
+  "e": "We have a picnic in the park.",
+  "ec": "我们在公园野餐。"
+ },
+ {
+  "w": "toy",
+  "p": "/tɔɪ/",
+  "pos": "n.",
+  "m": "玩具",
+  "e": "The boy plays with toys.",
+  "ec": "男孩玩玩具。"
+ },
+ {
+  "w": "kite",
+  "p": "/kaɪt/",
+  "pos": "n.",
+  "m": "风筝",
+  "e": "We fly kites in spring.",
+  "ec": "我们春天放风筝。"
+ },
+ {
+  "w": "game",
+  "p": "/ɡeɪm/",
+  "pos": "n.",
+  "m": "游戏"
+ },
+ {
+  "w": "skateboard",
+  "p": "/ˈskeɪtbɔːd/",
+  "pos": "n.",
+  "m": "滑板"
+ },
+ {
+  "w": "climbing",
+  "p": "/ˈklaɪmɪŋ/",
+  "pos": "n.",
+  "m": "登山"
+ },
+ {
+  "w": "riding",
+  "p": "/ˈraɪdɪŋ/",
+  "pos": "n.",
+  "m": "骑马"
+ },
+ {
+  "w": "yoga",
+  "p": "/ˈjəʊɡə/",
+  "pos": "n.",
+  "m": "瑜伽"
+ },
+ {
+  "w": "gym",
+  "p": "/dʒɪm/",
+  "pos": "n.",
+  "m": "体育馆",
+  "e": "We do sports in the gym.",
+  "ec": "我们在体育馆运动。"
+ },
+ {
+  "w": "training",
+  "p": "/ˈtreɪnɪŋ/",
+  "pos": "n.",
+  "m": "训练"
+ },
+ {
+  "w": "bus",
+  "p": "/bʌs/",
+  "pos": "n.",
+  "m": "公共汽车",
+  "e": "I go to school by bus.",
+  "ec": "我坐公交车上学。"
+ },
+ {
+  "w": "car",
+  "p": "/kɑː/",
+  "pos": "n.",
+  "m": "小汽车",
+  "e": "My father drives a car.",
+  "ec": "我爸爸开小汽车。"
+ },
+ {
+  "w": "taxi",
+  "p": "/ˈtæksi/",
+  "pos": "n.",
+  "m": "出租车",
+  "e": "We take a taxi to the airport.",
+  "ec": "我们坐出租车去机场。"
+ },
+ {
+  "w": "bike",
+  "p": "/baɪk/",
+  "pos": "n.",
+  "m": "自行车",
+  "e": "I ride a bike to school.",
+  "ec": "我骑自行车上学。"
+ },
+ {
+  "w": "bicycle",
+  "p": "/ˈbaɪsɪkl/",
+  "pos": "n.",
+  "m": "自行车"
+ },
+ {
+  "w": "train",
+  "p": "/treɪn/",
+  "pos": "n.",
+  "m": "火车",
+  "e": "The train is fast.",
+  "ec": "火车很快。"
+ },
+ {
+  "w": "subway",
+  "p": "/ˈsʌbweɪ/",
+  "pos": "n.",
+  "m": "地铁",
+  "e": "I take the subway to work.",
+  "ec": "我坐地铁上班。"
+ },
+ {
+  "w": "metro",
+  "p": "/ˈmetrəʊ/",
+  "pos": "n.",
+  "m": "地铁"
+ },
+ {
+  "w": "plane",
+  "p": "/pleɪn/",
+  "pos": "n.",
+  "m": "飞机",
+  "e": "The plane flies in the sky.",
+  "ec": "飞机在天上飞。"
+ },
+ {
+  "w": "airplane",
+  "p": "/ˈeəpleɪn/",
+  "pos": "n.",
+  "m": "飞机"
+ },
+ {
+  "w": "airport",
+  "p": "/ˈeəpɔːt/",
+  "pos": "n.",
+  "m": "机场",
+  "e": "We wait at the airport.",
+  "ec": "我们在机场等候。"
+ },
+ {
+  "w": "ship",
+  "p": "/ʃɪp/",
+  "pos": "n.",
+  "m": "轮船",
+  "e": "The ship sails on the sea.",
+  "ec": "轮船在海上航行。"
+ },
+ {
+  "w": "boat",
+  "p": "/bəʊt/",
+  "pos": "n.",
+  "m": "小船",
+  "e": "We row a boat on the lake.",
+  "ec": "我们在湖上划船。"
+ },
+ {
+  "w": "motorcycle",
+  "p": "/ˈməʊtəsaɪkl/",
+  "pos": "n.",
+  "m": "摩托车"
+ },
+ {
+  "w": "truck",
+  "p": "/trʌk/",
+  "pos": "n.",
+  "m": "卡车",
+  "e": "The truck is very big.",
+  "ec": "这辆卡车很大。"
+ },
+ {
+  "w": "van",
+  "p": "/væn/",
+  "pos": "n.",
+  "m": "面包车"
+ },
+ {
+  "w": "helicopter",
+  "p": "/ˈhelɪkɒptə/",
+  "pos": "n.",
+  "m": "直升机"
+ },
+ {
+  "w": "station",
+  "p": "/ˈsteɪʃn/",
+  "pos": "n.",
+  "m": "车站",
+  "e": "The station is crowded.",
+  "ec": "车站很拥挤。"
+ },
+ {
+  "w": "stop",
+  "p": "/stɒp/",
+  "pos": "n./v.",
+  "m": "车站；停止",
+  "e": "The bus stops here.",
+  "ec": "公交车在这里停。"
+ },
+ {
+  "w": "traffic",
+  "p": "/ˈtræfɪk/",
+  "pos": "n.",
+  "m": "交通",
+  "e": "The traffic is heavy.",
+  "ec": "交通很拥堵。"
+ },
+ {
+  "w": "road",
+  "p": "/rəʊd/",
+  "pos": "n.",
+  "m": "路",
+  "e": "The road is long.",
+  "ec": "这条路很长。"
+ },
+ {
+  "w": "street",
+  "p": "/striːt/",
+  "pos": "n.",
+  "m": "街道",
+  "e": "We walk on the street.",
+  "ec": "我们在街上走。"
+ },
+ {
+  "w": "bridge",
+  "p": "/brɪdʒ/",
+  "pos": "n.",
+  "m": "桥",
+  "e": "The bridge crosses the river.",
+  "ec": "这座桥跨过河流。"
+ },
+ {
+  "w": "way",
+  "p": "/weɪ/",
+  "pos": "n.",
+  "m": "路；方法",
+  "e": "Can you show me the way?",
+  "ec": "你能给我指路吗？"
+ },
+ {
+  "w": "drive",
+  "p": "/draɪv/",
+  "pos": "v.",
+  "m": "开车",
+  "e": "Dad drives to work.",
+  "ec": "爸爸开车上班。"
+ },
+ {
+  "w": "ride",
+  "p": "/raɪd/",
+  "pos": "v.",
+  "m": "骑",
+  "e": "I ride a horse.",
+  "ec": "我骑马。"
+ },
+ {
+  "w": "fly",
+  "p": "/flaɪ/",
+  "pos": "v.",
+  "m": "飞",
+  "e": "Birds can fly.",
+  "ec": "鸟会飞。"
+ },
+ {
+  "w": "ticket",
+  "p": "/ˈtɪkɪt/",
+  "pos": "n.",
+  "m": "票",
+  "e": "I buy a train ticket.",
+  "ec": "我买一张火车票。"
+ },
+ {
+  "w": "driver",
+  "p": "/ˈdraɪvə/",
+  "pos": "n.",
+  "m": "司机",
+  "e": "The driver is careful.",
+  "ec": "司机很细心。"
+ },
+ {
+  "w": "seat",
+  "p": "/siːt/",
+  "pos": "n.",
+  "m": "座位",
+  "e": "Please take a seat.",
+  "ec": "请坐。"
+ },
+ {
+  "w": "wheel",
+  "p": "/wiːl/",
+  "pos": "n.",
+  "m": "轮子"
+ },
+ {
+  "w": "engine",
+  "p": "/ˈendʒɪn/",
+  "pos": "n.",
+  "m": "发动机"
+ },
+ {
+  "w": "petrol",
+  "p": "/ˈpetrəl/",
+  "pos": "n.",
+  "m": "汽油"
+ },
+ {
+  "w": "walk",
+  "p": "/wɔːk/",
+  "pos": "v./n.",
+  "m": "走路",
+  "e": "I walk to the park.",
+  "ec": "我走路去公园。"
+ },
+ {
+  "w": "hurry",
+  "p": "/ˈhʌri/",
+  "pos": "v.",
+  "m": "赶紧",
+  "e": "Hurry up! We are late.",
+  "ec": "快点！我们迟到了。"
+ },
+ {
+  "w": "arrive",
+  "p": "/əˈraɪv/",
+  "pos": "v.",
+  "m": "到达",
+  "e": "We arrive at school at eight.",
+  "ec": "我们八点到达学校。"
+ },
+ {
+  "w": "leave",
+  "p": "/liːv/",
+  "pos": "v.",
+  "m": "离开",
+  "e": "We leave home at seven.",
+  "ec": "我们七点离开家。"
+ },
+ {
+  "w": "park",
+  "p": "/pɑːk/",
+  "pos": "n.",
+  "m": "停车场；公园"
+ },
+ {
+  "w": "journey",
+  "p": "/ˈdʒɜːni/",
+  "pos": "n.",
+  "m": "旅程",
+  "e": "The journey is long.",
+  "ec": "旅程很长。"
+ },
+ {
+  "w": "trip",
+  "p": "/trɪp/",
+  "pos": "n.",
+  "m": "旅行",
+  "e": "We have a nice trip.",
+  "ec": "我们旅行愉快。"
+ },
+ {
+  "w": "luggage",
+  "p": "/ˈlʌɡɪdʒ/",
+  "pos": "n.",
+  "m": "行李"
+ },
+ {
+  "w": "place",
+  "p": "/pleɪs/",
+  "pos": "n.",
+  "m": "地方",
+  "e": "This is a nice place.",
+  "ec": "这是个好地方。"
+ },
+ {
+  "w": "home",
+  "p": "/həʊm/",
+  "pos": "n.",
+  "m": "家",
+  "e": "I go home at five.",
+  "ec": "我五点回家。"
+ },
+ {
+  "w": "house",
+  "p": "/haʊs/",
+  "pos": "n.",
+  "m": "房子",
+  "e": "Our house is big.",
+  "ec": "我们的房子很大。"
+ },
+ {
+  "w": "room",
+  "p": "/ruːm/",
+  "pos": "n.",
+  "m": "房间",
+  "e": "My room is clean.",
+  "ec": "我的房间很干净。"
+ },
+ {
+  "w": "bedroom",
+  "p": "/ˈbedruːm/",
+  "pos": "n.",
+  "m": "卧室",
+  "e": "I sleep in my bedroom.",
+  "ec": "我在卧室睡觉。"
+ },
+ {
+  "w": "kitchen",
+  "p": "/ˈkɪtʃɪn/",
+  "pos": "n.",
+  "m": "厨房",
+  "e": "Mom is in the kitchen.",
+  "ec": "妈妈在厨房。"
+ },
+ {
+  "w": "bathroom",
+  "p": "/ˈbɑːθruːm/",
+  "pos": "n.",
+  "m": "浴室",
+  "e": "I wash in the bathroom.",
+  "ec": "我在浴室洗漱。"
+ },
+ {
+  "w": "living room",
+  "p": "/ˈlɪvɪŋ ruːm/",
+  "pos": "n.",
+  "m": "客厅",
+  "e": "We watch TV in the living room.",
+  "ec": "我们在客厅看电视。"
+ },
+ {
+  "w": "garden",
+  "p": "/ˈɡɑːdn/",
+  "pos": "n.",
+  "m": "花园",
+  "e": "Flowers grow in the garden.",
+  "ec": "花园里长着花。"
+ },
+ {
+  "w": "yard",
+  "p": "/jɑːd/",
+  "pos": "n.",
+  "m": "院子"
+ },
+ {
+  "w": "city",
+  "p": "/ˈsɪti/",
+  "pos": "n.",
+  "m": "城市",
+  "e": "The city is big and busy.",
+  "ec": "这座城市又大又繁忙。"
+ },
+ {
+  "w": "town",
+  "p": "/taʊn/",
+  "pos": "n.",
+  "m": "城镇",
+  "e": "I live in a small town.",
+  "ec": "我住在一个小镇。"
+ },
+ {
+  "w": "village",
+  "p": "/ˈvɪlɪdʒ/",
+  "pos": "n.",
+  "m": "村庄"
+ },
+ {
+  "w": "country",
+  "p": "/ˈkʌntri/",
+  "pos": "n.",
+  "m": "国家；乡村",
+  "e": "China is a big country.",
+  "ec": "中国是一个大国。"
+ },
+ {
+  "w": "park",
+  "p": "/pɑːk/",
+  "pos": "n.",
+  "m": "公园",
+  "e": "We play in the park.",
+  "ec": "我们在公园玩。"
+ },
+ {
+  "w": "zoo",
+  "p": "/zuː/",
+  "pos": "n.",
+  "m": "动物园",
+  "e": "I see animals at the zoo.",
+  "ec": "我在动物园看动物。"
+ },
+ {
+  "w": "shop",
+  "p": "/ʃɒp/",
+  "pos": "n.",
+  "m": "商店",
+  "e": "The shop sells toys.",
+  "ec": "这家商店卖玩具。"
+ },
+ {
+  "w": "store",
+  "p": "/stɔː/",
+  "pos": "n.",
+  "m": "商店"
+ },
+ {
+  "w": "supermarket",
+  "p": "/ˈsuːpəmɑːkɪt/",
+  "pos": "n.",
+  "m": "超市",
+  "e": "We buy food at the supermarket.",
+  "ec": "我们在超市买食物。"
+ },
+ {
+  "w": "market",
+  "p": "/ˈmɑːkɪt/",
+  "pos": "n.",
+  "m": "市场",
+  "e": "Mom goes to the market.",
+  "ec": "妈妈去市场。"
+ },
+ {
+  "w": "restaurant",
+  "p": "/ˈrestrɒnt/",
+  "pos": "n.",
+  "m": "餐馆",
+  "e": "We eat at a restaurant.",
+  "ec": "我们在餐馆吃饭。"
+ },
+ {
+  "w": "hospital",
+  "p": "/ˈhɒspɪtl/",
+  "pos": "n.",
+  "m": "医院",
+  "e": "The doctor works at the hospital.",
+  "ec": "医生在医院工作。"
+ },
+ {
+  "w": "bank",
+  "p": "/bæŋk/",
+  "pos": "n.",
+  "m": "银行"
+ },
+ {
+  "w": "post office",
+  "p": "/pəʊst ˈɒfɪs/",
+  "pos": "n.",
+  "m": "邮局"
+ },
+ {
+  "w": "police station",
+  "p": "/pəˈliːs steɪʃn/",
+  "pos": "n.",
+  "m": "警察局"
+ },
+ {
+  "w": "fire station",
+  "p": "/ˈfaɪə steɪʃn/",
+  "pos": "n.",
+  "m": "消防站"
+ },
+ {
+  "w": "cinema",
+  "p": "/ˈsɪnəmə/",
+  "pos": "n.",
+  "m": "电影院",
+  "e": "We watch a film at the cinema.",
+  "ec": "我们在电影院看电影。"
+ },
+ {
+  "w": "theatre",
+  "p": "/ˈθɪətə/",
+  "pos": "n.",
+  "m": "剧院"
+ },
+ {
+  "w": "museum",
+  "p": "/mjuˈziːəm/",
+  "pos": "n.",
+  "m": "博物馆",
+  "e": "We visit the museum.",
+  "ec": "我们参观博物馆。"
+ },
+ {
+  "w": "farm",
+  "p": "/fɑːm/",
+  "pos": "n.",
+  "m": "农场",
+  "e": "We visit a farm.",
+  "ec": "我们参观农场。"
+ },
+ {
+  "w": "beach",
+  "p": "/biːtʃ/",
+  "pos": "n.",
+  "m": "海滩",
+  "e": "We play on the beach.",
+  "ec": "我们在海滩上玩。"
+ },
+ {
+  "w": "sea",
+  "p": "/siː/",
+  "pos": "n.",
+  "m": "海",
+  "e": "The sea is blue.",
+  "ec": "大海是蓝色的。"
+ },
+ {
+  "w": "lake",
+  "p": "/leɪk/",
+  "pos": "n.",
+  "m": "湖",
+  "e": "The lake is quiet.",
+  "ec": "湖很安静。"
+ },
+ {
+  "w": "river",
+  "p": "/ˈrɪvə/",
+  "pos": "n.",
+  "m": "河流",
+  "e": "The river is long.",
+  "ec": "这条河很长。"
+ },
+ {
+  "w": "mountain",
+  "p": "/ˈmaʊntən/",
+  "pos": "n.",
+  "m": "山",
+  "e": "We climb the mountain.",
+  "ec": "我们爬山。"
+ },
+ {
+  "w": "hill",
+  "p": "/hɪl/",
+  "pos": "n.",
+  "m": "小山"
+ },
+ {
+  "w": "forest",
+  "p": "/ˈfɒrɪst/",
+  "pos": "n.",
+  "m": "森林",
+  "e": "Animals live in the forest.",
+  "ec": "动物生活在森林里。"
+ },
+ {
+  "w": "field",
+  "p": "/fiːld/",
+  "pos": "n.",
+  "m": "田野；场地"
+ },
+ {
+  "w": "desert",
+  "p": "/ˈdezət/",
+  "pos": "n.",
+  "m": "沙漠"
+ },
+ {
+  "w": "island",
+  "p": "/ˈaɪlənd/",
+  "pos": "n.",
+  "m": "岛屿"
+ },
+ {
+  "w": "tower",
+  "p": "/ˈtaʊə/",
+  "pos": "n.",
+  "m": "塔"
+ },
+ {
+  "w": "wall",
+  "p": "/wɔːl/",
+  "pos": "n.",
+  "m": "墙",
+  "e": "The picture is on the wall.",
+  "ec": "画在墙上。"
+ },
+ {
+  "w": "floor",
+  "p": "/flɔː/",
+  "pos": "n.",
+  "m": "地板；楼层"
+ },
+ {
+  "w": "ceiling",
+  "p": "/ˈsiːlɪŋ/",
+  "pos": "n.",
+  "m": "天花板"
+ },
+ {
+  "w": "door",
+  "p": "/dɔː/",
+  "pos": "n.",
+  "m": "门",
+  "e": "Please close the door.",
+  "ec": "请关门。"
+ },
+ {
+  "w": "window",
+  "p": "/ˈwɪndəʊ/",
+  "pos": "n.",
+  "m": "窗户",
+  "e": "Open the window.",
+  "ec": "打开窗户。"
+ },
+ {
+  "w": "stairs",
+  "p": "/steəz/",
+  "pos": "n.",
+  "m": "楼梯"
+ },
+ {
+  "w": "corner",
+  "p": "/ˈkɔːnə/",
+  "pos": "n.",
+  "m": "角落"
+ },
+ {
+  "w": "center",
+  "p": "/ˈsentə/",
+  "pos": "n.",
+  "m": "中心"
+ },
+ {
+  "w": "east",
+  "p": "/iːst/",
+  "pos": "n./adj.",
+  "m": "东"
+ },
+ {
+  "w": "west",
+  "p": "/west/",
+  "pos": "n./adj.",
+  "m": "西"
+ },
+ {
+  "w": "south",
+  "p": "/saʊθ/",
+  "pos": "n./adj.",
+  "m": "南"
+ },
+ {
+  "w": "north",
+  "p": "/nɔːθ/",
+  "pos": "n./adj.",
+  "m": "北"
+ },
+ {
+  "w": "job",
+  "p": "/dʒɒb/",
+  "pos": "n.",
+  "m": "工作；职业",
+  "e": "What is your job?",
+  "ec": "你的职业是什么？"
+ },
+ {
+  "w": "doctor",
+  "p": "/ˈdɒktə/",
+  "pos": "n.",
+  "m": "医生",
+  "e": "The doctor helps sick people.",
+  "ec": "医生帮助生病的人。"
+ },
+ {
+  "w": "nurse",
+  "p": "/nɜːs/",
+  "pos": "n.",
+  "m": "护士",
+  "e": "The nurse is kind.",
+  "ec": "护士很亲切。"
+ },
+ {
+  "w": "worker",
+  "p": "/ˈwɜːkə/",
+  "pos": "n.",
+  "m": "工人",
+  "e": "My uncle is a worker.",
+  "ec": "我叔叔是工人。"
+ },
+ {
+  "w": "farmer",
+  "p": "/ˈfɑːmə/",
+  "pos": "n.",
+  "m": "农民",
+  "e": "The farmer grows rice.",
+  "ec": "农民种水稻。"
+ },
+ {
+  "w": "pilot",
+  "p": "/ˈpaɪlət/",
+  "pos": "n.",
+  "m": "飞行员",
+  "e": "The pilot flies the plane.",
+  "ec": "飞行员驾驶飞机。"
+ },
+ {
+  "w": "soldier",
+  "p": "/ˈsəʊldʒə/",
+  "pos": "n.",
+  "m": "士兵"
+ },
+ {
+  "w": "policeman",
+  "p": "/pəˈliːsmən/",
+  "pos": "n.",
+  "m": "警察",
+  "e": "The policeman keeps order.",
+  "ec": "警察维持秩序。"
+ },
+ {
+  "w": "policewoman",
+  "p": "/pəˈliːswʊmən/",
+  "pos": "n.",
+  "m": "女警察"
+ },
+ {
+  "w": "fireman",
+  "p": "/ˈfaɪəmən/",
+  "pos": "n.",
+  "m": "消防员"
+ },
+ {
+  "w": "cook",
+  "p": "/kʊk/",
+  "pos": "n.",
+  "m": "厨师",
+  "e": "The cook makes good food.",
+  "ec": "厨师做的菜很好吃。"
+ },
+ {
+  "w": "chef",
+  "p": "/ʃef/",
+  "pos": "n.",
+  "m": "大厨"
+ },
+ {
+  "w": "waiter",
+  "p": "/ˈweɪtə/",
+  "pos": "n.",
+  "m": "服务员"
+ },
+ {
+  "w": "waitress",
+  "p": "/ˈweɪtrəs/",
+  "pos": "n.",
+  "m": "女服务员"
+ },
+ {
+  "w": "engineer",
+  "p": "/ˌendʒɪˈnɪə/",
+  "pos": "n.",
+  "m": "工程师",
+  "e": "My father is an engineer.",
+  "ec": "我爸爸是工程师。"
+ },
+ {
+  "w": "scientist",
+  "p": "/ˈsaɪəntɪst/",
+  "pos": "n.",
+  "m": "科学家"
+ },
+ {
+  "w": "artist",
+  "p": "/ˈɑːtɪst/",
+  "pos": "n.",
+  "m": "艺术家",
+  "e": "The artist paints pictures.",
+  "ec": "艺术家画画。"
+ },
+ {
+  "w": "writer",
+  "p": "/ˈraɪtə/",
+  "pos": "n.",
+  "m": "作家"
+ },
+ {
+  "w": "singer",
+  "p": "/ˈsɪŋə/",
+  "pos": "n.",
+  "m": "歌手",
+  "e": "She is a famous singer.",
+  "ec": "她是一位著名歌手。"
+ },
+ {
+  "w": "actor",
+  "p": "/ˈæktə/",
+  "pos": "n.",
+  "m": "男演员"
+ },
+ {
+  "w": "actress",
+  "p": "/ˈæktrəs/",
+  "pos": "n.",
+  "m": "女演员"
+ },
+ {
+  "w": "sportsman",
+  "p": "/ˈspɔːtsmən/",
+  "pos": "n.",
+  "m": "运动员"
+ },
+ {
+  "w": "businessman",
+  "p": "/ˈbɪznəsmən/",
+  "pos": "n.",
+  "m": "商人"
+ },
+ {
+  "w": "shopkeeper",
+  "p": "/ˈʃɒpkiːpə/",
+  "pos": "n.",
+  "m": "店主"
+ },
+ {
+  "w": "postman",
+  "p": "/ˈpəʊstmən/",
+  "pos": "n.",
+  "m": "邮递员"
+ },
+ {
+  "w": "police",
+  "p": "/pəˈliːs/",
+  "pos": "n.",
+  "m": "警察"
+ },
+ {
+  "w": "boss",
+  "p": "/bɒs/",
+  "pos": "n.",
+  "m": "老板"
+ },
+ {
+  "w": "manager",
+  "p": "/ˈmænɪdʒə/",
+  "pos": "n.",
+  "m": "经理"
+ },
+ {
+  "w": "accountant",
+  "p": "/əˈkaʊntənt/",
+  "pos": "n.",
+  "m": "会计"
+ },
+ {
+  "w": "lawyer",
+  "p": "/ˈlɔːjə/",
+  "pos": "n.",
+  "m": "律师"
+ },
+ {
+  "w": "reporter",
+  "p": "/rɪˈpɔːtə/",
+  "pos": "n.",
+  "m": "记者"
+ },
+ {
+  "w": "dentist",
+  "p": "/ˈdentɪst/",
+  "pos": "n.",
+  "m": "牙医"
+ },
+ {
+  "w": "vet",
+  "p": "/vet/",
+  "pos": "n.",
+  "m": "兽医"
+ },
+ {
+  "w": "barber",
+  "p": "/ˈbɑːbə/",
+  "pos": "n.",
+  "m": "理发师"
+ },
+ {
+  "w": "tailor",
+  "p": "/ˈteɪlə/",
+  "pos": "n.",
+  "m": "裁缝"
+ },
+ {
+  "w": "carpenter",
+  "p": "/ˈkɑːpəntə/",
+  "pos": "n.",
+  "m": "木匠"
+ },
+ {
+  "w": "butcher",
+  "p": "/ˈbʊtʃə/",
+  "pos": "n.",
+  "m": "屠夫"
+ },
+ {
+  "w": "baker",
+  "p": "/ˈbeɪkə/",
+  "pos": "n.",
+  "m": "面包师"
+ },
+ {
+  "w": "guide",
+  "p": "/ɡaɪd/",
+  "pos": "n.",
+  "m": "导游"
+ },
+ {
+  "w": "pianist",
+  "p": "/ˈpɪənɪst/",
+  "pos": "n.",
+  "m": "钢琴家"
+ },
+ {
+  "w": "hero",
+  "p": "/ˈhɪərəʊ/",
+  "pos": "n.",
+  "m": "英雄",
+  "e": "He is my hero.",
+  "ec": "他是我的英雄。"
+ },
+ {
+  "w": "go",
+  "p": "/ɡəʊ/",
+  "pos": "v.",
+  "m": "去",
+  "e": "I go to school by bike.",
+  "ec": "我骑自行车上学。"
+ },
+ {
+  "w": "come",
+  "p": "/kʌm/",
+  "pos": "v.",
+  "m": "来",
+  "e": "Come here, please.",
+  "ec": "请到这里来。"
+ },
+ {
+  "w": "eat",
+  "p": "/iːt/",
+  "pos": "v.",
+  "m": "吃",
+  "e": "I eat rice at noon.",
+  "ec": "我中午吃米饭。"
+ },
+ {
+  "w": "drink",
+  "p": "/drɪŋk/",
+  "pos": "v.",
+  "m": "喝",
+  "e": "I drink water every day.",
+  "ec": "我每天喝水。"
+ },
+ {
+  "w": "sleep",
+  "p": "/sliːp/",
+  "pos": "v.",
+  "m": "睡觉",
+  "e": "I sleep eight hours.",
+  "ec": "我睡八个小时。"
+ },
+ {
+  "w": "wake up",
+  "p": "/weɪk ʌp/",
+  "pos": "v.",
+  "m": "醒来",
+  "e": "I wake up at six.",
+  "ec": "我六点醒来。"
+ },
+ {
+  "w": "get up",
+  "p": "/ɡet ʌp/",
+  "pos": "v.",
+  "m": "起床",
+  "e": "I get up early.",
+  "ec": "我起得早。"
+ },
+ {
+  "w": "wash",
+  "p": "/wɒʃ/",
+  "pos": "v.",
+  "m": "洗",
+  "e": "I wash my hands.",
+  "ec": "我洗手。"
+ },
+ {
+  "w": "brush",
+  "p": "/brʌʃ/",
+  "pos": "v.",
+  "m": "刷",
+  "e": "I brush my teeth.",
+  "ec": "我刷牙。"
+ },
+ {
+  "w": "shower",
+  "p": "/ˈʃaʊə/",
+  "pos": "v./n.",
+  "m": "淋浴"
+ },
+ {
+  "w": "comb",
+  "p": "/kəʊm/",
+  "pos": "v./n.",
+  "m": "梳头；梳子"
+ },
+ {
+  "w": "work",
+  "p": "/wɜːk/",
+  "pos": "v./n.",
+  "m": "工作",
+  "e": "My mother works in a hospital.",
+  "ec": "我妈妈在医院工作。"
+ },
+ {
+  "w": "play",
+  "p": "/pleɪ/",
+  "pos": "v.",
+  "m": "玩；打",
+  "e": "We play games after school.",
+  "ec": "我们放学后玩游戏。"
+ },
+ {
+  "w": "help",
+  "p": "/help/",
+  "pos": "v.",
+  "m": "帮助",
+  "e": "I help my mother.",
+  "ec": "我帮助妈妈。"
+ },
+ {
+  "w": "clean",
+  "p": "/kliːn/",
+  "pos": "v./adj.",
+  "m": "打扫；干净的",
+  "e": "I clean my room.",
+  "ec": "我打扫房间。"
+ },
+ {
+  "w": "cook",
+  "p": "/kʊk/",
+  "pos": "v.",
+  "m": "做饭",
+  "e": "Mom cooks dinner.",
+  "ec": "妈妈做晚饭。"
+ },
+ {
+  "w": "make",
+  "p": "/meɪk/",
+  "pos": "v.",
+  "m": "做；制作",
+  "e": "I make a model plane.",
+  "ec": "我做一架模型飞机。"
+ },
+ {
+  "w": "buy",
+  "p": "/baɪ/",
+  "pos": "v.",
+  "m": "买",
+  "e": "I buy some fruit.",
+  "ec": "我买一些水果。"
+ },
+ {
+  "w": "sell",
+  "p": "/sel/",
+  "pos": "v.",
+  "m": "卖",
+  "e": "The shop sells pens.",
+  "ec": "这家店卖钢笔。"
+ },
+ {
+  "w": "watch",
+  "p": "/wɒtʃ/",
+  "pos": "v.",
+  "m": "看",
+  "e": "I watch TV in the evening.",
+  "ec": "我晚上看电视。"
+ },
+ {
+  "w": "see",
+  "p": "/siː/",
+  "pos": "v.",
+  "m": "看见",
+  "e": "I see a bird.",
+  "ec": "我看见一只鸟。"
+ },
+ {
+  "w": "look",
+  "p": "/lʊk/",
+  "pos": "v.",
+  "m": "看",
+  "e": "Look at the board.",
+  "ec": "看黑板。"
+ },
+ {
+  "w": "listen",
+  "p": "/ˈlɪsn/",
+  "pos": "v.",
+  "m": "听",
+  "e": "Listen to the teacher.",
+  "ec": "听老师讲。"
+ },
+ {
+  "w": "hear",
+  "p": "/hɪə/",
+  "pos": "v.",
+  "m": "听见",
+  "e": "I hear a sound.",
+  "ec": "我听见一个声音。"
+ },
+ {
+  "w": "speak",
+  "p": "/spiːk/",
+  "pos": "v.",
+  "m": "说",
+  "e": "I speak English.",
+  "ec": "我说英语。"
+ },
+ {
+  "w": "talk",
+  "p": "/tɔːk/",
+  "pos": "v.",
+  "m": "谈话",
+  "e": "We talk about the plan.",
+  "ec": "我们谈论计划。"
+ },
+ {
+  "w": "say",
+  "p": "/seɪ/",
+  "pos": "v.",
+  "m": "说",
+  "e": "She says hello to me.",
+  "ec": "她跟我打招呼。"
+ },
+ {
+  "w": "tell",
+  "p": "/tel/",
+  "pos": "v.",
+  "m": "告诉",
+  "e": "Tell me a story.",
+  "ec": "给我讲个故事。"
+ },
+ {
+  "w": "shout",
+  "p": "/ʃaʊt/",
+  "pos": "v.",
+  "m": "喊叫"
+ },
+ {
+  "w": "cry",
+  "p": "/kraɪ/",
+  "pos": "v.",
+  "m": "哭",
+  "e": "The baby cries.",
+  "ec": "婴儿在哭。"
+ },
+ {
+  "w": "laugh",
+  "p": "/lɑːf/",
+  "pos": "v.",
+  "m": "笑",
+  "e": "We laugh at the joke.",
+  "ec": "我们被笑话逗笑。"
+ },
+ {
+  "w": "smile",
+  "p": "/smaɪl/",
+  "pos": "v./n.",
+  "m": "微笑",
+  "e": "She smiles at me.",
+  "ec": "她对我微笑。"
+ },
+ {
+  "w": "sit",
+  "p": "/sɪt/",
+  "pos": "v.",
+  "m": "坐",
+  "e": "Sit down, please.",
+  "ec": "请坐下。"
+ },
+ {
+  "w": "stand",
+  "p": "/stænd/",
+  "pos": "v.",
+  "m": "站",
+  "e": "Stand up, please.",
+  "ec": "请起立。"
+ },
+ {
+  "w": "lie",
+  "p": "/laɪ/",
+  "pos": "v.",
+  "m": "躺"
+ },
+ {
+  "w": "open",
+  "p": "/ˈəʊpən/",
+  "pos": "v.",
+  "m": "打开",
+  "e": "Open your book.",
+  "ec": "打开你的书。"
+ },
+ {
+  "w": "close",
+  "p": "/kləʊz/",
+  "pos": "v.",
+  "m": "关闭",
+  "e": "Close the window.",
+  "ec": "关上窗户。"
+ },
+ {
+  "w": "turn on",
+  "p": "/tɜːn ɒn/",
+  "pos": "v.",
+  "m": "打开（电器）",
+  "e": "Turn on the light.",
+  "ec": "开灯。"
+ },
+ {
+  "w": "turn off",
+  "p": "/tɜːn ɒf/",
+  "pos": "v.",
+  "m": "关闭（电器）"
+ },
+ {
+  "w": "put",
+  "p": "/pʊt/",
+  "pos": "v.",
+  "m": "放",
+  "e": "Put the book on the desk.",
+  "ec": "把书放在桌上。"
+ },
+ {
+  "w": "take",
+  "p": "/teɪk/",
+  "pos": "v.",
+  "m": "拿；带走",
+  "e": "Take your umbrella.",
+  "ec": "带上你的雨伞。"
+ },
+ {
+  "w": "give",
+  "p": "/ɡɪv/",
+  "pos": "v.",
+  "m": "给",
+  "e": "Give me the ball.",
+  "ec": "把球给我。"
+ },
+ {
+  "w": "bring",
+  "p": "/brɪŋ/",
+  "pos": "v.",
+  "m": "带来",
+  "e": "Bring your homework tomorrow.",
+  "ec": "明天带上作业。"
+ },
+ {
+  "w": "carry",
+  "p": "/ˈkæri/",
+  "pos": "v.",
+  "m": "搬；提"
+ },
+ {
+  "w": "push",
+  "p": "/pʊʃ/",
+  "pos": "v.",
+  "m": "推",
+  "e": "Push the door.",
+  "ec": "推门。"
+ },
+ {
+  "w": "pull",
+  "p": "/pʊl/",
+  "pos": "v.",
+  "m": "拉"
+ },
+ {
+  "w": "lift",
+  "p": "/lɪft/",
+  "pos": "v.",
+  "m": "举起"
+ },
+ {
+  "w": "pick up",
+  "p": "/pɪk ʌp/",
+  "pos": "v.",
+  "m": "捡起",
+  "e": "Pick up the paper.",
+  "ec": "捡起纸。"
+ },
+ {
+  "w": "cut",
+  "p": "/kʌt/",
+  "pos": "v.",
+  "m": "切",
+  "e": "Cut the cake.",
+  "ec": "切蛋糕。"
+ },
+ {
+  "w": "draw",
+  "p": "/drɔː/",
+  "pos": "v.",
+  "m": "画"
+ },
+ {
+  "w": "colour",
+  "p": "/ˈkʌlə/",
+  "pos": "v.",
+  "m": "涂色"
+ },
+ {
+  "w": "count",
+  "p": "/kaʊnt/",
+  "pos": "v.",
+  "m": "数",
+  "e": "Count the apples.",
+  "ec": "数一数苹果。"
+ },
+ {
+  "w": "add",
+  "p": "/æd/",
+  "pos": "v.",
+  "m": "加"
+ },
+ {
+  "w": "need",
+  "p": "/niːd/",
+  "pos": "v.",
+  "m": "需要",
+  "e": "I need some help.",
+  "ec": "我需要帮助。"
+ },
+ {
+  "w": "want",
+  "p": "/wɒnt/",
+  "pos": "v.",
+  "m": "想要",
+  "e": "I want a new bike.",
+  "ec": "我想要一辆新自行车。"
+ },
+ {
+  "w": "like",
+  "p": "/laɪk/",
+  "pos": "v.",
+  "m": "喜欢",
+  "e": "I like music.",
+  "ec": "我喜欢音乐。"
+ },
+ {
+  "w": "love",
+  "p": "/lʌv/",
+  "pos": "v.",
+  "m": "爱",
+  "e": "I love my parents.",
+  "ec": "我爱我的父母。"
+ },
+ {
+  "w": "hate",
+  "p": "/heɪt/",
+  "pos": "v.",
+  "m": "讨厌"
+ },
+ {
+  "w": "hope",
+  "p": "/həʊp/",
+  "pos": "v.",
+  "m": "希望",
+  "e": "I hope to see you.",
+  "ec": "我希望见到你。"
+ },
+ {
+  "w": "use",
+  "p": "/juːz/",
+  "pos": "v.",
+  "m": "使用",
+  "e": "Use your dictionary.",
+  "ec": "使用你的词典。"
+ },
+ {
+  "w": "try",
+  "p": "/traɪ/",
+  "pos": "v.",
+  "m": "尝试",
+  "e": "Try again!",
+  "ec": "再试一次！"
+ },
+ {
+  "w": "do",
+  "p": "/duː/",
+  "pos": "v.",
+  "m": "做",
+  "e": "Do your homework.",
+  "ec": "做你的作业。"
+ },
+ {
+  "w": "have",
+  "p": "/hæv/",
+  "pos": "v.",
+  "m": "有",
+  "e": "I have a cat.",
+  "ec": "我有一只猫。"
+ },
+ {
+  "w": "get",
+  "p": "/ɡet/",
+  "pos": "v.",
+  "m": "得到",
+  "e": "I get a present.",
+  "ec": "我得到一份礼物。"
+ },
+ {
+  "w": "find",
+  "p": "/faɪnd/",
+  "pos": "v.",
+  "m": "找到",
+  "e": "I find my key.",
+  "ec": "我找到了钥匙。"
+ },
+ {
+  "w": "lose",
+  "p": "/luːz/",
+  "pos": "v.",
+  "m": "丢失"
+ },
+ {
+  "w": "begin",
+  "p": "/bɪˈɡɪn/",
+  "pos": "v.",
+  "m": "开始",
+  "e": "Class begins at eight.",
+  "ec": "八点开始上课。"
+ },
+ {
+  "w": "finish",
+  "p": "/ˈfɪnɪʃ/",
+  "pos": "v.",
+  "m": "完成",
+  "e": "I finish my homework.",
+  "ec": "我完成了作业。"
+ },
+ {
+  "w": "stop",
+  "p": "/stɒp/",
+  "pos": "v.",
+  "m": "停止",
+  "e": "Stop talking, please.",
+  "ec": "请停止说话。"
+ },
+ {
+  "w": "wait",
+  "p": "/weɪt/",
+  "pos": "v.",
+  "m": "等待",
+  "e": "Wait for me.",
+  "ec": "等等我。"
+ },
+ {
+  "w": "call",
+  "p": "/kɔːl/",
+  "pos": "v.",
+  "m": "打电话",
+  "e": "Call me tonight.",
+  "ec": "今晚给我打电话。"
+ },
+ {
+  "w": "phone",
+  "p": "/fəʊn/",
+  "pos": "v./n.",
+  "m": "打电话；电话"
+ },
+ {
+  "w": "email",
+  "p": "/ˈiːmeɪl/",
+  "pos": "v./n.",
+  "m": "发邮件；电子邮件"
+ },
+ {
+  "w": "visit",
+  "p": "/ˈvɪzɪt/",
+  "pos": "v.",
+  "m": "拜访；参观",
+  "e": "We visit our grandpa.",
+  "ec": "我们拜访爷爷。"
+ },
+ {
+  "w": "travel",
+  "p": "/ˈtrævl/",
+  "pos": "v.",
+  "m": "旅行",
+  "e": "I travel to Beijing.",
+  "ec": "我去北京旅行。"
+ },
+ {
+  "w": "exercise",
+  "p": "/ˈeksəsaɪz/",
+  "pos": "v.",
+  "m": "锻炼"
+ },
+ {
+  "w": "rest",
+  "p": "/rest/",
+  "pos": "v./n.",
+  "m": "休息",
+  "e": "Let's take a rest.",
+  "ec": "我们休息一下。"
+ },
+ {
+  "w": "good",
+  "p": "/ɡʊd/",
+  "pos": "adj.",
+  "m": "好的",
+  "e": "She is a good student.",
+  "ec": "她是个好学生。"
+ },
+ {
+  "w": "bad",
+  "p": "/bæd/",
+  "pos": "adj.",
+  "m": "坏的",
+  "e": "The weather is bad today.",
+  "ec": "今天天气不好。"
+ },
+ {
+  "w": "new",
+  "p": "/njuː/",
+  "pos": "adj.",
+  "m": "新的",
+  "e": "I have a new bag.",
+  "ec": "我有一个新书包。"
+ },
+ {
+  "w": "old",
+  "p": "/əʊld/",
+  "pos": "adj.",
+  "m": "旧的；老的"
+ },
+ {
+  "w": "happy",
+  "p": "/ˈhæpi/",
+  "pos": "adj.",
+  "m": "高兴的",
+  "e": "I am happy today.",
+  "ec": "我今天很高兴。"
+ },
+ {
+  "w": "sad",
+  "p": "/sæd/",
+  "pos": "adj.",
+  "m": "难过的",
+  "e": "He is sad about the game.",
+  "ec": "他对比赛感到难过。"
+ },
+ {
+  "w": "angry",
+  "p": "/ˈæŋɡri/",
+  "pos": "adj.",
+  "m": "生气的",
+  "e": "Mom is angry with me.",
+  "ec": "妈妈生我的气。"
+ },
+ {
+  "w": "glad",
+  "p": "/ɡlæd/",
+  "pos": "adj.",
+  "m": "高兴的",
+  "e": "I am glad to see you.",
+  "ec": "见到你我很高兴。"
+ },
+ {
+  "w": "great",
+  "p": "/ɡreɪt/",
+  "pos": "adj.",
+  "m": "很棒的",
+  "e": "This is great news.",
+  "ec": "这是个好消息。"
+ },
+ {
+  "w": "nice",
+  "p": "/naɪs/",
+  "pos": "adj.",
+  "m": "美好的",
+  "e": "What a nice day!",
+  "ec": "多美好的一天！"
+ },
+ {
+  "w": "fine",
+  "p": "/faɪn/",
+  "pos": "adj.",
+  "m": "好的；晴朗的",
+  "e": "I am fine, thank you.",
+  "ec": "我很好，谢谢。"
+ },
+ {
+  "w": "beautiful",
+  "p": "/ˈbjuːtɪfl/",
+  "pos": "adj.",
+  "m": "美丽的",
+  "e": "The flower is beautiful.",
+  "ec": "这朵花很美。"
+ },
+ {
+  "w": "pretty",
+  "p": "/ˈprɪti/",
+  "pos": "adj.",
+  "m": "漂亮的",
+  "e": "The girl is pretty.",
+  "ec": "这个女孩很漂亮。"
+ },
+ {
+  "w": "handsome",
+  "p": "/ˈhænsəm/",
+  "pos": "adj.",
+  "m": "英俊的",
+  "e": "He is a handsome boy.",
+  "ec": "他是个英俊的男孩。"
+ },
+ {
+  "w": "lovely",
+  "p": "/ˈlʌvli/",
+  "pos": "adj.",
+  "m": "可爱的",
+  "e": "What a lovely cat!",
+  "ec": "多可爱的猫！"
+ },
+ {
+  "w": "cute",
+  "p": "/kjuːt/",
+  "pos": "adj.",
+  "m": "可爱的",
+  "e": "The puppy is cute.",
+  "ec": "小狗很可爱。"
+ },
+ {
+  "w": "kind",
+  "p": "/kaɪnd/",
+  "pos": "adj.",
+  "m": "善良的",
+  "e": "She is a kind teacher.",
+  "ec": "她是一位善良的老师。"
+ },
+ {
+  "w": "friendly",
+  "p": "/ˈfrendli/",
+  "pos": "adj.",
+  "m": "友好的",
+  "e": "The people are friendly.",
+  "ec": "人们很友好。"
+ },
+ {
+  "w": "clever",
+  "p": "/ˈklevə/",
+  "pos": "adj.",
+  "m": "聪明的",
+  "e": "The boy is clever.",
+  "ec": "这个男孩很聪明。"
+ },
+ {
+  "w": "smart",
+  "p": "/smɑːt/",
+  "pos": "adj.",
+  "m": "聪明的",
+  "e": "She is smart.",
+  "ec": "她很聪明。"
+ },
+ {
+  "w": "brave",
+  "p": "/breɪv/",
+  "pos": "adj.",
+  "m": "勇敢的",
+  "e": "The fireman is brave.",
+  "ec": "消防员很勇敢。"
+ },
+ {
+  "w": "strong",
+  "p": "/strɒŋ/",
+  "pos": "adj.",
+  "m": "强壮的",
+  "e": "My father is strong.",
+  "ec": "我爸爸很强壮。"
+ },
+ {
+  "w": "weak",
+  "p": "/wiːk/",
+  "pos": "adj.",
+  "m": "虚弱的"
+ },
+ {
+  "w": "fast",
+  "p": "/fɑːst/",
+  "pos": "adj./adv.",
+  "m": "快的；快地",
+  "e": "The car is fast.",
+  "ec": "这辆车很快。"
+ },
+ {
+  "w": "quick",
+  "p": "/kwɪk/",
+  "pos": "adj.",
+  "m": "迅速的",
+  "e": "Be quick!",
+  "ec": "快点！"
+ },
+ {
+  "w": "slow",
+  "p": "/sləʊ/",
+  "pos": "adj.",
+  "m": "慢的",
+  "e": "The turtle is slow.",
+  "ec": "乌龟很慢。"
+ },
+ {
+  "w": "busy",
+  "p": "/ˈbɪzi/",
+  "pos": "adj.",
+  "m": "忙的",
+  "e": "I am busy today.",
+  "ec": "我今天很忙。"
+ },
+ {
+  "w": "free",
+  "p": "/friː/",
+  "pos": "adj.",
+  "m": "空闲的；自由的",
+  "e": "Are you free this weekend?",
+  "ec": "你这周末有空吗？"
+ },
+ {
+  "w": "easy",
+  "p": "/ˈiːzi/",
+  "pos": "adj.",
+  "m": "容易的",
+  "e": "The question is easy.",
+  "ec": "这个问题很简单。"
+ },
+ {
+  "w": "difficult",
+  "p": "/ˈdɪfɪkəlt/",
+  "pos": "adj.",
+  "m": "困难的",
+  "e": "The task is difficult.",
+  "ec": "这项任务很难。"
+ },
+ {
+  "w": "hard",
+  "p": "/hɑːd/",
+  "pos": "adj.",
+  "m": "困难的；硬的",
+  "e": "English is not hard.",
+  "ec": "英语不难。"
+ },
+ {
+  "w": "interesting",
+  "p": "/ˈɪntrəstɪŋ/",
+  "pos": "adj.",
+  "m": "有趣的",
+  "e": "The story is interesting.",
+  "ec": "这个故事很有趣。"
+ },
+ {
+  "w": "funny",
+  "p": "/ˈfʌni/",
+  "pos": "adj.",
+  "m": "滑稽的",
+  "e": "The clown is funny.",
+  "ec": "小丑很滑稽。"
+ },
+ {
+  "w": "boring",
+  "p": "/ˈbɔːrɪŋ/",
+  "pos": "adj.",
+  "m": "无聊的",
+  "e": "The film is boring.",
+  "ec": "这部电影很无聊。"
+ },
+ {
+  "w": "exciting",
+  "p": "/ɪkˈsaɪtɪŋ/",
+  "pos": "adj.",
+  "m": "令人兴奋的",
+  "e": "The game is exciting.",
+  "ec": "比赛很刺激。"
+ },
+ {
+  "w": "important",
+  "p": "/ɪmˈpɔːtnt/",
+  "pos": "adj.",
+  "m": "重要的",
+  "e": "Water is important.",
+  "ec": "水很重要。"
+ },
+ {
+  "w": "useful",
+  "p": "/ˈjuːsfl/",
+  "pos": "adj.",
+  "m": "有用的",
+  "e": "This book is useful.",
+  "ec": "这本书很有用。"
+ },
+ {
+  "w": "special",
+  "p": "/ˈspeʃl/",
+  "pos": "adj.",
+  "m": "特别的",
+  "e": "Today is a special day.",
+  "ec": "今天是特别的一天。"
+ },
+ {
+  "w": "same",
+  "p": "/seɪm/",
+  "pos": "adj.",
+  "m": "相同的",
+  "e": "We are in the same class.",
+  "ec": "我们在同一个班。"
+ },
+ {
+  "w": "different",
+  "p": "/ˈdɪfrənt/",
+  "pos": "adj.",
+  "m": "不同的",
+  "e": "We have different hobbies.",
+  "ec": "我们有不同的爱好。"
+ },
+ {
+  "w": "right",
+  "p": "/raɪt/",
+  "pos": "adj.",
+  "m": "正确的",
+  "e": "Your answer is right.",
+  "ec": "你的答案正确。"
+ },
+ {
+  "w": "wrong",
+  "p": "/rɒŋ/",
+  "pos": "adj.",
+  "m": "错误的",
+  "e": "This is the wrong way.",
+  "ec": "这条路走错了。"
+ },
+ {
+  "w": "true",
+  "p": "/truː/",
+  "pos": "adj.",
+  "m": "真实的",
+  "e": "The story is true.",
+  "ec": "这个故事是真的。"
+ },
+ {
+  "w": "real",
+  "p": "/rɪəl/",
+  "pos": "adj.",
+  "m": "真的"
+ },
+ {
+  "w": "clean",
+  "p": "/kliːn/",
+  "pos": "adj.",
+  "m": "干净的",
+  "e": "Keep the room clean.",
+  "ec": "保持房间干净。"
+ },
+ {
+  "w": "dirty",
+  "p": "/ˈdɜːti/",
+  "pos": "adj.",
+  "m": "脏的",
+  "e": "My hands are dirty.",
+  "ec": "我的手很脏。"
+ },
+ {
+  "w": "tidy",
+  "p": "/ˈtaɪdi/",
+  "pos": "adj.",
+  "m": "整洁的"
+ },
+ {
+  "w": "quiet",
+  "p": "/ˈkwaɪət/",
+  "pos": "adj.",
+  "m": "安静的",
+  "e": "Please be quiet.",
+  "ec": "请安静。"
+ },
+ {
+  "w": "noisy",
+  "p": "/ˈnɔɪzi/",
+  "pos": "adj.",
+  "m": "吵闹的"
+ },
+ {
+  "w": "bright",
+  "p": "/braɪt/",
+  "pos": "adj.",
+  "m": "明亮的；聪明的",
+  "e": "The room is bright.",
+  "ec": "房间很明亮。"
+ },
+ {
+  "w": "dark",
+  "p": "/dɑːk/",
+  "pos": "adj.",
+  "m": "黑暗的"
+ },
+ {
+  "w": "dangerous",
+  "p": "/ˈdeɪndʒərəs/",
+  "pos": "adj.",
+  "m": "危险的",
+  "e": "Be careful! It is dangerous.",
+  "ec": "小心！很危险。"
+ },
+ {
+  "w": "safe",
+  "p": "/seɪf/",
+  "pos": "adj.",
+  "m": "安全的"
+ },
+ {
+  "w": "rich",
+  "p": "/rɪtʃ/",
+  "pos": "adj.",
+  "m": "富有的"
+ },
+ {
+  "w": "poor",
+  "p": "/pɔː/",
+  "pos": "adj.",
+  "m": "贫穷的"
+ },
+ {
+  "w": "hungry",
+  "p": "/ˈhʌŋɡri/",
+  "pos": "adj.",
+  "m": "饥饿的",
+  "e": "I am hungry.",
+  "ec": "我饿了。"
+ },
+ {
+  "w": "thirsty",
+  "p": "/ˈθɜːsti/",
+  "pos": "adj.",
+  "m": "口渴的",
+  "e": "I am thirsty.",
+  "ec": "我渴了。"
+ },
+ {
+  "w": "full",
+  "p": "/fʊl/",
+  "pos": "adj.",
+  "m": "饱的；满的",
+  "e": "I am full.",
+  "ec": "我吃饱了。"
+ },
+ {
+  "w": "tired",
+  "p": "/ˈtaɪəd/",
+  "pos": "adj.",
+  "m": "累的",
+  "e": "I am tired after running.",
+  "ec": "跑步后我很累。"
+ },
+ {
+  "w": "healthy",
+  "p": "/ˈhelθi/",
+  "pos": "adj.",
+  "m": "健康的",
+  "e": "Eat well and be healthy.",
+  "ec": "吃好保持健康。"
+ },
+ {
+  "w": "delicious",
+  "p": "/dɪˈlɪʃəs/",
+  "pos": "adj.",
+  "m": "美味的",
+  "e": "The cake is delicious.",
+  "ec": "蛋糕很好吃。"
+ },
+ {
+  "w": "yummy",
+  "p": "/ˈjʌmi/",
+  "pos": "adj.",
+  "m": "好吃的"
+ },
+ {
+  "w": "sweet",
+  "p": "/swiːt/",
+  "pos": "adj.",
+  "m": "甜的",
+  "e": "The candy is sweet.",
+  "ec": "糖果很甜。"
+ },
+ {
+  "w": "sour",
+  "p": "/ˈsaʊə/",
+  "pos": "adj.",
+  "m": "酸的",
+  "e": "The lemon is sour.",
+  "ec": "柠檬很酸。"
+ },
+ {
+  "w": "bitter",
+  "p": "/ˈbɪtə/",
+  "pos": "adj.",
+  "m": "苦的"
+ },
+ {
+  "w": "salty",
+  "p": "/ˈsɔːlti/",
+  "pos": "adj.",
+  "m": "咸的"
+ },
+ {
+  "w": "spicy",
+  "p": "/ˈspaɪsi/",
+  "pos": "adj.",
+  "m": "辣的"
+ },
+ {
+  "w": "soft",
+  "p": "/sɒft/",
+  "pos": "adj.",
+  "m": "软的",
+  "e": "The bed is soft.",
+  "ec": "床很软。"
+ },
+ {
+  "w": "expensive",
+  "p": "/ɪkˈspensɪv/",
+  "pos": "adj.",
+  "m": "昂贵的",
+  "e": "The watch is expensive.",
+  "ec": "这块表很贵。"
+ },
+ {
+  "w": "cheap",
+  "p": "/tʃiːp/",
+  "pos": "adj.",
+  "m": "便宜的",
+  "e": "The pen is cheap.",
+  "ec": "这支笔很便宜。"
+ },
+ {
+  "w": "wonderful",
+  "p": "/ˈwʌndəfl/",
+  "pos": "adj.",
+  "m": "精彩的",
+  "e": "What a wonderful show!",
+  "ec": "多精彩的表演！"
+ },
+ {
+  "w": "lucky",
+  "p": "/ˈlʌki/",
+  "pos": "adj.",
+  "m": "幸运的",
+  "e": "I am lucky today.",
+  "ec": "我今天很幸运。"
+ },
+ {
+  "w": "careful",
+  "p": "/ˈkeəfl/",
+  "pos": "adj.",
+  "m": "小心的",
+  "e": "Be careful on the road.",
+  "ec": "路上要小心。"
+ },
+ {
+  "w": "careless",
+  "p": "/ˈkeələs/",
+  "pos": "adj.",
+  "m": "粗心的"
+ },
+ {
+  "w": "patient",
+  "p": "/ˈpeɪʃnt/",
+  "pos": "adj.",
+  "m": "有耐心的",
+  "e": "The teacher is patient.",
+  "ec": "老师很有耐心。"
+ },
+ {
+  "w": "thing",
+  "p": "/θɪŋ/",
+  "pos": "n.",
+  "m": "东西",
+  "e": "What is that thing?",
+  "ec": "那是什么东西？"
+ },
+ {
+  "w": "sofa",
+  "p": "/ˈsəʊfə/",
+  "pos": "n.",
+  "m": "沙发",
+  "e": "We sit on the sofa.",
+  "ec": "我们坐在沙发上。"
+ },
+ {
+  "w": "bed",
+  "p": "/bed/",
+  "pos": "n.",
+  "m": "床",
+  "e": "I sleep on my bed.",
+  "ec": "我睡在我的床上。"
+ },
+ {
+  "w": "pillow",
+  "p": "/ˈpɪləʊ/",
+  "pos": "n.",
+  "m": "枕头"
+ },
+ {
+  "w": "blanket",
+  "p": "/ˈblæŋkɪt/",
+  "pos": "n.",
+  "m": "毯子"
+ },
+ {
+  "w": "lamp",
+  "p": "/læmp/",
+  "pos": "n.",
+  "m": "台灯",
+  "e": "Turn on the lamp.",
+  "ec": "打开台灯。"
+ },
+ {
+  "w": "mirror",
+  "p": "/ˈmɪrə/",
+  "pos": "n.",
+  "m": "镜子",
+  "e": "Look in the mirror.",
+  "ec": "照照镜子。"
+ },
+ {
+  "w": "toothbrush",
+  "p": "/ˈtuːθbrʌʃ/",
+  "pos": "n.",
+  "m": "牙刷"
+ },
+ {
+  "w": "soap",
+  "p": "/səʊp/",
+  "pos": "n.",
+  "m": "肥皂"
+ },
+ {
+  "w": "towel",
+  "p": "/ˈtaʊəl/",
+  "pos": "n.",
+  "m": "毛巾"
+ },
+ {
+  "w": "comb",
+  "p": "/kəʊm/",
+  "pos": "n.",
+  "m": "梳子"
+ },
+ {
+  "w": "phone",
+  "p": "/fəʊn/",
+  "pos": "n.",
+  "m": "电话；手机"
+ },
+ {
+  "w": "mobile",
+  "p": "/ˈməʊbaɪl/",
+  "pos": "n.",
+  "m": "手机"
+ },
+ {
+  "w": "watch",
+  "p": "/wɒtʃ/",
+  "pos": "n.",
+  "m": "手表",
+  "e": "I have a new watch.",
+  "ec": "我有一块新手表。"
+ },
+ {
+  "w": "radio",
+  "p": "/ˈreɪdiəʊ/",
+  "pos": "n.",
+  "m": "收音机",
+  "e": "Grandpa listens to the radio.",
+  "ec": "爷爷听收音机。"
+ },
+ {
+  "w": "television",
+  "p": "/ˈtelɪvɪʒn/",
+  "pos": "n.",
+  "m": "电视机",
+  "e": "The television is on.",
+  "ec": "电视机开着。"
+ },
+ {
+  "w": "TV",
+  "p": "/ˌtiː ˈviː/",
+  "pos": "n.",
+  "m": "电视"
+ },
+ {
+  "w": "fridge",
+  "p": "/frɪdʒ/",
+  "pos": "n.",
+  "m": "冰箱"
+ },
+ {
+  "w": "cup",
+  "p": "/kʌp/",
+  "pos": "n.",
+  "m": "杯子",
+  "e": "I drink from a cup.",
+  "ec": "我用杯子喝水。"
+ },
+ {
+  "w": "glass",
+  "p": "/ɡlɑːs/",
+  "pos": "n.",
+  "m": "玻璃杯；玻璃",
+  "e": "A glass of water, please.",
+  "ec": "请来一杯水。"
+ },
+ {
+  "w": "plate",
+  "p": "/pleɪt/",
+  "pos": "n.",
+  "m": "盘子"
+ },
+ {
+  "w": "bowl",
+  "p": "/bəʊl/",
+  "pos": "n.",
+  "m": "碗"
+ },
+ {
+  "w": "spoon",
+  "p": "/spuːn/",
+  "pos": "n.",
+  "m": "勺子"
+ },
+ {
+  "w": "fork",
+  "p": "/fɔːk/",
+  "pos": "n.",
+  "m": "叉子"
+ },
+ {
+  "w": "knife",
+  "p": "/naɪf/",
+  "pos": "n.",
+  "m": "刀"
+ },
+ {
+  "w": "chopsticks",
+  "p": "/ˈtʃɒpstɪks/",
+  "pos": "n.",
+  "m": "筷子",
+  "e": "We eat with chopsticks.",
+  "ec": "我们用筷子吃饭。"
+ },
+ {
+  "w": "kettle",
+  "p": "/ˈketl/",
+  "pos": "n.",
+  "m": "水壶"
+ },
+ {
+  "w": "pan",
+  "p": "/pæn/",
+  "pos": "n.",
+  "m": "平底锅"
+ },
+ {
+  "w": "box",
+  "p": "/bɒks/",
+  "pos": "n.",
+  "m": "盒子",
+  "e": "The box is heavy.",
+  "ec": "这个盒子很重。"
+ },
+ {
+  "w": "key",
+  "p": "/kiː/",
+  "pos": "n.",
+  "m": "钥匙",
+  "e": "This is my key.",
+  "ec": "这是我的钥匙。"
+ },
+ {
+  "w": "doll",
+  "p": "/dɒl/",
+  "pos": "n.",
+  "m": "洋娃娃",
+  "e": "The girl holds a doll.",
+  "ec": "女孩抱着洋娃娃。"
+ },
+ {
+  "w": "balloon",
+  "p": "/bəˈluːn/",
+  "pos": "n.",
+  "m": "气球",
+  "e": "The balloon flies up.",
+  "ec": "气球飞起来了。"
+ },
+ {
+  "w": "gift",
+  "p": "/ɡɪft/",
+  "pos": "n.",
+  "m": "礼物",
+  "e": "This is a gift for you.",
+  "ec": "这是给你的礼物。"
+ },
+ {
+  "w": "present",
+  "p": "/ˈpreznt/",
+  "pos": "n.",
+  "m": "礼物",
+  "e": "I get a present.",
+  "ec": "我收到一份礼物。"
+ },
+ {
+  "w": "money",
+  "p": "/ˈmʌni/",
+  "pos": "n.",
+  "m": "钱",
+  "e": "I have some money.",
+  "ec": "我有一些钱。"
+ },
+ {
+  "w": "wallet",
+  "p": "/ˈwɒlɪt/",
+  "pos": "n.",
+  "m": "钱包"
+ },
+ {
+  "w": "coin",
+  "p": "/kɔɪn/",
+  "pos": "n.",
+  "m": "硬币"
+ },
+ {
+  "w": "letter",
+  "p": "/ˈletə/",
+  "pos": "n.",
+  "m": "信",
+  "e": "I write a letter to my friend.",
+  "ec": "我给朋友写信。"
+ },
+ {
+  "w": "newspaper",
+  "p": "/ˈnjuːzpeɪpə/",
+  "pos": "n.",
+  "m": "报纸",
+  "e": "Dad reads the newspaper.",
+  "ec": "爸爸看报纸。"
+ },
+ {
+  "w": "magazine",
+  "p": "/ˌmæɡəˈziːn/",
+  "pos": "n.",
+  "m": "杂志"
+ },
+ {
+  "w": "stamp",
+  "p": "/stæmp/",
+  "pos": "n.",
+  "m": "邮票"
+ },
+ {
+  "w": "brush",
+  "p": "/brʌʃ/",
+  "pos": "n.",
+  "m": "刷子"
+ },
+ {
+  "w": "bag",
+  "p": "/bæɡ/",
+  "pos": "n.",
+  "m": "袋子"
+ },
+ {
+  "w": "basket",
+  "p": "/ˈbɑːskɪt/",
+  "pos": "n.",
+  "m": "篮子"
+ },
+ {
+  "w": "rope",
+  "p": "/rəʊp/",
+  "pos": "n.",
+  "m": "绳子"
+ },
+ {
+  "w": "tool",
+  "p": "/tuːl/",
+  "pos": "n.",
+  "m": "工具"
+ },
+ {
+  "w": "hammer",
+  "p": "/ˈhæmə/",
+  "pos": "n.",
+  "m": "锤子"
+ },
+ {
+  "w": "ladder",
+  "p": "/ˈlædə/",
+  "pos": "n.",
+  "m": "梯子"
+ },
+ {
+  "w": "guitar",
+  "p": "/ɡɪˈtɑː/",
+  "pos": "n.",
+  "m": "吉他",
+  "e": "He plays the guitar.",
+  "ec": "他弹吉他。"
+ },
+ {
+  "w": "piano",
+  "p": "/piˈænəʊ/",
+  "pos": "n.",
+  "m": "钢琴",
+  "e": "She plays the piano.",
+  "ec": "她弹钢琴。"
+ },
+ {
+  "w": "drum",
+  "p": "/drʌm/",
+  "pos": "n.",
+  "m": "鼓"
+ },
+ {
+  "w": "I",
+  "p": "/aɪ/",
+  "pos": "pron.",
+  "m": "我",
+  "e": "I am a student.",
+  "ec": "我是一名学生。"
+ },
+ {
+  "w": "you",
+  "p": "/juː/",
+  "pos": "pron.",
+  "m": "你",
+  "e": "You are my friend.",
+  "ec": "你是我的朋友。"
+ },
+ {
+  "w": "he",
+  "p": "/hiː/",
+  "pos": "pron.",
+  "m": "他",
+  "e": "He is my brother.",
+  "ec": "他是我的兄弟。"
+ },
+ {
+  "w": "she",
+  "p": "/ʃiː/",
+  "pos": "pron.",
+  "m": "她",
+  "e": "She is my sister.",
+  "ec": "她是我的姐妹。"
+ },
+ {
+  "w": "it",
+  "p": "/ɪt/",
+  "pos": "pron.",
+  "m": "它",
+  "e": "It is a cat.",
+  "ec": "它是一只猫。"
+ },
+ {
+  "w": "we",
+  "p": "/wiː/",
+  "pos": "pron.",
+  "m": "我们",
+  "e": "We are happy.",
+  "ec": "我们很高兴。"
+ },
+ {
+  "w": "they",
+  "p": "/ðeɪ/",
+  "pos": "pron.",
+  "m": "他们",
+  "e": "They are playing.",
+  "ec": "他们在玩。"
+ },
+ {
+  "w": "my",
+  "p": "/maɪ/",
+  "pos": "pron.",
+  "m": "我的",
+  "e": "This is my book.",
+  "ec": "这是我的书。"
+ },
+ {
+  "w": "your",
+  "p": "/jɔː/",
+  "pos": "pron.",
+  "m": "你的",
+  "e": "That is your pen.",
+  "ec": "那是你的钢笔。"
+ },
+ {
+  "w": "his",
+  "p": "/hɪz/",
+  "pos": "pron.",
+  "m": "他的"
+ },
+ {
+  "w": "her",
+  "p": "/hɜː/",
+  "pos": "pron.",
+  "m": "她的"
+ },
+ {
+  "w": "our",
+  "p": "/aʊə/",
+  "pos": "pron.",
+  "m": "我们的",
+  "e": "Our class is big.",
+  "ec": "我们的班级很大。"
+ },
+ {
+  "w": "their",
+  "p": "/ðeə/",
+  "pos": "pron.",
+  "m": "他们的"
+ },
+ {
+  "w": "this",
+  "p": "/ðɪs/",
+  "pos": "pron.",
+  "m": "这个",
+  "e": "This is a pen.",
+  "ec": "这是一支钢笔。"
+ },
+ {
+  "w": "that",
+  "p": "/ðæt/",
+  "pos": "pron.",
+  "m": "那个",
+  "e": "That is a desk.",
+  "ec": "那是一张桌子。"
+ },
+ {
+  "w": "these",
+  "p": "/ðiːz/",
+  "pos": "pron.",
+  "m": "这些"
+ },
+ {
+  "w": "those",
+  "p": "/ðəʊz/",
+  "pos": "pron.",
+  "m": "那些"
+ },
+ {
+  "w": "who",
+  "p": "/huː/",
+  "pos": "pron.",
+  "m": "谁",
+  "e": "Who is he?",
+  "ec": "他是谁？"
+ },
+ {
+  "w": "what",
+  "p": "/wɒt/",
+  "pos": "pron.",
+  "m": "什么",
+  "e": "What is your name?",
+  "ec": "你叫什么名字？"
+ },
+ {
+  "w": "where",
+  "p": "/weə/",
+  "pos": "adv.",
+  "m": "哪里",
+  "e": "Where is the school?",
+  "ec": "学校在哪里？"
+ },
+ {
+  "w": "when",
+  "p": "/wen/",
+  "pos": "adv.",
+  "m": "什么时候",
+  "e": "When do you get up?",
+  "ec": "你什么时候起床？"
+ },
+ {
+  "w": "why",
+  "p": "/waɪ/",
+  "pos": "adv.",
+  "m": "为什么",
+  "e": "Why are you late?",
+  "ec": "你为什么迟到？"
+ },
+ {
+  "w": "how",
+  "p": "/haʊ/",
+  "pos": "adv.",
+  "m": "怎样",
+  "e": "How do you go to school?",
+  "ec": "你怎么上学？"
+ },
+ {
+  "w": "which",
+  "p": "/wɪtʃ/",
+  "pos": "pron.",
+  "m": "哪一个"
+ },
+ {
+  "w": "and",
+  "p": "/ænd/",
+  "pos": "conj.",
+  "m": "和",
+  "e": "I like apples and pears.",
+  "ec": "我喜欢苹果和梨。"
+ },
+ {
+  "w": "or",
+  "p": "/ɔː/",
+  "pos": "conj.",
+  "m": "或者",
+  "e": "Do you want tea or juice?",
+  "ec": "你想要茶还是果汁？"
+ },
+ {
+  "w": "but",
+  "p": "/bʌt/",
+  "pos": "conj.",
+  "m": "但是",
+  "e": "I am small but strong.",
+  "ec": "我个子小但很强壮。"
+ },
+ {
+  "w": "so",
+  "p": "/səʊ/",
+  "pos": "conj./adv.",
+  "m": "所以；如此"
+ },
+ {
+  "w": "because",
+  "p": "/bɪˈkɒz/",
+  "pos": "conj.",
+  "m": "因为",
+  "e": "I stay home because it rains.",
+  "ec": "因为下雨我待在家里。"
+ },
+ {
+  "w": "if",
+  "p": "/ɪf/",
+  "pos": "conj.",
+  "m": "如果",
+  "e": "If you are free, call me.",
+  "ec": "如果你有空，给我打电话。"
+ },
+ {
+  "w": "in",
+  "p": "/ɪn/",
+  "pos": "prep.",
+  "m": "在…里面",
+  "e": "The book is in the bag.",
+  "ec": "书在书包里。"
+ },
+ {
+  "w": "on",
+  "p": "/ɒn/",
+  "pos": "prep.",
+  "m": "在…上面",
+  "e": "The cat is on the table.",
+  "ec": "猫在桌上。"
+ },
+ {
+  "w": "under",
+  "p": "/ˈʌndə/",
+  "pos": "prep.",
+  "m": "在…下面",
+  "e": "The ball is under the chair.",
+  "ec": "球在椅子下面。"
+ },
+ {
+  "w": "behind",
+  "p": "/bɪˈhaɪnd/",
+  "pos": "prep.",
+  "m": "在…后面",
+  "e": "The tree is behind the house.",
+  "ec": "树在房子后面。"
+ },
+ {
+  "w": "in front of",
+  "p": "/ɪn frʌnt ɒv/",
+  "pos": "prep.",
+  "m": "在…前面",
+  "e": "I stand in front of the class.",
+  "ec": "我站在班级前面。"
+ },
+ {
+  "w": "next to",
+  "p": "/nekst tuː/",
+  "pos": "prep.",
+  "m": "紧挨着",
+  "e": "My desk is next to his.",
+  "ec": "我的书桌挨着他的。"
+ },
+ {
+  "w": "between",
+  "p": "/bɪˈtwiːn/",
+  "pos": "prep.",
+  "m": "在…之间"
+ },
+ {
+  "w": "near",
+  "p": "/nɪə/",
+  "pos": "prep.",
+  "m": "在…附近",
+  "e": "The shop is near my home.",
+  "ec": "商店在我家附近。"
+ },
+ {
+  "w": "above",
+  "p": "/əˈbʌv/",
+  "pos": "prep.",
+  "m": "在…上方"
+ },
+ {
+  "w": "below",
+  "p": "/bɪˈləʊ/",
+  "pos": "prep.",
+  "m": "在…下方"
+ },
+ {
+  "w": "to",
+  "p": "/tuː/",
+  "pos": "prep.",
+  "m": "到；向"
+ },
+ {
+  "w": "from",
+  "p": "/frɒm/",
+  "pos": "prep.",
+  "m": "从",
+  "e": "I come from China.",
+  "ec": "我来自中国。"
+ },
+ {
+  "w": "for",
+  "p": "/fɔː/",
+  "pos": "prep.",
+  "m": "为了"
+ },
+ {
+  "w": "with",
+  "p": "/wɪð/",
+  "pos": "prep.",
+  "m": "和…一起",
+  "e": "I play with my friend.",
+  "ec": "我和朋友一起玩。"
+ },
+ {
+  "w": "of",
+  "p": "/ɒv/",
+  "pos": "prep.",
+  "m": "…的",
+  "e": "A cup of tea.",
+  "ec": "一杯茶。"
+ },
+ {
+  "w": "at",
+  "p": "/æt/",
+  "pos": "prep.",
+  "m": "在（某时/某地）",
+  "e": "I am at school.",
+  "ec": "我在学校。"
+ },
+ {
+  "w": "by",
+  "p": "/baɪ/",
+  "pos": "prep.",
+  "m": "乘；通过",
+  "e": "I go by bus.",
+  "ec": "我坐公交车去。"
+ },
+ {
+  "w": "not",
+  "p": "/nɒt/",
+  "pos": "adv.",
+  "m": "不",
+  "e": "I am not tired.",
+  "ec": "我不累。"
+ },
+ {
+  "w": "no",
+  "p": "/nəʊ/",
+  "pos": "adv./adj.",
+  "m": "不；没有"
+ },
+ {
+  "w": "yes",
+  "p": "/jes/",
+  "pos": "adv.",
+  "m": "是",
+  "e": "Yes, I do.",
+  "ec": "是的，我会。"
+ },
+ {
+  "w": "very",
+  "p": "/ˈveri/",
+  "pos": "adv.",
+  "m": "非常",
+  "e": "I am very happy.",
+  "ec": "我非常开心。"
+ },
+ {
+  "w": "also",
+  "p": "/ˈɔːlsəʊ/",
+  "pos": "adv.",
+  "m": "也",
+  "e": "I also like music.",
+  "ec": "我也喜欢音乐。"
+ },
+ {
+  "w": "too",
+  "p": "/tuː/",
+  "pos": "adv.",
+  "m": "也；太",
+  "e": "I like it too.",
+  "ec": "我也喜欢它。"
+ },
+ {
+  "w": "again",
+  "p": "/əˈɡen/",
+  "pos": "adv.",
+  "m": "再；又",
+  "e": "Say it again.",
+  "ec": "再说一遍。"
+ },
+ {
+  "w": "together",
+  "p": "/təˈɡeðə/",
+  "pos": "adv.",
+  "m": "一起",
+  "e": "We study together.",
+  "ec": "我们一起学习。"
+ },
+ {
+  "w": "here",
+  "p": "/hɪə/",
+  "pos": "adv.",
+  "m": "这里",
+  "e": "Come here.",
+  "ec": "来这里。"
+ },
+ {
+  "w": "there",
+  "p": "/ðeə/",
+  "pos": "adv.",
+  "m": "那里",
+  "e": "The book is there.",
+  "ec": "书在那里。"
+ },
+ {
+  "w": "tree",
+  "p": "/triː/",
+  "pos": "n.",
+  "m": "树",
+  "e": "The tree is tall.",
+  "ec": "这棵树很高。"
+ },
+ {
+  "w": "flower",
+  "p": "/ˈflaʊə/",
+  "pos": "n.",
+  "m": "花",
+  "e": "The flower smells nice.",
+  "ec": "这花闻起来很香。"
+ },
+ {
+  "w": "grass",
+  "p": "/ɡrɑːs/",
+  "pos": "n.",
+  "m": "草",
+  "e": "The grass is green.",
+  "ec": "草是绿色的。"
+ },
+ {
+  "w": "leaf",
+  "p": "/liːf/",
+  "pos": "n.",
+  "m": "叶子",
+  "e": "The leaf is green.",
+  "ec": "叶子是绿色的。"
+ },
+ {
+  "w": "leaves",
+  "p": "/liːvz/",
+  "pos": "n.",
+  "m": "叶子（复数）"
+ },
+ {
+  "w": "seed",
+  "p": "/siːd/",
+  "pos": "n.",
+  "m": "种子"
+ },
+ {
+  "w": "root",
+  "p": "/ruːt/",
+  "pos": "n.",
+  "m": "根"
+ },
+ {
+  "w": "branch",
+  "p": "/brɑːntʃ/",
+  "pos": "n.",
+  "m": "树枝"
+ },
+ {
+  "w": "plant",
+  "p": "/plɑːnt/",
+  "pos": "n./v.",
+  "m": "植物；种植",
+  "e": "I plant a tree.",
+  "ec": "我种一棵树。"
+ },
+ {
+  "w": "stone",
+  "p": "/stəʊn/",
+  "pos": "n.",
+  "m": "石头"
+ },
+ {
+  "w": "rock",
+  "p": "/rɒk/",
+  "pos": "n.",
+  "m": "岩石"
+ },
+ {
+  "w": "sand",
+  "p": "/sænd/",
+  "pos": "n.",
+  "m": "沙子"
+ },
+ {
+  "w": "mud",
+  "p": "/mʌd/",
+  "pos": "n.",
+  "m": "泥"
+ },
+ {
+  "w": "soil",
+  "p": "/sɔɪl/",
+  "pos": "n.",
+  "m": "土壤"
+ },
+ {
+  "w": "fire",
+  "p": "/ˈfaɪə/",
+  "pos": "n.",
+  "m": "火",
+  "e": "The fire is warm.",
+  "ec": "火很暖和。"
+ },
+ {
+  "w": "air",
+  "p": "/eə/",
+  "pos": "n.",
+  "m": "空气",
+  "e": "We need clean air.",
+  "ec": "我们需要干净的空气。"
+ },
+ {
+  "w": "nature",
+  "p": "/ˈneɪtʃə/",
+  "pos": "n.",
+  "m": "自然",
+  "e": "We should protect nature.",
+  "ec": "我们应该保护自然。"
+ },
+ {
+  "w": "environment",
+  "p": "/ɪnˈvaɪrənmənt/",
+  "pos": "n.",
+  "m": "环境"
+ },
+ {
+  "w": "valley",
+  "p": "/ˈvæli/",
+  "pos": "n.",
+  "m": "山谷"
+ },
+ {
+  "w": "cave",
+  "p": "/keɪv/",
+  "pos": "n.",
+  "m": "山洞"
+ },
+ {
+  "w": "waterfall",
+  "p": "/ˈwɔːtəfɔːl/",
+  "pos": "n.",
+  "m": "瀑布"
+ },
+ {
+  "w": "spring",
+  "p": "/sprɪŋ/",
+  "pos": "n.",
+  "m": "泉水；春天"
+ },
+ {
+  "w": "stream",
+  "p": "/striːm/",
+  "pos": "n.",
+  "m": "小溪"
+ },
+ {
+  "w": "pond",
+  "p": "/pɒnd/",
+  "pos": "n.",
+  "m": "池塘",
+  "e": "The ducks are in the pond.",
+  "ec": "鸭子在池塘里。"
+ },
+ {
+  "w": "ocean",
+  "p": "/ˈəʊʃn/",
+  "pos": "n.",
+  "m": "海洋",
+  "e": "The ocean is wide.",
+  "ec": "海洋很宽阔。"
+ },
+ {
+  "w": "coast",
+  "p": "/kəʊst/",
+  "pos": "n.",
+  "m": "海岸"
+ },
+ {
+  "w": "planet",
+  "p": "/ˈplænɪt/",
+  "pos": "n.",
+  "m": "行星"
+ },
+ {
+  "w": "space",
+  "p": "/speɪs/",
+  "pos": "n.",
+  "m": "太空",
+  "e": "Rockets fly into space.",
+  "ec": "火箭飞向太空。"
+ },
+ {
+  "w": "rocket",
+  "p": "/ˈrɒkɪt/",
+  "pos": "n.",
+  "m": "火箭"
+ },
+ {
+  "w": "star",
+  "p": "/stɑː/",
+  "pos": "n.",
+  "m": "星"
+ },
+ {
+  "w": "land",
+  "p": "/lænd/",
+  "pos": "n.",
+  "m": "陆地"
+ },
+ {
+  "w": "animal",
+  "p": "/ˈænɪml/",
+  "pos": "n.",
+  "m": "动物",
+  "e": "The zoo has many animals.",
+  "ec": "动物园有很多动物。"
+ },
+ {
+  "w": "excited",
+  "p": "/ɪkˈsaɪtɪd/",
+  "pos": "adj.",
+  "m": "兴奋的",
+  "e": "I am excited about the trip.",
+  "ec": "我对旅行很兴奋。"
+ },
+ {
+  "w": "surprised",
+  "p": "/səˈpraɪzd/",
+  "pos": "adj.",
+  "m": "惊讶的",
+  "e": "I am surprised at the news.",
+  "ec": "我对这个消息很惊讶。"
+ },
+ {
+  "w": "afraid",
+  "p": "/əˈfreɪd/",
+  "pos": "adj.",
+  "m": "害怕的",
+  "e": "I am afraid of snakes.",
+  "ec": "我怕蛇。"
+ },
+ {
+  "w": "scared",
+  "p": "/skeəd/",
+  "pos": "adj.",
+  "m": "害怕的"
+ },
+ {
+  "w": "worried",
+  "p": "/ˈwʌrid/",
+  "pos": "adj.",
+  "m": "担心的",
+  "e": "Mom is worried about me.",
+  "ec": "妈妈担心我。"
+ },
+ {
+  "w": "nervous",
+  "p": "/ˈnɜːvəs/",
+  "pos": "adj.",
+  "m": "紧张的",
+  "e": "I am nervous before the test.",
+  "ec": "考试前我很紧张。"
+ },
+ {
+  "w": "calm",
+  "p": "/kɑːm/",
+  "pos": "adj.",
+  "m": "平静的"
+ },
+ {
+  "w": "proud",
+  "p": "/praʊd/",
+  "pos": "adj.",
+  "m": "自豪的",
+  "e": "I am proud of you.",
+  "ec": "我为你自豪。"
+ },
+ {
+  "w": "shy",
+  "p": "/ʃaɪ/",
+  "pos": "adj.",
+  "m": "害羞的",
+  "e": "The girl is shy.",
+  "ec": "这个女孩很害羞。"
+ },
+ {
+  "w": "polite",
+  "p": "/pəˈlaɪt/",
+  "pos": "adj.",
+  "m": "有礼貌的",
+  "e": "Be polite to others.",
+  "ec": "对别人要有礼貌。"
+ },
+ {
+  "w": "rude",
+  "p": "/ruːd/",
+  "pos": "adj.",
+  "m": "无礼的"
+ },
+ {
+  "w": "honest",
+  "p": "/ˈɒnɪst/",
+  "pos": "adj.",
+  "m": "诚实的"
+ },
+ {
+  "w": "lazy",
+  "p": "/ˈleɪzi/",
+  "pos": "adj.",
+  "m": "懒惰的"
+ },
+ {
+  "w": "hardworking",
+  "p": "/ˌhɑːdˈwɜːkɪŋ/",
+  "pos": "adj.",
+  "m": "勤奋的",
+  "e": "She is hardworking.",
+  "ec": "她很勤奋。"
+ },
+ {
+  "w": "confident",
+  "p": "/ˈkɒnfɪdənt/",
+  "pos": "adj.",
+  "m": "自信的"
+ },
+ {
+  "w": "curious",
+  "p": "/ˈkjʊəriəs/",
+  "pos": "adj.",
+  "m": "好奇的"
+ },
+ {
+  "w": "lonely",
+  "p": "/ˈləʊnli/",
+  "pos": "adj.",
+  "m": "孤独的"
+ },
+ {
+  "w": "tired",
+  "p": "/ˈtaɪəd/",
+  "pos": "adj.",
+  "m": "疲倦的"
+ },
+ {
+  "w": "sleepy",
+  "p": "/ˈsliːpi/",
+  "pos": "adj.",
+  "m": "困倦的",
+  "e": "I am sleepy now.",
+  "ec": "我现在困了。"
+ },
+ {
+  "w": "sick",
+  "p": "/sɪk/",
+  "pos": "adj.",
+  "m": "生病的",
+  "e": "He is sick today.",
+  "ec": "他今天生病了。"
+ },
+ {
+  "w": "ill",
+  "p": "/ɪl/",
+  "pos": "adj.",
+  "m": "生病的"
+ },
+ {
+  "w": "well",
+  "p": "/wel/",
+  "pos": "adj.",
+  "m": "健康的",
+  "e": "I am well, thank you.",
+  "ec": "我很好，谢谢。"
+ },
+ {
+  "w": "comfortable",
+  "p": "/ˈkʌmftəbl/",
+  "pos": "adj.",
+  "m": "舒适的",
+  "e": "The chair is comfortable.",
+  "ec": "这把椅子很舒适。"
+ },
+ {
+  "w": "fun",
+  "p": "/fʌn/",
+  "pos": "adj./n.",
+  "m": "有趣的；乐趣",
+  "e": "It is fun to play.",
+  "ec": "玩耍很有趣。"
+ },
+ {
+  "w": "joy",
+  "p": "/dʒɔɪ/",
+  "pos": "n.",
+  "m": "快乐"
+ },
+ {
+  "w": "pleasure",
+  "p": "/ˈpleʒə/",
+  "pos": "n.",
+  "m": "愉快"
+ },
+ {
+  "w": "anger",
+  "p": "/ˈæŋɡə/",
+  "pos": "n.",
+  "m": "愤怒"
+ },
+ {
+  "w": "worry",
+  "p": "/ˈwʌri/",
+  "pos": "n./v.",
+  "m": "担心"
+ },
+ {
+  "w": "fear",
+  "p": "/fɪə/",
+  "pos": "n.",
+  "m": "害怕"
+ },
+ {
+  "w": "surprise",
+  "p": "/səˈpraɪz/",
+  "pos": "n./v.",
+  "m": "惊喜；使惊讶",
+  "e": "What a surprise!",
+  "ec": "真是一个惊喜！"
+ },
+ {
+  "w": "pity",
+  "p": "/ˈpɪti/",
+  "pos": "n.",
+  "m": "遗憾",
+  "e": "What a pity!",
+  "ec": "真遗憾！"
+ },
+ {
+  "w": "care",
+  "p": "/keə/",
+  "pos": "v./n.",
+  "m": "关心",
+  "e": "I care about my family.",
+  "ec": "我关心我的家人。"
+ },
+ {
+  "w": "miss",
+  "p": "/mɪs/",
+  "pos": "v.",
+  "m": "想念",
+  "e": "I miss my grandpa.",
+  "ec": "我想念爷爷。"
+ },
+ {
+  "w": "enjoy",
+  "p": "/ɪnˈdʒɔɪ/",
+  "pos": "v.",
+  "m": "享受",
+  "e": "I enjoy reading.",
+  "ec": "我享受阅读。"
+ },
+ {
+  "w": "relax",
+  "p": "/rɪˈlæks/",
+  "pos": "v.",
+  "m": "放松",
+  "e": "I relax on weekends.",
+  "ec": "我周末放松。"
+ },
+ {
+  "w": "cheer",
+  "p": "/tʃɪə/",
+  "pos": "v.",
+  "m": "欢呼；鼓励"
+ },
+ {
+  "w": "smile",
+  "p": "/smaɪl/",
+  "pos": "v.",
+  "m": "微笑"
+ },
+ {
+  "w": "festival",
+  "p": "/ˈfestɪvl/",
+  "pos": "n.",
+  "m": "节日",
+  "e": "The festival is coming.",
+  "ec": "节日就要到了。"
+ },
+ {
+  "w": "holiday",
+  "p": "/ˈhɒlədeɪ/",
+  "pos": "n.",
+  "m": "假日",
+  "e": "We have a long holiday.",
+  "ec": "我们有一个长假。"
+ },
+ {
+  "w": "birthday",
+  "p": "/ˈbɜːθdeɪ/",
+  "pos": "n.",
+  "m": "生日",
+  "e": "Happy birthday to you!",
+  "ec": "祝你生日快乐！"
+ },
+ {
+  "w": "Spring Festival",
+  "p": "/sprɪŋ ˈfestɪvl/",
+  "pos": "n.",
+  "m": "春节",
+  "e": "We eat dumplings at Spring Festival.",
+  "ec": "春节我们吃饺子。"
+ },
+ {
+  "w": "New Year",
+  "p": "/njuː jɪə/",
+  "pos": "n.",
+  "m": "新年",
+  "e": "Happy New Year!",
+  "ec": "新年快乐！"
+ },
+ {
+  "w": "Christmas",
+  "p": "/ˈkrɪsməs/",
+  "pos": "n.",
+  "m": "圣诞节",
+  "e": "We get gifts at Christmas.",
+  "ec": "圣诞节我们收到礼物。"
+ },
+ {
+  "w": "Mid-Autumn Festival",
+  "p": "/mɪd ˈɔːtəm ˈfestɪvl/",
+  "pos": "n.",
+  "m": "中秋节",
+  "e": "We eat moon cakes at Mid-Autumn Festival.",
+  "ec": "中秋节我们吃月饼。"
+ },
+ {
+  "w": "Dragon Boat Festival",
+  "p": "/ˈdræɡən bəʊt ˈfestɪvl/",
+  "pos": "n.",
+  "m": "端午节"
+ },
+ {
+  "w": "Lantern Festival",
+  "p": "/ˈlæntən ˈfestɪvl/",
+  "pos": "n.",
+  "m": "元宵节"
+ },
+ {
+  "w": "National Day",
+  "p": "/ˈnæʃnəl deɪ/",
+  "pos": "n.",
+  "m": "国庆节",
+  "e": "October 1st is National Day.",
+  "ec": "十月一日是国庆节。"
+ },
+ {
+  "w": "party",
+  "p": "/ˈpɑːti/",
+  "pos": "n.",
+  "m": "聚会",
+  "e": "We have a birthday party.",
+  "ec": "我们开生日聚会。"
+ },
+ {
+  "w": "celebrate",
+  "p": "/ˈselɪbreɪt/",
+  "pos": "v.",
+  "m": "庆祝",
+  "e": "We celebrate the New Year.",
+  "ec": "我们庆祝新年。"
+ },
+ {
+  "w": "candle",
+  "p": "/ˈkændl/",
+  "pos": "n.",
+  "m": "蜡烛",
+  "e": "Blow out the candles.",
+  "ec": "吹灭蜡烛。"
+ },
+ {
+  "w": "wish",
+  "p": "/wɪʃ/",
+  "pos": "n./v.",
+  "m": "愿望；祝愿",
+  "e": "Make a wish.",
+  "ec": "许个愿。"
+ },
+ {
+  "w": "invite",
+  "p": "/ɪnˈvaɪt/",
+  "pos": "v.",
+  "m": "邀请",
+  "e": "I invite my friend to the party.",
+  "ec": "我邀请朋友来聚会。"
+ },
+ {
+  "w": "visit",
+  "p": "/ˈvɪzɪt/",
+  "pos": "v.",
+  "m": "拜访"
+ },
+ {
+  "w": "play",
+  "p": "/pleɪ/",
+  "pos": "v.",
+  "m": "玩"
+ },
+ {
+  "w": "dance",
+  "p": "/dɑːns/",
+  "pos": "v.",
+  "m": "跳舞"
+ },
+ {
+  "w": "laugh",
+  "p": "/lɑːf/",
+  "pos": "v.",
+  "m": "大笑"
+ },
+ {
+  "w": "Christmas tree",
+  "p": "/ˈkrɪsməs triː/",
+  "pos": "n.",
+  "m": "圣诞树",
+  "e": "We decorate the Christmas tree.",
+  "ec": "我们装饰圣诞树。"
+ },
+ {
+  "w": "Santa Claus",
+  "p": "/ˈsæntə klɔːz/",
+  "pos": "n.",
+  "m": "圣诞老人"
+ },
+ {
+  "w": "moon cake",
+  "p": "/muːn keɪk/",
+  "pos": "n.",
+  "m": "月饼"
+ },
+ {
+  "w": "lantern",
+  "p": "/ˈlæntən/",
+  "pos": "n.",
+  "m": "灯笼"
+ },
+ {
+  "w": "firework",
+  "p": "/ˈfaɪəwɜːk/",
+  "pos": "n.",
+  "m": "烟花",
+  "e": "We watch fireworks on New Year.",
+  "ec": "新年我们看烟花。"
+ },
+ {
+  "w": "culture",
+  "p": "/ˈkʌltʃə/",
+  "pos": "n.",
+  "m": "文化",
+  "e": "We learn about Chinese culture.",
+  "ec": "我们了解中国文化。"
+ },
+ {
+  "w": "tradition",
+  "p": "/trəˈdɪʃn/",
+  "pos": "n.",
+  "m": "传统"
+ },
+ {
+  "w": "custom",
+  "p": "/ˈkʌstəm/",
+  "pos": "n.",
+  "m": "习俗"
+ },
+ {
+  "w": "holiday",
+  "p": "/ˈhɒlədeɪ/",
+  "pos": "n.",
+  "m": "假期"
+ },
+ {
+  "w": "vacation",
+  "p": "/veɪˈkeɪʃn/",
+  "pos": "n.",
+  "m": "假期",
+  "e": "We go on vacation in summer.",
+  "ec": "我们夏天去度假。"
+ },
+ {
+  "w": "fun",
+  "p": "/fʌn/",
+  "pos": "n.",
+  "m": "乐趣"
+ },
+ {
+  "w": "happy",
+  "p": "/ˈhæpi/",
+  "pos": "adj.",
+  "m": "快乐的"
+ },
+ {
+  "w": "free",
+  "p": "/friː/",
+  "pos": "adj.",
+  "m": "空闲的"
+ },
+ {
+  "w": "menu",
+  "p": "/ˈmenjuː/",
+  "pos": "n.",
+  "m": "菜单"
+ },
+ {
+  "w": "drink",
+  "p": "/drɪŋk/",
+  "pos": "n.",
+  "m": "饮料"
+ },
+ {
+  "w": "noodle",
+  "p": "/ˈnuːdl/",
+  "pos": "n.",
+  "m": "面条"
+ },
+ {
+  "w": "good luck",
+  "p": "/ɡʊd lʌk/",
+  "pos": "n.",
+  "m": "好运",
+  "e": "Good luck to you!",
+  "ec": "祝你好运！"
+ },
+ {
+  "w": "best wishes",
+  "p": "/best ˈwɪʃɪz/",
+  "pos": "n.",
+  "m": "最美好的祝愿"
+ },
+ {
+  "w": "day",
+  "p": "/deɪ/",
+  "pos": "n.",
+  "m": "天",
+  "e": "There are seven days in a week.",
+  "ec": "一周有七天。"
+ },
+ {
+  "w": "tonight",
+  "p": "/təˈnaɪt/",
+  "pos": "n./adv.",
+  "m": "今晚",
+  "e": "See you tonight.",
+  "ec": "今晚见。"
+ },
+ {
+  "w": "tomorrow",
+  "p": "/təˈmɒrəʊ/",
+  "pos": "n.",
+  "m": "明天"
+ },
+ {
+  "w": "sunlight",
+  "p": "/ˈsʌnlaɪt/",
+  "pos": "n.",
+  "m": "阳光",
+  "e": "Sunlight is warm.",
+  "ec": "阳光很温暖。"
+ },
+ {
+  "w": "moonlight",
+  "p": "/ˈmuːnlaɪt/",
+  "pos": "n.",
+  "m": "月光"
+ },
+ {
+  "w": "rainfall",
+  "p": "/ˈreɪnfɔːl/",
+  "pos": "n.",
+  "m": "降雨"
+ },
+ {
+  "w": "climate",
+  "p": "/ˈklaɪmət/",
+  "pos": "n.",
+  "m": "气候",
+  "e": "The climate here is mild.",
+  "ec": "这里气候温和。"
+ },
+ {
+  "w": "earthquake",
+  "p": "/ˈɜːθkweɪk/",
+  "pos": "n.",
+  "m": "地震"
+ },
+ {
+  "w": "volcano",
+  "p": "/vɒlˈkeɪnəʊ/",
+  "pos": "n.",
+  "m": "火山"
+ },
+ {
+  "w": "bamboo",
+  "p": "/bæmˈbuː/",
+  "pos": "n.",
+  "m": "竹子",
+  "e": "Pandas eat bamboo.",
+  "ec": "熊猫吃竹子。"
+ },
+ {
+  "w": "lotus",
+  "p": "/ˈləʊtəs/",
+  "pos": "n.",
+  "m": "莲花"
+ },
+ {
+  "w": "rose",
+  "p": "/rəʊz/",
+  "pos": "n.",
+  "m": "玫瑰",
+  "e": "The rose is red.",
+  "ec": "玫瑰是红色的。"
+ },
+ {
+  "w": "lily",
+  "p": "/ˈlɪli/",
+  "pos": "n.",
+  "m": "百合花"
+ },
+ {
+  "w": "bush",
+  "p": "/bʊʃ/",
+  "pos": "n.",
+  "m": "灌木丛"
+ },
+ {
+  "w": "jungle",
+  "p": "/ˈdʒʌŋɡl/",
+  "pos": "n.",
+  "m": "丛林"
+ },
+ {
+  "w": "grasshopper",
+  "p": "/ˈɡrɑːshɒpə/",
+  "pos": "n.",
+  "m": "蚱蜢"
+ },
+ {
+  "w": "Easter",
+  "p": "/ˈiːstə/",
+  "pos": "n.",
+  "m": "复活节"
+ },
+ {
+  "w": "Halloween",
+  "p": "/ˌhæləʊˈiːn/",
+  "pos": "n.",
+  "m": "万圣节",
+  "e": "We dress up on Halloween.",
+  "ec": "万圣节我们装扮。"
+ },
+ {
+  "w": "Teachers' Day",
+  "p": "/ˈtiːtʃəz deɪ/",
+  "pos": "n.",
+  "m": "教师节"
+ },
+ {
+  "w": "Children's Day",
+  "p": "/ˈtʃɪldrənz deɪ/",
+  "pos": "n.",
+  "m": "儿童节",
+  "e": "Children's Day is fun.",
+  "ec": "儿童节很好玩。"
+ },
+ {
+  "w": "Mother's Day",
+  "p": "/ˈmʌðəz deɪ/",
+  "pos": "n.",
+  "m": "母亲节"
+ },
+ {
+  "w": "guava",
+  "p": "/ˈɡwɑːvə/",
+  "pos": "n.",
+  "m": "番石榴"
+ },
+ {
+  "w": "papaya",
+  "p": "/pəˈpaɪə/",
+  "pos": "n.",
+  "m": "木瓜"
+ },
+ {
+  "w": "passion fruit",
+  "p": "/ˈpæʃn fruːt/",
+  "pos": "n.",
+  "m": "百香果"
+ },
+ {
+  "w": "jackfruit",
+  "p": "/ˈdʒækfruːt/",
+  "pos": "n.",
+  "m": "菠萝蜜"
+ },
+ {
+  "w": "pomelo",
+  "p": "/ˈpɒmələʊ/",
+  "pos": "n.",
+  "m": "柚子"
+ },
+ {
+  "w": "kumquat",
+  "p": "/ˈkʌmkwɒt/",
+  "pos": "n.",
+  "m": "金桔"
+ },
+ {
+  "w": "hawthorn",
+  "p": "/ˈhɔːθɔːn/",
+  "pos": "n.",
+  "m": "山楂"
+ },
+ {
+  "w": "mulberry",
+  "p": "/ˈmʌlbəri/",
+  "pos": "n.",
+  "m": "桑葚"
+ },
+ {
+  "w": "overcoat",
+  "p": "/ˈəʊvəkəʊt/",
+  "pos": "n.",
+  "m": "长大衣"
+ },
+ {
+  "w": "blouse",
+  "p": "/blaʊz/",
+  "pos": "n.",
+  "m": "女衬衫"
+ },
+ {
+  "w": "overalls",
+  "p": "/ˈəʊvərɔːlz/",
+  "pos": "n.",
+  "m": "工装裤"
+ },
+ {
+  "w": "swimsuit",
+  "p": "/ˈswɪmsuːt/",
+  "pos": "n.",
+  "m": "泳衣",
+  "e": "I wear a swimsuit in summer.",
+  "ec": "我夏天穿泳衣。"
+ },
+ {
+  "w": "pajamas",
+  "p": "/pəˈdʒɑːməz/",
+  "pos": "n.",
+  "m": "睡衣"
+ },
+ {
+  "w": "vest",
+  "p": "/vest/",
+  "pos": "n.",
+  "m": "背心"
+ },
+ {
+  "w": "apron",
+  "p": "/ˈeɪprən/",
+  "pos": "n.",
+  "m": "围裙"
+ },
+ {
+  "w": "headscarf",
+  "p": "/ˈhedskɑːf/",
+  "pos": "n.",
+  "m": "头巾"
+ },
+ {
+  "w": "breeze",
+  "p": "/briːz/",
+  "pos": "n.",
+  "m": "微风",
+  "e": "A cool breeze blows.",
+  "ec": "一阵凉风吹过。"
+ },
+ {
+  "w": "hail",
+  "p": "/heɪl/",
+  "pos": "n.",
+  "m": "冰雹"
+ },
+ {
+  "w": "frost",
+  "p": "/frɒst/",
+  "pos": "n.",
+  "m": "霜"
+ },
+ {
+  "w": "dew",
+  "p": "/djuː/",
+  "pos": "n.",
+  "m": "露水"
+ },
+ {
+  "w": "mist",
+  "p": "/mɪst/",
+  "pos": "n.",
+  "m": "薄雾"
+ },
+ {
+  "w": "gale",
+  "p": "/ɡeɪl/",
+  "pos": "n.",
+  "m": "大风"
+ },
+ {
+  "w": "shower",
+  "p": "/ˈʃaʊə/",
+  "pos": "n.",
+  "m": "阵雨"
+ },
+ {
+  "w": "drizzle",
+  "p": "/ˈdrɪzl/",
+  "pos": "n.",
+  "m": "毛毛雨"
+ },
+ {
+  "w": "mild",
+  "p": "/maɪld/",
+  "pos": "adj.",
+  "m": "温和的"
+ },
+ {
+  "w": "humid",
+  "p": "/ˈhjuːmɪd/",
+  "pos": "adj.",
+  "m": "潮湿的"
+ },
+ {
+  "w": "freezing",
+  "p": "/ˈfriːzɪŋ/",
+  "pos": "adj.",
+  "m": "极冷的"
+ },
+ {
+  "w": "remote",
+  "p": "/rɪˈməʊt/",
+  "pos": "n.",
+  "m": "遥控器"
+ },
+ {
+  "w": "speaker",
+  "p": "/ˈspiːkə/",
+  "pos": "n.",
+  "m": "音箱"
+ },
+ {
+  "w": "earphone",
+  "p": "/ˈɪəfəʊn/",
+  "pos": "n.",
+  "m": "耳机"
+ },
+ {
+  "w": "charger",
+  "p": "/ˈtʃɑːdʒə/",
+  "pos": "n.",
+  "m": "充电器"
+ },
+ {
+  "w": "battery",
+  "p": "/ˈbætri/",
+  "pos": "n.",
+  "m": "电池",
+  "e": "The battery is dead.",
+  "ec": "电池没电了。"
+ },
+ {
+  "w": "wardrobe",
+  "p": "/ˈwɔːdrəʊb/",
+  "pos": "n.",
+  "m": "衣柜"
+ },
+ {
+  "w": "cushion",
+  "p": "/ˈkʊʃn/",
+  "pos": "n.",
+  "m": "靠垫"
+ },
+ {
+  "w": "curtain",
+  "p": "/ˈkɜːtn/",
+  "pos": "n.",
+  "m": "窗帘"
+ },
+ {
+  "w": "carpet",
+  "p": "/ˈkɑːpɪt/",
+  "pos": "n.",
+  "m": "地毯"
+ },
+ {
+  "w": "anxious",
+  "p": "/ˈæŋkʃəs/",
+  "pos": "adj.",
+  "m": "焦虑的"
+ },
+ {
+  "w": "grateful",
+  "p": "/ˈɡreɪtfl/",
+  "pos": "adj.",
+  "m": "感激的",
+  "e": "I am grateful for your help.",
+  "ec": "我感谢你的帮助。"
+ },
+ {
+  "w": "disappointed",
+  "p": "/ˌdɪsəˈpɔɪntɪd/",
+  "pos": "adj.",
+  "m": "失望的"
+ },
+ {
+  "w": "tram",
+  "p": "/træm/",
+  "pos": "n.",
+  "m": "有轨电车"
+ },
+ {
+  "w": "ferry",
+  "p": "/ˈferi/",
+  "pos": "n.",
+  "m": "渡轮"
+ },
+ {
+  "w": "ambulance",
+  "p": "/ˈæmbjələns/",
+  "pos": "n.",
+  "m": "救护车"
+ },
+ {
+  "w": "cable car",
+  "p": "/ˈkeɪbl kɑː/",
+  "pos": "n.",
+  "m": "缆车"
+ },
+ {
+  "w": "highlighter",
+  "p": "/ˈhaɪlaɪtə/",
+  "pos": "n.",
+  "m": "荧光笔"
+ },
+ {
+  "w": "protractor",
+  "p": "/prəˈtræktə/",
+  "pos": "n.",
+  "m": "量角器"
+ },
+ {
+  "w": "wrist",
+  "p": "/rɪst/",
+  "pos": "n.",
+  "m": "手腕"
+ },
+ {
+  "w": "nephew",
+  "p": "/ˈnefjuː/",
+  "pos": "n.",
+  "m": "侄子"
+ },
+ {
+  "w": "niece",
+  "p": "/niːs/",
+  "pos": "n.",
+  "m": "侄女"
+ },
+ {
+  "w": "ancestor",
+  "p": "/ˈænsestə/",
+  "pos": "n.",
+  "m": "祖先"
+ },
+ {
+  "w": "sibling",
+  "p": "/ˈsɪblɪŋ/",
+  "pos": "n.",
+  "m": "兄弟姐妹"
+ },
+ {
+  "w": "in-law",
+  "p": "/ɪn lɔː/",
+  "pos": "n.",
+  "m": "姻亲"
+ },
+ {
+  "w": "whisper",
+  "p": "/ˈwɪspə/",
+  "pos": "v.",
+  "m": "耳语"
+ },
+ {
+  "w": "wave",
+  "p": "/weɪv/",
+  "pos": "v.",
+  "m": "挥手",
+  "e": "Wave your hand.",
+  "ec": "挥挥手。"
+ },
+ {
+  "w": "yawn",
+  "p": "/jɔːn/",
+  "pos": "v.",
+  "m": "打哈欠"
+ },
+ {
+  "w": "seafood",
+  "p": "/ˈsiːfuːd/",
+  "pos": "n.",
+  "m": "海鲜",
+  "e": "We eat seafood at the seaside.",
+  "ec": "我们在海边吃海鲜。"
+ },
+ {
+  "w": "barbecue",
+  "p": "/ˈbɑːbɪkjuː/",
+  "pos": "n.",
+  "m": "烧烤"
+ },
+ {
+  "w": "semester",
+  "p": "/sɪˈmestə/",
+  "pos": "n.",
+  "m": "学期"
+ },
+ {
+  "w": "timetable",
+  "p": "/ˈtaɪmteɪbl/",
+  "pos": "n.",
+  "m": "课程表"
+ },
+ {
+  "w": "break",
+  "p": "/breɪk/",
+  "pos": "n.",
+  "m": "课间休息",
+  "e": "We play at break.",
+  "ec": "课间我们玩耍。"
+ },
+ {
+  "w": "assembly",
+  "p": "/əˈsembli/",
+  "pos": "n.",
+  "m": "集会"
+ },
+ {
+  "w": "cafeteria",
+  "p": "/ˌkæfəˈtɪəriə/",
+  "pos": "n.",
+  "m": "食堂"
+ },
+ {
+  "w": "swan",
+  "p": "/swɒn/",
+  "pos": "n.",
+  "m": "天鹅"
+ },
+ {
+  "w": "peacock",
+  "p": "/ˈpiːkɒk/",
+  "pos": "n.",
+  "m": "孔雀"
+ },
+ {
+  "w": "golf",
+  "p": "/ɡɒlf/",
+  "pos": "n.",
+  "m": "高尔夫球"
+ },
+ {
+  "w": "rugby",
+  "p": "/ˈrʌɡbi/",
+  "pos": "n.",
+  "m": "橄榄球"
+ },
+ {
+  "w": "marathon",
+  "p": "/ˈmærəθən/",
+  "pos": "n.",
+  "m": "马拉松"
+ },
+ {
+  "w": "gymnastics",
+  "p": "/dʒɪmˈnæstɪks/",
+  "pos": "n.",
+  "m": "体操"
+ },
+ {
+  "w": "architect",
+  "p": "/ˈɑːkɪtekt/",
+  "pos": "n.",
+  "m": "建筑师"
+ },
+ {
+  "w": "astronaut",
+  "p": "/ˈæstrənɔːt/",
+  "pos": "n.",
+  "m": "宇航员",
+  "e": "The astronaut flies into space.",
+  "ec": "宇航员飞向太空。"
+ },
+ {
+  "w": "interpreter",
+  "p": "/ɪnˈtɜːprɪtə/",
+  "pos": "n.",
+  "m": "口译员"
+ },
+ {
+  "w": "cashier",
+  "p": "/kæˈʃɪə/",
+  "pos": "n.",
+  "m": "收银员"
+ },
+ {
+  "w": "square",
+  "p": "/skweə/",
+  "pos": "n.",
+  "m": "广场"
+ },
+ {
+  "w": "courtyard",
+  "p": "/ˈkɔːtjɑːd/",
+  "pos": "n.",
+  "m": "庭院"
+ },
+ {
+  "w": "gentle",
+  "p": "/ˈdʒentl/",
+  "pos": "adj.",
+  "m": "温柔的",
+  "e": "She is gentle with the baby.",
+  "ec": "她对婴儿很温柔。"
+ },
+ {
+  "w": "generous",
+  "p": "/ˈdʒenərəs/",
+  "pos": "adj.",
+  "m": "慷慨的"
+ },
+ {
+  "w": "humble",
+  "p": "/ˈhʌmbl/",
+  "pos": "adj.",
+  "m": "谦虚的"
+ },
+ {
+  "w": "strict",
+  "p": "/strɪkt/",
+  "pos": "adj.",
+  "m": "严格的",
+  "e": "Our teacher is strict but kind.",
+  "ec": "我们老师严格但亲切。"
+ },
+ {
+  "w": "creative",
+  "p": "/kriˈeɪtɪv/",
+  "pos": "adj.",
+  "m": "有创造力的"
+ },
+ {
+  "w": "midnight",
+  "p": "/ˈmɪdnaɪt/",
+  "pos": "n.",
+  "m": "午夜"
+ },
+ {
+  "w": "dawn",
+  "p": "/dɔːn/",
+  "pos": "n.",
+  "m": "黎明"
+ },
+ {
+  "w": "dusk",
+  "p": "/dʌsk/",
+  "pos": "n.",
+  "m": "黄昏"
+ },
+ {
+  "w": "fortnight",
+  "p": "/ˈfɔːtnaɪt/",
+  "pos": "n.",
+  "m": "两周"
+ },
+ {
+  "w": "century",
+  "p": "/ˈsentʃəri/",
+  "pos": "n.",
+  "m": "世纪"
+ },
+ {
+  "w": "beige",
+  "p": "/beɪʒ/",
+  "pos": "adj.",
+  "m": "米色的"
+ },
+ {
+  "w": "navy",
+  "p": "/ˈneɪvi/",
+  "pos": "adj.",
+  "m": "藏青色的"
+ },
+ {
+  "w": "crimson",
+  "p": "/ˈkrɪmzn/",
+  "pos": "adj.",
+  "m": "深红色的"
+ },
+ {
+  "w": "turquoise",
+  "p": "/ˈtɜːkwɑːz/",
+  "pos": "adj.",
+  "m": "青绿色的"
+ },
+ {
+  "w": "maroon",
+  "p": "/məˈruːn/",
+  "pos": "adj.",
+  "m": "栗色的"
+ },
+ {
+  "w": "billion",
+  "p": "/ˈbɪljən/",
+  "pos": "num.",
+  "m": "十亿"
+ },
+ {
+  "w": "million",
+  "p": "/ˈmɪljən/",
+  "pos": "num.",
+  "m": "百万",
+  "e": "There are millions of stars.",
+  "ec": "天空有数百万颗星星。"
+ },
+ {
+  "w": "dozen",
+  "p": "/ˈdʌzn/",
+  "pos": "num.",
+  "m": "一打（十二个）"
+ },
+ {
+  "w": "quarter",
+  "p": "/ˈkwɔːtə/",
+  "pos": "n.",
+  "m": "四分之一"
+ },
+ {
+  "w": "twice",
+  "p": "/twaɪs/",
+  "pos": "adv.",
+  "m": "两次",
+  "e": "I read it twice.",
+  "ec": "我读了两遍。"
+ },
+ {
+  "w": "against",
+  "p": "/əˈɡenst/",
+  "pos": "prep.",
+  "m": "反对；靠着"
+ },
+ {
+  "w": "during",
+  "p": "/ˈdjʊərɪŋ/",
+  "pos": "prep.",
+  "m": "在…期间",
+  "e": "We listen during class.",
+  "ec": "上课期间我们听讲。"
+ },
+ {
+  "w": "among",
+  "p": "/əˈmʌŋ/",
+  "pos": "prep.",
+  "m": "在…之中"
+ }
+]

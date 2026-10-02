@@ -1,0 +1,14 @@
+{
+  "name": "english-vocab-game",
+  "version": "1.0.0",
+  "description": "小学英语单词闯关学习游戏（纯 Node 内置模块，零依赖）",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}

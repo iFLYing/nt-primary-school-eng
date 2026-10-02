@@ -1,0 +1,14 @@
+# Render Blueprint 一键部署配置
+# 使用：把整个项目（含本文件）推到 GitHub，在 Render 用 "Blueprint" 方式连接该仓库即可自动部署。
+# 免费实例：约 15 分钟无请求会休眠，且重启后 data/db.json（账号/进度）会被清空——如需长期保存请升级持久卷。
+services:
+  - type: web
+    name: english-vocab-game
+    runtime: node
+    plan: free
+    buildCommand: ""
+    startCommand: node server/server.js
+    healthCheckPath: /
+    envVars:
+      - key: PORT
+        value: 10000

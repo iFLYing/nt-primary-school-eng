@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>英语单词闯关营</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<!-- ========== 登录 / 注册 ========== -->
+<div id="view-auth" class="view">
+  <div class="auth-card">
+    <div class="auth-logo">📚</div>
+    <h1 class="auth-title">英语单词闯关营</h1>
+    <p class="auth-sub">小升初必备 1200 词 · 边玩边学 · 每日打卡</p>
+    <div class="auth-tabs">
+      <button id="tabLogin" class="tab active">登录</button>
+      <button id="tabRegister" class="tab">注册</button>
+    </div>
+    <div id="loginForm" class="auth-form">
+      <input id="loginName" class="input" placeholder="用户名">
+      <input id="loginPass" type="password" class="input" placeholder="密码">
+      <button id="btnLogin" class="btn btn-primary btn-block">登 录</button>
+    </div>
+    <div id="registerForm" class="auth-form" style="display:none">
+      <input id="regName" class="input" placeholder="家长用户名（2-14位）">
+      <input id="regPass" type="password" class="input" placeholder="家长密码（至少4位）">
+      <input id="regChildNick" class="input" placeholder="孩子昵称（如：小明）">
+      <p class="hint" style="font-size:12px;color:#8a7a5c;margin:6px 0 0">注册成功后自动生成孩子账号，孩子用它登录闯关</p>
+      <button id="btnRegister" class="btn btn-primary btn-block">注册家长账号</button>
+    </div>
+    <p id="authMsg" class="msg"></p>
+  </div>
+</div>
+
+<!-- ========== 主界面（首页/排行/家长/个人） ========== -->
+<div id="view-main" class="view">
+  <header class="topbar">
+    <div class="topbar-left">
+      <span class="app-icon">📚</span>
+      <span class="app-name">单词闯关营</span>
+    </div>
+    <div class="topbar-right">
+      <span id="checkinBtn" class="checkin-btn">打卡</span>
+      <button id="logoutBtn" class="btn btn-ghost">退出</button>
+    </div>
+  </header>
+
+  <nav class="tabnav">
+    <button class="navtab active" data-view="home">闯关</button>
+    <button class="navtab" data-view="rank">排行榜</button>
+    <button class="navtab" data-view="parent">家长看板</button>
+    <button class="navtab" data-view="profile">我的</button>
+  </nav>
+
+  <!-- 首页：关卡 -->
+  <div id="view-home" class="tabpage">
+    <div class="stats-row">
+      <div class="stat"><b id="statStreak">0</b><span>连续天数</span></div>
+      <div class="stat"><b id="statScore">0</b><span>累计得分</span></div>
+      <div class="stat"><b id="statMastered">0</b><span>掌握单词</span></div>
+      <div class="stat"><b id="statPassed">0</b><span>已通关</span></div>
+    </div>
+    <div class="stats-row sub">
+      <div class="stat"><b id="statSeen">0</b><span>已学习</span></div>
+      <div class="stat"><b id="statTotal">1200</b><span>总词汇</span></div>
+      <div class="stat"><b id="statAccuracy">0%</b><span>正确率</span></div>
+      <div class="stat"><b id="statUsers">0</b><span>使用人数</span></div>
+    </div>
+    <h2 class="section-title">🎮 游戏乐园</h2>
+    <div class="game-grid">
+      <div class="game-card" data-game="wordbuild"><span class="game-icon">🔤</span><span class="game-name">拼词达人</span><span class="game-desc">打乱字母，拼出单词</span></div>
+      <div class="game-card" data-game="memory"><span class="game-icon">🃏</span><span class="game-name">翻牌记忆</span><span class="game-desc">翻开卡片，配对英中</span></div>
+      <div class="game-card" data-game="match"><span class="game-icon">🔗</span><span class="game-name">连连看</span><span class="game-desc">连线，配对英文中文</span></div>
+      <div class="game-card" data-game="fill"><span class="game-icon">✏️</span><span class="game-name">填词高手</span><span class="game-desc">例句挖空，选词填空</span></div>
+      <div class="game-card" data-game="sort"><span class="game-icon">🗂️</span><span class="game-name">分类挑战</span><span class="game-desc">把单词放进正确主题</span></div>
+      <div class="game-card" data-game="whack"><span class="game-icon">🐭</span><span class="game-name">打地鼠快选</span><span class="game-desc">快速点出正确单词</span></div>
+      <div class="game-card" data-game="chain"><span class="game-icon">🐉</span><span class="game-name">单词接龙</span><span class="game-desc">接出首尾相连的单词</span></div>
+    </div>
+    <h2 class="section-title">选择关卡</h2>
+    <div id="levelGrid" class="level-grid"></div>
+  </div>
+
+  <!-- 排行榜 -->
+  <div id="view-rank" class="tabpage" style="display:none">
+    <h2 class="section-title">🏆 排行榜（前 20 名）</h2>
+    <div id="rankList" class="rank-list"></div>
+  </div>
+
+  <!-- 家长看板 -->
+  <div id="view-parent" class="tabpage" style="display:none">
+    <h2 class="section-title">👨‍👩‍👧 家长学习看板</h2>
+    <p class="hint">你的孩子账号及学习进度（需家长账号登录）</p>
+    <div id="parentResult"></div>
+  </div>
+
+  <!-- 个人中心 -->
+  <div id="view-profile" class="tabpage" style="display:none">
+    <h2 class="section-title">🙋 个人中心</h2>
+    <div class="profile-card">
+      <p>用户名：<b id="profName"></b></p>
+      <p>昵称：<b id="profNick"></b></p>
+      <p>已通关：<b id="profPassed"></b> 关</p>
+      <p>累计得分：<b id="profScore"></b></p>
+      <p>答题正确率：<b id="profAcc"></b></p>
+      <p>已掌握单词：<b id="profMastered"></b> / 1200</p>
+      <p>连续打卡：<b id="profStreak"></b> 天</p>
+      <button id="btnCheckin" class="btn btn-primary btn-block">今日打卡</button>
+    </div>
+  </div>
+</div>
+
+<!-- ========== 答题页 ========== -->
+<div id="view-quiz" class="view">
+  <header class="quiz-top">
+    <button id="btnQuit" class="btn btn-ghost">退出</button>
+    <span id="quizTitle" class="quiz-title"></span>
+    <span id="quizProgress" class="quiz-progress"></span>
+  </header>
+  <div id="quizBody" class="quiz-body">
+    <p id="qPrompt" class="q-prompt"></p>
+    <div id="qDisplay" class="q-display"></div>
+    <div id="qOptions" class="q-options"></div>
+    <div id="qFeedback" class="q-feedback"></div>
+    <button id="btnNext" class="btn btn-primary btn-block" style="display:none">下一题</button>
+  </div>
+</div>
+
+<!-- ========== 结算页 ========== -->
+<div id="view-result" class="view">
+  <div class="result-card">
+    <h2 id="resultTitle" class="result-title"></h2>
+    <p id="resultScore" class="result-score"></p>
+    <p id="resultAcc" class="result-acc"></p>
+    <div id="resultWrong" class="result-wrong"></div>
+    <div class="result-btns">
+      <button id="btnRetry" class="btn btn-ghost">再练一次</button>
+      <button id="btnNextLevel" class="btn btn-primary" style="display:none">下一关</button>
+      <button id="btnBackHome" class="btn btn-primary">返回首页</button>
+    </div>
+  </div>
+</div>
+
+<!-- ========== 游戏乐园 ========== -->
+<div id="view-game" class="view">
+  <header class="quiz-top">
+    <button id="btnGameBack" class="btn btn-ghost">退出</button>
+    <span id="gameTitle" class="quiz-title"></span>
+    <span id="gameInfo" class="quiz-progress"></span>
+  </header>
+  <div id="gameBody" class="game-body"></div>
+</div>
+
+<!-- 底部提示 -->
+<div id="toast" class="toast"></div>
+
+<script src="js/quiz-utils.js"></script>
+<script src="js/app.js"></script>
+<script src="js/games.js"></script>
+</body>
+</html>
