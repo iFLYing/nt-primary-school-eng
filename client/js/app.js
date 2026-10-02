@@ -384,6 +384,61 @@
     }
   }
 
+  // ---------- 管理后台 ----------
+  let ADMIN_TOKEN = sessionStorage.getItem('adminToken') || '';
+  function adminFetch(path) {
+    return fetch('/api' + path, { headers: { 'Authorization': 'Bearer ' + ADMIN_TOKEN } })
+      .then(r => r.json().catch(() => ({})))
+      .then(d => { if (!d || (d.error && !d.users)) throw new Error(d.error || '请求失败'); return d; });
+  }
+  function renderAdmin() {
+    const body = $('adminBody');
+    if (!ADMIN_TOKEN) {
+      body.innerHTML = '<div class="admin-login"><p class="admin-label">请输入管理员密码</p>' +
+        '<input id="adminPass" type="password" class="input" placeholder="管理员密码">' +
+        '<button id="btnAdminLogin" class="btn btn-primary btn-block">进入管理</button>' +
+        '<p id="adminMsg" class="msg"></p></div>';
+      $('btnAdminLogin').onclick = async () => {
+        try {
+          const r = await fetch('/api/admin/login', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ password: $('adminPass').value }) }).then(x => x.json());
+          if (r.error) { $('adminMsg').textContent = r.error; return; }
+          ADMIN_TOKEN = r.adminToken; sessionStorage.setItem('adminToken', ADMIN_TOKEN); renderAdmin();
+        } catch (e) { $('adminMsg').textContent = '请求失败'; }
+      };
+    } else {
+      body.innerHTML = '<p class="admin-loading">加载中…</p>';
+      adminFetch('/admin/users')
+        .then(d => renderAdminList(body, d))
+        .catch(e => { body.innerHTML = '<div class="admin-login"><p class="msg" style="color:#e53935">' + esc(e.message) + '</p><button id="btnAdminLogout" class="btn btn-ghost btn-block">退出管理</button></div>'; $('btnAdminLogout').onclick = adminLogout; });
+    }
+  }
+  function adminLogout() { sessionStorage.removeItem('adminToken'); ADMIN_TOKEN = ''; renderAdmin(); }
+  function renderAdminList(body, d) {
+    const s = d.stats;
+    let h = '<div class="admin-stats">' +
+      '<div class="stat"><b>' + s.totalUsers + '</b><span>总账号</span></div>' +
+      '<div class="stat"><b>' + s.parents + '</b><span>家长</span></div>' +
+      '<div class="stat"><b>' + s.children + '</b><span>孩子</span></div>' +
+      '</div>' +
+      '<div class="admin-logout"><button id="btnAdminLogout" class="btn btn-ghost">退出管理</button></div>' +
+      '<div class="admin-table-wrap"><table class="admin-table"><thead><tr>' +
+      '<th>用户名</th><th>类型</th><th>掌握词</th><th>得分</th><th>通关</th><th>正确率</th><th>打卡天数</th>' +
+      '</tr></thead><tbody>';
+    d.users.forEach(u => {
+      const p = u.progress || {};
+      const type = u.isParent ? '家长' : '孩子';
+      const nm = u.isParent ? esc(u.username) : (esc(u.username) + ' <span class="badge-child">孩子</span>');
+      h += '<tr><td>' + nm + '</td><td>' + type + '</td>' +
+        '<td>' + (p.mastered ?? '-') + '</td><td>' + (p.totalScore ?? '-') + '</td>' +
+        '<td>' + (p.completedLevels ?? '-') + '</td><td>' + (p.accuracy ?? '-') + '%</td>' +
+        '<td>' + (p.checkinDays ?? '-') + '</td></tr>';
+    });
+    h += '</tbody></table></div>' +
+      '<div class="admin-note">数据实时读取自服务器；免费实例重启后进度可能清空，想长期保存可升级持久存储。</div>';
+    body.innerHTML = h;
+    $('btnAdminLogout').onclick = adminLogout;
+  }
+
   // ---------- 导航绑定 ----------
   document.querySelectorAll('.navtab').forEach(b => {
     b.onclick = () => {
@@ -402,6 +457,10 @@
     };
   });
   $('btnGameBack').onclick = () => { showView('main'); showTab('home'); };
+
+  // ---------- 管理入口 ----------
+  $('btnAdmin').onclick = () => { showView('admin'); renderAdmin(); };
+  $('btnAdminBack').onclick = () => { showView('main'); showTab('home'); };
 
   // ---------- 启动 ----------
   bindAuth();

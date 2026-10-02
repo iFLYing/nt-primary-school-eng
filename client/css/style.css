@@ -256,3 +256,35 @@ body {
 .ch-opt.ok { border-color: var(--green); background: #E8F5E9; color: var(--green); }
 .ch-opt.no { border-color: var(--red); background: #FFEBEE; color: var(--red); }
 .ch-opt.disabled { pointer-events: none; }
+
+/* ===== 底部署名条 + 管理入口 ===== */
+body { padding-bottom: 54px; }
+.app-footer {
+  position: fixed; left: 0; right: 0; bottom: 0; height: 46px;
+  background: #fff; border-top: 1px solid var(--line);
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 0 16px; z-index: 200; font-size: 13px; color: #94a3b8;
+}
+.footer-credit { font-size: 13px; color: #aab3c3; letter-spacing: .5px; }
+.admin-entry {
+  background: none; border: 1px solid var(--line); border-radius: 16px;
+  padding: 5px 14px; font-size: 13px; color: var(--primary); cursor: pointer;
+}
+
+/* ===== 管理后台 ===== */
+.admin-body { padding: 18px 18px 30px; }
+.admin-login { max-width: 320px; margin: 40px auto; background: var(--card); border: 1px solid var(--line); border-radius: 18px; padding: 24px 20px; box-shadow: 0 6px 20px rgba(31, 45, 61, .06); }
+.admin-label { font-size: 16px; font-weight: 700; color: var(--ink); text-align: center; margin-bottom: 16px; }
+.admin-loading { text-align: center; color: var(--sub); padding: 40px 0; }
+.admin-stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-bottom: 14px; }
+.admin-stats .stat { background: var(--card); border: 1px solid var(--line); border-radius: 14px; text-align: center; padding: 14px 4px; }
+.admin-stats .stat b { display: block; font-size: 24px; color: var(--primary-d); }
+.admin-stats .stat span { font-size: 12px; color: var(--sub); }
+.admin-logout { text-align: right; margin-bottom: 10px; }
+.admin-table-wrap { background: var(--card); border: 1px solid var(--line); border-radius: 14px; overflow-x: auto; }
+.admin-table { width: 100%; border-collapse: collapse; font-size: 13px; }
+.admin-table th, .admin-table td { padding: 9px 10px; text-align: left; border-bottom: 1px solid var(--bg); white-space: nowrap; }
+.admin-table th { background: #f4f7fb; color: var(--sub); font-weight: 600; position: sticky; top: 0; }
+.admin-table tr:last-child td { border-bottom: none; }
+.badge-child { background: #E8F0FE; color: var(--primary); border-radius: 10px; font-size: 11px; padding: 1px 6px; margin-left: 2px; }
+.admin-note { font-size: 12px; color: var(--sub); margin-top: 12px; line-height: 1.6; }

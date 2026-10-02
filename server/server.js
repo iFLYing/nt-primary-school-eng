@@ -13,6 +13,11 @@ const CLIENT_DIR = path.join(ROOT, 'client');
 const DB_FILE = path.join(DATA_DIR, 'db.json');
 const PORT = Number(process.env.PORT) || 5173;
 
+/* ---------- 管理后台 ---------- */
+// 管理员密码：可用环境变量 ADMIN_PASS 覆盖（Render 后台可配置），默认 admin123
+const ADMIN_PASS = process.env.ADMIN_PASS || 'admin123';
+const adminToken = crypto.createHash('sha256').update('admin:' + ADMIN_PASS + ':vocab').digest('hex');
+
 /* ---------- 数据层：JSON 文件存储 ---------- */
 function loadDB() {
   if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
@@ -301,6 +306,43 @@ function handleApi(req, res, url, db) {
       return { child: publicUser(u), progress: publicProgress(p) };
     });
     return json(res, 200, { children });
+  }
+
+  // 管理后台：登录（返回管理员令牌）
+  if (method === 'POST' && pathname === '/api/admin/login') {
+    return readBody(req).then(body => {
+      if (String(body.password || '') !== ADMIN_PASS) return json(res, 401, { error: '管理员密码错误' });
+      return json(res, 200, { adminToken });
+    });
+  }
+  // 管理后台：查看全部用户数据
+  if (method === 'GET' && pathname === '/api/admin/users') {
+    const h = req.headers['authorization'] || '';
+    const tk = h.startsWith('Bearer ') ? h.slice(7) : '';
+    if (tk !== adminToken) return json(res, 401, { error: '管理员鉴权失败' });
+    const users = db.users.map(u => {
+      const p = db.progress[u.id];
+      const prog = p ? {
+        totalScore: p.totalScore || 0,
+        completedLevels: p.completedLevels || 0,
+        mastered: Object.keys(p.wordMastered || {}).length,
+        seen: Object.keys(p.wordSeen || {}).length,
+        totalQuestions: p.totalQuestions || 0,
+        accuracy: p.totalAttempts > 0 ? Math.min(100, Math.max(0, Math.round((p.totalCorrect / p.totalAttempts) * 100))) : 0,
+        checkinStreak: p.checkinStreak || 0,
+        checkinDays: (p.checkinHistory || []).length
+      } : null;
+      return {
+        id: u.id, username: u.username, nickname: u.nickname,
+        isParent: !!u.isParent, parentId: u.parentId || null, createdAt: u.createdAt, progress: prog
+      };
+    });
+    const parents = users.filter(u => u.isParent);
+    const children = users.filter(u => !u.isParent);
+    return json(res, 200, {
+      users,
+      stats: { totalUsers: users.length, parents: parents.length, children: children.length }
+    });
   }
 
   return json(res, 404, { error: '接口不存在' });
