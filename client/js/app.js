@@ -448,7 +448,7 @@
         .catch(e => { body.innerHTML = '<div class="admin-login"><p class="msg" style="color:#e53935">' + esc(e.message) + '</p><button id="btnAdminLogout" class="btn btn-ghost btn-block">退出管理</button></div>'; $('btnAdminLogout').onclick = adminLogout; });
     }
   }
-  function adminLogout() { sessionStorage.removeItem('adminToken'); ADMIN_TOKEN = ''; showView('main'); showTab('home'); toast('已退出管理后台'); }
+  function adminLogout() { sessionStorage.removeItem('adminToken'); ADMIN_TOKEN = ''; showView('auth'); toast('已退出管理后台'); }
   function renderAdminList(body, d) {
     const s = d.stats;
     let h = '<div class="admin-stats">' +
@@ -509,7 +509,7 @@
 
   // ---------- 管理入口 ----------
   $('btnAdmin').onclick = () => { showView('admin'); renderAdmin(); };
-  $('btnAdminBack').onclick = () => { sessionStorage.removeItem('adminToken'); ADMIN_TOKEN = ''; showView('main'); showTab('home'); };
+  $('btnAdminBack').onclick = () => { sessionStorage.removeItem('adminToken'); ADMIN_TOKEN = ''; showView('auth'); };
 
   // ---------- 启动 ----------
   bindAuth();
