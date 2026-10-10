@@ -163,6 +163,16 @@
       return natural || voices[0];
     } catch (e) { return null; }
   }
+  // 语音包异步加载完成后强制刷新为优选女声，避免首段发音临时用了默认语音造成两种声音叠加
+  function refreshVoice() {
+    cachedVoice = null;
+    const v = pickVoice();
+    if (v) cachedVoice = v;
+  }
+  if ('speechSynthesis' in window) {
+    window.speechSynthesis.onvoiceschanged = refreshVoice;
+    refreshVoice();
+  }
   function speak(text) {
     if (!('speechSynthesis' in window)) return;
     window.speechSynthesis.cancel();
