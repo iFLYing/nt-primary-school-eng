@@ -170,8 +170,9 @@
     if (!cachedVoice) { const v = pickVoice(); if (v) cachedVoice = v; }
     if (cachedVoice) u.voice = cachedVoice;
     u.lang = cachedVoice ? cachedVoice.lang : 'en-US';
-    u.rate = 0.9;
+    u.rate = 0.75;
     u.pitch = 1;
+    u.volume = 1;
     window.speechSynthesis.speak(u);
   }
 

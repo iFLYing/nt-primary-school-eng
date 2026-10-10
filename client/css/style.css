@@ -200,7 +200,10 @@ body {
 .mem-front, .mem-back { position: absolute; inset: 0; backface-visibility: hidden; border-radius: 12px; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 16px; }
 .mem-front { background: var(--primary); color: #fff; font-size: 26px; }
 .mem-back { background: var(--card); border: 2px solid var(--line); color: var(--ink); transform: rotateY(180deg); word-break: break-word; padding: 4px; }
-.mem-card.done { opacity: 0; pointer-events: none; }
+.mem-card.done { pointer-events: none; }
+.mem-card.done .mem-inner { transform: rotateY(180deg); }
+.mem-card.done .mem-back { border-color: var(--green); background: #E8F5E9; color: var(--green); box-shadow: 0 0 0 2px var(--green); }
+.mem-card.done .mem-back::after { content: ' ✓'; font-weight: 700; }
 
 /* 连连看 */
 .mm-grid { display: flex; gap: 16px; }
