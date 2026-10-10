@@ -509,7 +509,7 @@
 
   // ---------- 管理入口 ----------
   $('btnAdmin').onclick = () => { showView('admin'); renderAdmin(); };
-  $('btnAdminBack').onclick = () => { showView('main'); showTab('home'); };
+  $('btnAdminBack').onclick = () => { sessionStorage.removeItem('adminToken'); ADMIN_TOKEN = ''; showView('main'); showTab('home'); };
 
   // ---------- 启动 ----------
   bindAuth();
