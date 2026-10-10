@@ -89,6 +89,11 @@
     GUEST = true; TOKEN = ''; USER = null; PROGRESS = null;
     showView('main'); showTab('home');
     applyGuestUI();
+    loadGuestWords();   // 游客也要加载词汇，否则游戏无数据无法开始
+  }
+  async function loadGuestWords() {
+    try { const d = await api('/vocab-all'); QuizUtils.setWords(d.list); }
+    catch (e) { toast('词汇加载失败，请重试'); }
   }
   function applyGuestUI() {
     // 顶部：隐藏打卡

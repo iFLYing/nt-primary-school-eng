@@ -59,6 +59,7 @@
           '<button class="btn btn-primary" id="wbOk">确定</button>' +
         '</div>' +
         '<div class="game-progress">第 ' + (idx + 1) + ' / ' + ROUND + ' 题 · 得分 ' + score + '</div>';
+      body.innerHTML = '';
       body.appendChild(h);
       $('wbSpeak').onclick = () => speak(cur.w);
       const slot = $('wbSlot');
@@ -120,7 +121,7 @@
         if (!ok) c.textContent = cur.w[i];
       });
       $('gameInfo').textContent = ok ? '✓ 拼对了！' : '✗ 正确拼写：' + cur.w;
-      setTimeout(next, ok ? 900 : 1600);
+      setTimeout(next, ok ? 2000 : 3000);
     }
     function next() {
       idx++;
